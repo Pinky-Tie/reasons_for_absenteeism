@@ -1,0 +1,801 @@
+ID;Reason for absence;Month of absence;Day of the week;Seasons;Days since previous absence;Transportation expense;Distance from Residence to Work;Estimated commute time;Service time;Years until retirement;Date of Birth;Disciplinary failure;Education;Number of children;Social drinker;Social smoker;Number of pets;Weight;Height;Body mass index;Absenteeism time in hours
+11;Unjustified absence;July;Tuesday;Summer;0.0;289;36;69;13;32;1992-08-15;No;1;2;Y;No;1;90;172;30;4
+36;Unspecified;July;Tuesday;;0.0;118;13;26;18;15;1975-09-02;Yes;1;1;Y;No;0;98;178;31;0
+3;Medical consultation;July;Wednesday;Summer;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+7;Diseases of the eye and adnexa;July;Thursday;;0.0;279;5;5;14;26;1986-07-25;No;1;2;Yes;Yes;0;68;168;24;4
+11;Medical consultation;July;Thursday;Summer;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;2
+3;Medical consultation;July;Friday;Summer;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+10;Patient follow-up;July;Friday;Summer;;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;8
+20;Medical consultation;July;Friday;Summer;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;4
+14;Injury, poisoning and other consequences of external causes;July;Monday;Summer;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;-;196;25;40
+1;Patient follow-up;July;Monday;;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;8
+20;Certain infectious and parasitic diseases;July;Monday;Summer;0.0;260;50;94;11;29;1989-02-20;No;1;4;Y;No;0;65;168;23;8
+20;;;;;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;8
+20;Certain infectious and parasitic diseases;July;Saturday;Summer;0.0;260;50;94;11;29;1989-02-20;No;1;4;Y;No;0;65;168;23;8
+20;;;;;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;8
+20;Diseases of the digestive system;July;Wednesday;Summer;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;8
+3;Diseases of the digestive system;July;Wednesday;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;1
+3;;;;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;1
+3;Medical consultation;July;Wednesday;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;4
+24;Diseases of the genitourinary system;July;Friday;Summer;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;8
+3;Medical consultation;July;Friday;Summer;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;2
+3;Factors influencing health status and contact with health services;July;Monday;Summer;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;-;170;31;8
+6;Diseases of the digestive system;July;Thursday;Summer;0.0;189;29;56;13;32;1992-05-24;No;1;2;No;No;2;69;167;25;8
+33;Medical consultation;August;Wednesday;Summer;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;2
+18;Diseases of the respiratory system;August;Wednesday;Summer;0.0;330;16;34;4;37;1997-01-19;No;2;0;No;No;0;84;182;25;8
+3;Diseases of the digestive system;August;Monday;Summer;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;1
+10;Diseases of the musculoskeletal system and connective tissue;August;Monday;Summer;0.0;361;52;114;3;-1;1997-07-08;No;1;1;Y;No;4;80;172;27;40
+20;Dental consultation;August;Friday;Summer;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;4
+11;Symptoms, signs and abnormal clinical and laboratory findings;August;Monday;;0.0;289;36;69;13;-1;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+10;Laboratory examination;August;Monday;Summer;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;7
+10;;;;;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;7
+11;Medical consultation;August;Tuesday;Summer;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;1
+30;Dental consultation;August;Wednesday;Summer;0.0;157;27;45;6;36;1996-05-22;No;1;0;Yes;Yes;0;-;185;22;4
+11;Symptoms, signs and abnormal clinical and laboratory findings;August;Wednesday;;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+3;Medical consultation;August;Friday;Summer;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;2
+3;Symptoms, signs and abnormal clinical and laboratory findings;August;Monday;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;8
+2;Symptoms, signs and abnormal clinical and laboratory findings;August;Thursday;Summer;0.0;235;29;59;12;17;1977-04-28;No;1;1;No;Yes;5;88;163;33;8
+1;Medical consultation;August;Thursday;Summer;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;4
+2;Symptoms, signs and abnormal clinical and laboratory findings;August;Monday;Summer;0.0;235;29;59;12;17;1977-04-28;No;1;1;No;Yes;5;88;163;33;8
+3;Medical consultation;August;Monday;Summer;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+10;Medical consultation;August;Monday;Summer;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;1
+11;Blood donation;August;Tuesday;Summer;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+19;Diseases of the digestive system;August;Thursday;Summer;0.0;291;50;97;12;33;1993-04-25;No;1;0;Y;No;0;65;169;23;4
+2;Dental consultation;August;Friday;;0.0;235;29;59;12;17;1977-04-28;No;1;1;No;Yes;5;88;163;33;8
+20;Medical consultation;August;Friday;Summer;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;4
+27;Medical consultation;September;Tuesday;Summer;0.0;184;42;81;7;38;1998-12-19;No;1;0;No;No;0;58;167;21;2
+34;Medical consultation;September;Monday;Summer;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;4
+3;Medical consultation;September;Tuesday;Summer;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;4
+5;Injury, poisoning and other consequences of external causes;September;Tuesday;;0.0;235;20;38;-;22;1982-06-19;No;1;1;Yes;No;0;106;167;38;8
+14;Medical consultation;September;Wednesday;Summer;0.0;155;12;28;14;31;1991-09-10;No;1;2;Y;No;0;95;196;25;2
+14;;;;;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;2
+34;Medical consultation;September;Monday;Summer;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;-;172;28;3
+3;Medical consultation;September;Tuesday;Summer;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+15;Medical consultation;September;Thursday;Summer;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;4
+20;Patient follow-up;September;Friday;Summer;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;-;168;23;8
+15;Diseases of the genitourinary system;September;Monday;Spring;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;32
+20;Unspecified;September;Monday;Spring;0.0;260;50;94;11;29;1989-02-20;Yes;1;4;Y;No;0;65;168;23;0
+29;Unspecified;September;Monday;Spring;0.0;225;26;48;9;37;1997-01-01;Yes;1;1;No;No;2;69;169;24;0
+28;Medical consultation;September;Tuesday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+34;Medical consultation;September;Tuesday;Spring;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;2
+11;Unspecified;September;Tuesday;Spring;0.0;289;36;69;13;32;1992-08-15;Yes;1;2;Yes;No;1;90;172;30;0
+36;Unspecified;September;Tuesday;Spring;0.0;118;13;26;18;15;1975-09-02;Yes;1;1;Yes;No;0;98;178;31;0
+28;Symptoms, signs and abnormal clinical and laboratory findings;September;Wednesday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+3;Medical consultation;September;Wednesday;Spring;0.0;179;51;108;-;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+13;Unspecified;September;Wednesday;Spring;0.0;369;17;28;12;34;1994-06-26;Yes;1;3;Yes;No;0;70;169;25;0
+33;Medical consultation;September;Friday;Spring;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;1
+3;Medical consultation;September;Friday;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;3
+20;Medical consultation;September;Friday;Spring;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;4
+3;Medical consultation;October;Tuesday;Spring;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+3;;;;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;3
+34;Medical consultation;October;Tuesday;Spring;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;3
+36;Unspecified;October;Wednesday;Spring;0.0;118;13;26;18;15;1975-09-02;Yes;1;1;Yes;No;0;98;178;31;0
+22;Medical consultation;October;Thursday;Spring;;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;1
+3;Medical consultation;October;Friday;Spring;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+28;Medical consultation;October;Friday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+34;Medical consultation;October;Tuesday;Spring;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;3
+28;Medical consultation;October;Wednesday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+33;Medical consultation;October;Wednesday;Spring;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;2
+15;Medical consultation;October;Thursday;Spring;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;5
+3;Medical consultation;October;Wednesday;Spring;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;8
+28;Medical consultation;October;Wednesday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+20;Injury, poisoning and other consequences of external causes;October;Thursday;;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;16
+20;;;;;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;16
+15;Diseases of the genitourinary system;October;Tuesday;;0.0;291;31;54;12;25;1985-05-20;No;1;1;Y;No;1;73;171;25;8
+15;;;;;0.0;291;31;54;12;25;1985-05-20;No;1;1;Y;No;1;73;171;25;8
+28;Dental consultation;October;Tuesday;Spring;0.0;225;26;50;9;-1;1997-08-03;No;1;1;No;No;2;69;169;24;2
+11;Unjustified absence;October;Wednesday;Spring;0.0;289;36;69;13;32;1992-08-15;No;1;2;Y;No;1;90;172;30;8
+10;Medical consultation;October;Friday;;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;1
+20;Dental consultation;October;Friday;Spring;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;3
+3;Medical consultation;November;Thursday;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;1
+28;Medical consultation;November;Wednesday;;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;1
+3;Diseases of the musculoskeletal system and connective tissue;November;Thursday;Spring;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;8
+17;Factors influencing health status and contact with health services;November;Thursday;;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;8
+15;Medical consultation;November;Thursday;Spring;0.0;291;31;54;12;-1;1985-05-20;No;1;1;Yes;No;1;73;171;25;5
+14;Diseases of the respiratory system;November;Monday;;0.0;155;12;28;14;31;1991-09-10;No;1;2;Y;No;0;95;196;25;32
+6;Patient follow-up;November;Monday;Spring;0.0;189;29;56;13;32;1992-05-24;No;1;2;No;No;2;69;167;25;8
+15;Diseases of the genitourinary system;November;Monday;Spring;0.0;291;31;54;-;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;40
+28;Medical consultation;November;Wednesday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;-;169;24;1
+14;Diseases of the nervous system;November;Friday;Spring;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;8
+28;Medical consultation;November;Wednesday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+17;Factors influencing health status and contact with health services;November;Wednesday;Spring;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;8
+28;Diseases of the musculoskeletal system and connective tissue;November;Friday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+20;Dental consultation;November;Friday;Spring;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;4
+33;Dental consultation;November;Monday;Spring;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;1
+28;Dental consultation;November;Tuesday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+11;Diseases of the eye and adnexa;November;Wednesday;Spring;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;-;172;30;24
+15;Medical consultation;November;Thursday;Spring;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;3
+33;Medical consultation;December;Tuesday;Spring;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;1
+34;Injury, poisoning and other consequences of external causes;December;Tuesday;;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;64
+36;Medical consultation;December;Wednesday;Spring;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;98;178;31;2
+1;Unjustified absence;December;Wednesday;;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;-;172;29;8
+28;Medical consultation;December;Thursday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;-;169;24;2
+20;Unjustified absence;December;Friday;;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;8
+34;Injury, poisoning and other consequences of external causes;December;Tuesday;Spring;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;56
+10;Patient follow-up;December;Wednesday;;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;8
+28;Dental consultation;December;Thursday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+20;Dental consultation;December;Friday;Spring;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;3
+28;Medical consultation;December;Tuesday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+10;Patient follow-up;December;Wednesday;;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;8
+34;Physiotherapy;December;Friday;Spring;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;2
+24;Injury, poisoning and other consequences of external causes;December;Friday;Autumn;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;8
+28;Medical consultation;December;Friday;;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+28;Medical consultation;January;Wednesday;;0.0;225;26;50;-;37;1997-08-03;No;1;1;No;No;2;69;169;24;1
+34;Injury, poisoning and other consequences of external causes;January;Monday;;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;1
+34;Physiotherapy;January;Tuesday;Autumn;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;1
+34;;;;;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;1
+14;Symptoms, signs and abnormal clinical and laboratory findings;January;Tuesday;Autumn;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;8
+28;Physiotherapy;January;Wednesday;Autumn;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+27;Medical consultation;January;Thursday;Autumn;0.0;184;42;81;7;38;1998-12-19;No;1;0;No;No;0;58;167;21;2
+28;Dental consultation;January;Thursday;Autumn;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+28;Physiotherapy;January;Friday;Autumn;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;1
+28;;;;;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;1
+34;Physiotherapy;January;Monday;Autumn;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;2
+28;Physiotherapy;January;Tuesday;;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+34;Physiotherapy;January;Tuesday;Autumn;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;2
+34;Physiotherapy;January;Wednesday;;0.0;118;10;22;10;-1;1988-05-10;No;1;0;No;No;0;83;172;28;2
+34;Physiotherapy;January;Thursday;Autumn;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;-;172;28;2
+34;Physiotherapy;January;Friday;;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;2
+34;Physiotherapy;January;Monday;Autumn;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;2
+34;Physiotherapy;January;Tuesday;Autumn;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;2
+22;Symptoms, signs and abnormal clinical and laboratory findings;January;Tuesday;Autumn;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;8
+11;Symptoms, signs and abnormal clinical and laboratory findings;January;Tuesday;Autumn;0.0;289;36;69;13;-1;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+34;Physiotherapy;January;Wednesday;Autumn;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;-;172;28;2
+34;;;;;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;-;172;28;2
+27;Medical consultation;January;Thursday;;0.0;184;42;81;7;38;1998-12-19;No;1;0;No;No;0;58;167;21;2
+34;Physiotherapy;January;Thursday;Autumn;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;2
+34;Physiotherapy;January;Monday;;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;-;172;28;0
+28;Medical consultation;January;Tuesday;Autumn;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;1
+11;Patient follow-up;January;Thursday;Autumn;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;3
+27;Medical consultation;February;Friday;Autumn;0.0;184;42;81;7;38;1998-12-19;No;1;0;No;No;0;58;167;21;1
+24;Certain infectious and parasitic diseases;February;Wednesday;Autumn;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;8
+3;Diseases of the digestive system;February;Wednesday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;8
+14;Dental consultation;February;Thursday;;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;2
+6;Medical consultation;February;Thursday;Autumn;0.0;189;29;56;13;32;1992-05-24;No;1;2;No;No;2;-;167;25;8
+20;Dental consultation;February;Friday;Autumn;0.0;260;50;94;11;29;1989-02-20;No;1;4;Y;No;0;65;168;23;2
+20;;;;;0.0;260;50;94;11;29;1989-02-20;No;1;4;Y;No;0;65;168;23;2
+11;Patient follow-up;February;Friday;;0.0;289;36;69;13;-1;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+31;Diseases of the digestive system;February;Monday;Autumn;;388;15;31;9;15;1975-06-07;No;1;0;No;No;0;-;178;24;8
+31;Certain infectious and parasitic diseases;February;Tuesday;Autumn;0.0;388;15;31;9;15;1975-06-07;No;1;0;No;No;0;76;178;24;8
+28;Dental consultation;February;Monday;Autumn;0.0;225;26;50;9;-1;1997-08-03;No;1;1;No;No;2;69;169;24;2
+28;Medical consultation;February;Tuesday;;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+22;Medical consultation;February;Tuesday;Autumn;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;1
+27;Medical consultation;February;Tuesday;Autumn;0.0;184;42;81;7;38;1998-12-19;No;1;0;No;No;0;58;167;21;8
+28;Laboratory examination;February;Thursday;Autumn;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+18;Symptoms, signs and abnormal clinical and laboratory findings;February;Monday;Autumn;0.0;330;16;34;4;37;1997-01-19;No;2;0;No;No;0;84;182;25;8
+18;Medical consultation;February;Tuesday;Autumn;0.0;330;16;34;4;37;1997-01-19;No;2;0;No;No;0;84;182;25;1
+28;Medical consultation;February;Wednesday;Autumn;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;1
+6;Injury, poisoning and other consequences of external causes;February;Thursday;Autumn;0.0;189;29;56;13;32;1992-05-24;No;1;2;No;No;2;69;167;25;8
+19;Dental consultation;March;Tuesday;Autumn;0.0;291;50;97;12;33;1993-04-25;No;1;0;Y;No;0;-;169;23;2
+20;Injury, poisoning and other consequences of external causes;March;Tuesday;Autumn;0.0;260;50;94;11;29;1989-02-20;No;1;4;Y;No;0;65;168;23;8
+30;Injury, poisoning and other consequences of external causes;March;Tuesday;Autumn;0.0;157;27;45;6;-1;1996-05-22;No;1;0;Yes;Yes;0;75;185;22;3
+17;Congenital malformations, deformations and chromosomal abnormalities;March;Tuesday;Autumn;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;8
+15;Patient follow-up;March;Wednesday;Autumn;0.0;291;31;54;12;25;1985-05-20;No;1;1;Y;No;1;73;171;25;8
+20;Diseases of the musculoskeletal system and connective tissue;March;Wednesday;;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;8
+22;Diseases of the musculoskeletal system and connective tissue;March;Thursday;Autumn;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;8
+33;Diseases of the genitourinary system;March;Friday;;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;3
+33;;;;;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;3
+20;Diseases of the musculoskeletal system and connective tissue;March;Friday;Autumn;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;40
+17;Diseases of the digestive system;March;Monday;;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;40
+14;Certain infectious and parasitic diseases;March;Monday;Autumn;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;16
+20;Unjustified absence;March;Monday;Autumn;0.0;260;50;94;11;29;1989-02-20;No;1;4;Y;No;0;-;168;23;16
+14;Diseases of the musculoskeletal system and connective tissue;March;Tuesday;;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;8
+11;Diseases of the nervous system;March;Thursday;Autumn;0.0;289;36;69;13;-1;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+17;Diseases of the ear and mastoid process;March;Thursday;Autumn;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;8
+17;;;;;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;8
+20;Dental consultation;March;Friday;;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;4
+28;Medical consultation;March;Friday;Autumn;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;1
+7;Diseases of the genitourinary system;March;Monday;Autumn;0.0;279;5;5;14;-1;1986-07-25;No;1;2;Yes;Yes;0;-;168;24;8
+3;Diseases of the musculoskeletal system and connective tissue;March;Tuesday;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;24
+28;Medical consultation;March;Wednesday;Autumn;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+28;Diseases of the digestive system;March;Monday;Winter;0.0;225;26;50;9;-1;1997-08-03;No;1;1;No;No;2;69;169;24;8
+22;Diseases of the musculoskeletal system and connective tissue;March;Monday;;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;1
+28;Diseases of the digestive system;March;Tuesday;Winter;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;8
+28;Diseases of the digestive system;March;Wednesday;Winter;0.0;225;26;50;9;-1;1997-08-03;No;1;1;No;No;2;69;169;24;16
+3;Diseases of the musculoskeletal system and connective tissue;March;Wednesday;;;179;51;108;-;-1;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+7;Diseases of the genitourinary system;March;Thursday;;0.0;279;5;5;14;26;1986-07-25;No;1;2;Yes;Yes;0;68;168;24;16
+28;Dental consultation;March;Friday;Winter;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+33;Diseases of the genitourinary system;March;Friday;Winter;0.0;248;25;42;14;-1;1978-02-16;No;1;2;No;No;1;86;165;32;3
+28;Dental consultation;March;Monday;;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;1
+28;;;;;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;1
+15;Dental consultation;April;Wednesday;Winter;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;1
+28;Medical consultation;April;Wednesday;Winter;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;1
+14;Dental consultation;April;Tuesday;;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;1
+24;Diseases of the musculoskeletal system and connective tissue;April;Wednesday;Winter;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;24
+14;Medical consultation;April;Thursday;Winter;0.0;155;12;28;14;31;1991-09-10;No;1;2;Y;No;0;-;196;25;1
+28;Dental consultation;April;Friday;Winter;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+20;Dental consultation;April;Friday;Winter;0.0;260;50;94;11;-1;1989-02-20;No;1;4;Y;No;0;65;168;23;4
+3;Diseases of the musculoskeletal system and connective tissue;April;Wednesday;Winter;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;24
+36;Medical consultation;April;Thursday;;0.0;118;13;26;18;-1;1975-09-02;No;1;1;Yes;No;0;98;178;31;1
+15;Medical consultation;April;Friday;Winter;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;3
+24;Diseases of the genitourinary system;April;Friday;Winter;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;-;170;23;8
+15;Dental consultation;April;Friday;Winter;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;1
+33;Dental consultation;April;Friday;Winter;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;8
+20;Injury, poisoning and other consequences of external causes;April;Friday;Winter;0.0;260;50;94;11;29;1989-02-20;No;1;4;Y;No;0;-;168;23;56
+11;Injury, poisoning and other consequences of external causes;April;Tuesday;Winter;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;-;172;30;8
+14;Diseases of the skin and subcutaneous tissue;April;Wednesday;;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;24
+23;Injury, poisoning and other consequences of external causes;April;Wednesday;Winter;0.0;378;49;98;11;29;1989-02-10;No;1;2;No;Yes;4;65;174;21;8
+11;Diseases of the musculoskeletal system and connective tissue;April;Thursday;;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;16
+1;Diseases of the eye and adnexa;April;Friday;Winter;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;3
+2;Unspecified;April;Monday;;0.0;235;29;59;12;17;1977-04-28;Yes;1;1;No;Yes;5;88;163;33;0
+11;Diseases of the musculoskeletal system and connective tissue;May;Wednesday;Winter;0.0;289;36;69;13;-1;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+14;Dental consultation;May;Thursday;Winter;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;-;196;25;2
+14;Dental consultation;May;Monday;Winter;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;1
+3;Symptoms, signs and abnormal clinical and laboratory findings;May;Tuesday;Winter;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;8
+28;Injury, poisoning and other consequences of external causes;May;Tuesday;Winter;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;8
+27;Diseases of the eye and adnexa;May;Wednesday;Winter;0.0;184;42;81;7;38;1998-12-19;No;1;0;No;No;0;58;167;21;4
+14;Dental consultation;May;Monday;;0.0;155;12;28;14;-1;1991-09-10;No;1;2;Yes;No;0;95;196;25;2
+3;Diseases of the skin and subcutaneous tissue;May;Tuesday;Winter;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;1
+11;Diseases of the musculoskeletal system and connective tissue;May;Wednesday;;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;24
+7;Unspecified;May;Wednesday;Winter;0.0;279;5;5;14;26;1986-07-25;Yes;1;2;Yes;Yes;0;68;168;24;0
+18;Unspecified;May;Wednesday;Winter;0.0;330;16;34;4;37;1997-01-19;Yes;2;0;No;No;0;84;182;25;0
+23;Unspecified;May;Wednesday;Winter;0.0;378;49;98;11;29;1989-02-10;Yes;1;2;No;Yes;4;-;174;21;0
+31;Unspecified;May;Wednesday;;0.0;388;15;31;-;15;1975-06-07;Yes;1;0;No;No;0;76;178;24;0
+3;Diseases of the digestive system;May;Tuesday;Winter;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;1
+36;Diseases of the musculoskeletal system and connective tissue;May;Wednesday;Winter;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;98;178;31;24
+10;Patient follow-up;May;Friday;Winter;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;8
+24;Injury, poisoning and other consequences of external causes;June;Monday;Winter;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;8
+10;Patient follow-up;June;Monday;Winter;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;8
+24;Diseases of the respiratory system;June;Tuesday;Winter;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;24
+15;Medical consultation;June;Thursday;;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;4
+24;Diseases of the respiratory system;June;Friday;Winter;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;8
+3;Diseases of the digestive system;June;Monday;Winter;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;8
+14;Medical consultation;June;Monday;Winter;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;4
+24;Diseases of the respiratory system;June;Monday;;0.0;246;25;52;16;24;1984-10-01;No;1;0;Y;No;0;67;170;23;8
+36;Diseases of the musculoskeletal system and connective tissue;June;Wednesday;Winter;0.0;118;13;26;-;15;1975-09-02;No;1;1;Yes;No;0;98;178;31;8
+1;Diseases of the musculoskeletal system and connective tissue;June;Friday;Winter;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;16
+36;Medical consultation;June;Tuesday;Winter;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;98;178;31;1
+36;Diseases of the musculoskeletal system and connective tissue;June;Wednesday;Winter;0.0;118;13;26;18;15;1975-09-02;No;1;1;Y;No;0;-;178;31;80
+36;;;;;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;-;178;31;80
+23;Patient follow-up;June;Thursday;Winter;0.0;378;49;98;11;29;1989-02-10;No;1;2;No;Yes;4;65;174;21;8
+3;Diseases of the digestive system;June;Friday;Winter;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;2
+3;;;;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+32;Dental consultation;June;Monday;;0.0;289;48;94;29;16;1976-09-21;No;1;0;No;No;2;-;172;36;2
+28;Dental consultation;June;Thursday;;0.0;225;26;50;9;-1;1997-08-03;No;1;1;No;No;2;69;169;24;2
+14;Injury, poisoning and other consequences of external causes;July;Tuesday;Summer;;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;16
+36;Certain infectious and parasitic diseases;July;Wednesday;;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;98;178;31;8
+34;Mental and behavioural disorders;July;Friday;;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;8
+34;Unjustified absence;July;Friday;Summer;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;4
+18;Unjustified absence;July;Tuesday;Summer;0.0;330;16;34;4;37;1997-01-19;No;2;0;No;No;0;84;182;25;8
+22;Symptoms, signs and abnormal clinical and laboratory findings;July;Thursday;;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;8
+14;Laboratory examination;July;Friday;;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;2
+18;Certain infectious and parasitic diseases;July;Monday;Summer;0.0;330;16;34;4;37;1997-01-19;No;2;0;No;No;0;84;182;25;8
+18;Certain infectious and parasitic diseases;July;Tuesday;Summer;0.0;330;16;34;4;37;1997-01-19;No;2;0;No;No;0;84;182;25;8
+30;Laboratory examination;July;Monday;;0.0;157;27;45;6;36;1996-05-22;No;1;0;Yes;Yes;0;-;185;22;3
+10;Patient follow-up;July;Tuesday;Summer;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;8
+11;Unjustified absence;July;Wednesday;;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+3;Unjustified absence;July;Thursday;Summer;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;8
+11;Injury, poisoning and other consequences of external causes;July;Monday;Summer;;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;32
+11;Injury, poisoning and other consequences of external causes;July;Thursday;Summer;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;-;172;30;8
+20;Unspecified;July;Thursday;Summer;0.0;260;50;94;11;29;1989-02-20;Yes;1;4;Yes;No;0;65;168;23;0
+20;;;;;0.0;260;50;94;11;29;1989-02-20;Yes;1;4;Yes;No;0;65;168;23;0
+11;Injury, poisoning and other consequences of external causes;August;Friday;Summer;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+30;Injury, poisoning and other consequences of external causes;August;Friday;Summer;0.0;157;27;45;6;36;1996-05-22;No;1;0;Yes;Yes;0;75;185;22;3
+11;Medical consultation;August;Monday;;0.0;289;36;69;13;32;1992-08-15;No;1;2;Y;No;1;-;172;30;1
+9;Symptoms, signs and abnormal clinical and laboratory findings;August;Tuesday;Summer;0.0;228;14;19;16;7;1967-11-02;No;1;2;No;No;1;65;172;22;8
+26;Diseases of the musculoskeletal system and connective tissue;August;Thursday;Summer;0.0;300;26;50;13;22;1982-08-04;No;1;2;Yes;Yes;1;-;175;25;1
+26;Diseases of the genitourinary system;August;Thursday;Summer;0.0;300;26;50;13;22;1982-08-04;No;1;2;Yes;Yes;1;77;175;25;2
+20;Dental consultation;August;Friday;;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;4
+11;Medical consultation;August;Tuesday;Summer;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;4
+11;;;;;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;4
+33;Medical consultation;August;Wednesday;Summer;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;1
+21;Diseases of the digestive system;August;Thursday;Summer;0.0;268;11;22;8;32;1992-04-20;No;2;0;No;No;0;79;178;25;8
+22;Medical consultation;August;Thursday;Summer;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;1
+36;Diseases of the musculoskeletal system and connective tissue;August;Thursday;;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;98;178;31;3
+33;Laboratory examination;August;Monday;Summer;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;2
+1;Medical consultation;August;Tuesday;Summer;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;1
+36;Medical consultation;August;Thursday;;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;98;178;31;1
+1;Injury, poisoning and other consequences of external causes;August;Thursday;Summer;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;8
+10;Diseases of the ear and mastoid process;August;Tuesday;;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;8
+27;Diseases of the nervous system;August;Wednesday;Summer;0.0;184;42;81;7;38;1998-12-19;No;1;0;No;No;0;58;167;21;8
+3;Diseases of the digestive system;September;Monday;Summer;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;8
+3;Medical consultation;September;Friday;Summer;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;3
+11;Injury, poisoning and other consequences of external causes;September;Wednesday;Summer;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;24
+11;;;;;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;24
+5;Unspecified;September;Thursday;Summer;0.0;235;20;38;13;22;1982-06-19;Yes;1;1;Yes;No;0;106;167;38;0
+24;Diseases of the circulatory system;September;Monday;Summer;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;16
+24;;;;;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;16
+15;Dental consultation;September;Tuesday;Summer;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;3
+8;Unspecified;September;Tuesday;Summer;0.0;231;35;63;14;26;1986-09-13;Yes;1;2;Yes;No;2;100;170;35;0
+19;Unspecified;September;Tuesday;Summer;0.0;291;50;97;12;33;1993-04-25;Yes;1;0;Yes;No;0;65;169;23;0
+3;Diseases of the musculoskeletal system and connective tissue;September;Wednesday;Summer;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;8
+24;Diseases of the circulatory system;September;Wednesday;;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;32
+24;;;;;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;32
+3;Medical consultation;September;Thursday;Summer;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;1
+15;Dental consultation;September;Friday;Summer;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;4
+20;Dental consultation;September;Friday;;0.0;260;50;94;11;-1;1989-02-20;No;1;4;Yes;No;0;65;168;23;4
+5;Unjustified absence;September;Wednesday;Spring;0.0;235;20;38;13;22;1982-06-19;No;1;1;Yes;No;0;106;167;38;8
+5;;;;;0.0;235;20;38;13;22;1982-06-19;No;1;1;Yes;No;0;106;167;38;8
+36;Dental consultation;September;Thursday;Spring;0.0;118;13;26;-;15;1975-09-02;No;1;1;Y;No;0;98;178;31;1
+5;Unspecified;September;Thursday;;0.0;235;20;38;13;22;1982-06-19;Yes;1;1;Yes;No;0;106;167;38;0
+15;Dental consultation;September;Friday;Spring;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;3
+15;Diseases of the eye and adnexa;September;Monday;Spring;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;40
+3;Diseases of the musculoskeletal system and connective tissue;September;Monday;Spring;0.0;179;51;108;18;-1;1987-04-08;No;1;0;Yes;No;0;89;170;31;8
+11;Blood donation;October;Monday;;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+1;Unjustified absence;October;Monday;Spring;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;4
+11;Unjustified absence;October;Monday;Spring;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+11;Patient follow-up;October;Friday;Spring;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+36;Unspecified;October;Friday;Spring;0.0;118;13;26;18;15;1975-09-02;Yes;1;1;Y;No;0;98;178;31;0
+33;Unspecified;October;Friday;Spring;0.0;248;25;42;14;18;1978-02-16;Yes;1;2;No;No;1;86;165;32;0
+22;Certain infectious and parasitic diseases;October;Monday;;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;8
+34;Diseases of the eye and adnexa;October;Monday;Spring;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;3
+13;Patient follow-up;October;Monday;Spring;0.0;369;17;28;12;34;1994-06-26;No;1;3;Y;No;0;70;169;25;8
+3;Dental consultation;October;Wednesday;Spring;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;1
+22;Certain infectious and parasitic diseases;October;Wednesday;Spring;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;64
+5;Unspecified;October;Wednesday;;0.0;235;20;38;13;22;1982-06-19;Yes;1;1;Yes;No;0;106;167;38;0
+11;Injury, poisoning and other consequences of external causes;October;Thursday;Spring;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;16
+20;Dental consultation;October;Friday;;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;3
+5;Unspecified;October;Friday;;0.0;235;20;38;13;22;1982-06-19;Yes;1;1;Y;No;0;106;167;38;0
+5;Medical consultation;October;Monday;Spring;0.0;235;20;38;13;22;1982-06-19;No;1;1;Yes;No;0;106;167;38;2
+5;Medical consultation;October;Monday;Spring;0.0;235;20;38;13;22;1982-06-19;No;1;1;Yes;No;0;106;167;38;2
+36;Dental consultation;October;Tuesday;Spring;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;98;178;31;1
+15;Dental consultation;October;Tuesday;Spring;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;4
+22;Medical consultation;October;Thursday;Spring;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;-;171;19;16
+36;Dental consultation;October;Thursday;Spring;0.0;118;13;26;18;15;1975-09-02;No;1;1;Y;No;0;98;178;31;1
+10;Diseases of the respiratory system;October;Monday;Spring;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;8
+20;Unspecified;October;Tuesday;Spring;0.0;260;50;94;11;29;1989-02-20;Yes;1;4;Y;No;0;65;168;23;0
+15;Unspecified;October;Tuesday;;0.0;291;31;54;-;25;1985-05-20;Yes;1;1;Yes;No;1;73;171;25;0
+30;Unspecified;October;Tuesday;Spring;0.0;157;27;45;6;36;1996-05-22;Yes;1;0;Yes;Yes;0;-;185;22;0
+22;Certain infectious and parasitic diseases;October;Wednesday;;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;5
+22;Diseases of the eye and adnexa;October;Wednesday;Spring;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;5
+36;Medical consultation;October;Thursday;;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;98;178;31;1
+34;Diseases of the digestive system;November;Monday;Spring;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;8
+33;Medical consultation;November;Monday;Spring;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;2
+3;Diseases of the nervous system;November;Tuesday;Spring;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;-;170;31;8
+20;Dental consultation;November;Friday;Spring;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;-;168;23;3
+20;;;;;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;-;168;23;3
+15;Medical consultation;November;Monday;Spring;0.0;291;31;54;12;25;1985-05-20;No;1;1;Y;No;1;73;171;25;1
+23;Certain infectious and parasitic diseases;November;Monday;;0.0;378;49;98;11;29;1989-02-10;No;1;2;No;Yes;4;-;174;21;8
+14;Diseases of the digestive system;November;Monday;Spring;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;120
+5;Unjustified absence;November;Monday;;0.0;235;20;38;13;22;1982-06-19;No;1;1;Yes;No;0;106;167;38;8
+18;Unspecified;November;Tuesday;Spring;0.0;330;16;34;4;37;1997-01-19;Yes;2;0;No;No;0;84;182;25;0
+1;Symptoms, signs and abnormal clinical and laboratory findings;November;Wednesday;Spring;0.0;235;11;20;-;28;1988-06-01;No;3;1;No;No;1;88;172;29;1
+34;Diseases of the digestive system;November;Wednesday;Spring;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;3
+1;Laboratory examination;November;Thursday;Spring;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;2
+3;Dental consultation;November;Thursday;Spring;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+24;Diseases of the musculoskeletal system and connective tissue;November;Friday;;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;8
+15;Diseases of the skin and subcutaneous tissue;November;Friday;Spring;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;4
+24;Diseases of the musculoskeletal system and connective tissue;November;Monday;Spring;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;8
+3;Dental consultation;November;Tuesday;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;1
+20;Diseases of the respiratory system;November;Wednesday;Spring;0.0;260;50;94;11;-1;1989-02-20;No;1;4;Yes;No;0;-;168;23;8
+20;Pregnancy, childbirth and the puerperium;November;Friday;Spring;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;8
+23;Unspecified;November;Friday;;0.0;378;49;98;11;29;1989-02-10;Yes;1;2;No;Yes;4;65;174;21;0
+7;Unspecified;November;Tuesday;;0.0;279;5;5;14;26;1986-07-25;Yes;1;2;Yes;Yes;0;68;168;24;0
+3;Medical consultation;November;Thursday;Spring;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;1
+28;Diseases of the skin and subcutaneous tissue;December;Monday;Spring;0.0;225;26;50;9;-1;1997-08-03;No;1;1;No;No;2;69;169;24;3
+3;Dental consultation;December;Monday;Spring;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+3;;;;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+3;Dental consultation;December;Monday;Spring;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;1
+1;Medical consultation;December;Monday;Spring;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;3
+36;Dental consultation;December;Tuesday;Spring;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;98;178;31;1
+20;Dental consultation;December;Friday;Spring;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;4
+20;;;;;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;4
+24;Endocrine, nutritional and metabolic diseases;December;Thursday;Spring;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;8
+3;Dental consultation;December;Thursday;Spring;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;1
+3;Dental consultation;December;Friday;Spring;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;1
+22;Medical consultation;December;Tuesday;Spring;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;1
+34;Laboratory examination;December;Tuesday;Spring;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;8
+1;Laboratory examination;December;Thursday;Spring;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;2
+3;Dental consultation;December;Friday;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;1
+5;Diseases of the musculoskeletal system and connective tissue;December;Tuesday;Autumn;0.0;235;20;38;13;22;1982-06-19;No;1;1;Y;No;0;106;167;38;8
+1;Diseases of the genitourinary system;December;Tuesday;Autumn;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;4
+20;Unjustified absence;December;Wednesday;Autumn;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;8
+30;Dental consultation;December;Monday;Autumn;;157;27;45;6;36;1996-05-22;No;1;0;Yes;Yes;0;75;185;22;2
+3;Dental consultation;December;Monday;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+11;Injury, poisoning and other consequences of external causes;December;Monday;Autumn;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+28;Medical consultation;January;Wednesday;Autumn;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;5
+34;Injury, poisoning and other consequences of external causes;January;Monday;Autumn;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;-;172;28;32
+14;Medical consultation;January;Monday;Autumn;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;2
+1;Diseases of the musculoskeletal system and connective tissue;January;Tuesday;Autumn;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;1
+1;;;;;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;1
+14;Medical consultation;January;Tuesday;Autumn;0.0;155;12;28;14;31;1991-09-10;No;1;2;Y;No;0;95;196;25;4
+11;Unjustified absence;January;Monday;Autumn;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+15;Diseases of the blood and blood-forming organs and immune mechanism;January;Wednesday;Autumn;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;8
+5;Unjustified absence;January;Monday;Autumn;0.0;235;20;38;13;22;1982-06-19;No;1;1;Yes;No;0;106;167;38;8
+36;Unjustified absence;January;Monday;Autumn;0.0;118;13;26;18;15;1975-09-02;No;1;1;Y;No;0;98;178;31;4
+3;Dental consultation;January;Wednesday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;1
+3;Dental consultation;January;Friday;Autumn;;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;1
+34;Dental consultation;February;Tuesday;Autumn;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;-;172;28;2
+3;Physiotherapy;February;Wednesday;;0.0;179;51;108;18;-1;1987-04-08;No;1;0;Yes;No;0;-;170;31;3
+28;Diseases of the eye and adnexa;February;Wednesday;Autumn;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;1
+11;Patient follow-up;February;Friday;Autumn;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;3
+20;Dental consultation;February;Friday;Autumn;0.0;260;50;94;11;29;1989-02-20;No;1;4;Y;No;0;65;168;23;3
+3;Medical consultation;February;Friday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+3;Physiotherapy;February;Monday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;2
+3;Physiotherapy;February;Wednesday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+3;Diseases of the respiratory system;February;Thursday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;-;170;31;8
+24;Unjustified absence;February;Thursday;Autumn;;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;8
+3;Physiotherapy;February;Friday;Autumn;;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+6;Patient follow-up;February;Monday;;0.0;189;29;56;13;32;1992-05-24;No;1;2;No;No;2;69;167;25;8
+3;Physiotherapy;February;Monday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+24;Medical consultation;February;Tuesday;;0.0;246;25;52;16;24;1984-10-01;No;1;0;Y;No;0;67;170;23;2
+15;Medical consultation;February;Tuesday;Autumn;0.0;291;31;54;12;25;1985-05-20;No;1;1;Y;No;1;73;171;25;2
+30;Diseases of the digestive system;February;Wednesday;Autumn;0.0;157;27;45;6;36;1996-05-22;No;1;0;Yes;Yes;0;75;185;22;16
+3;Physiotherapy;February;Wednesday;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+3;Physiotherapy;February;Friday;Autumn;0.0;179;51;108;18;-1;1987-04-08;No;1;0;Y;No;0;89;170;31;3
+24;Diseases of the respiratory system;February;Friday;Autumn;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;24
+3;Physiotherapy;February;Wednesday;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+3;Physiotherapy;February;Friday;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+34;Symptoms, signs and abnormal clinical and laboratory findings;March;Tuesday;Autumn;0.0;118;10;22;-;-1;1988-05-10;No;1;0;No;No;0;83;172;28;8
+24;Injury, poisoning and other consequences of external causes;March;Wednesday;Autumn;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;16
+24;Dental consultation;March;Friday;Autumn;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;2
+20;Dental consultation;March;Friday;Autumn;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;4
+3;Dental consultation;March;Monday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+1;Patient follow-up;March;Monday;;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;8
+17;Patient follow-up;March;Tuesday;Autumn;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;8
+23;Patient follow-up;March;Tuesday;Autumn;0.0;378;49;98;11;29;1989-02-10;No;1;2;No;Yes;4;65;174;21;8
+3;Dental consultation;March;Monday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;16
+10;Patient follow-up;March;Wednesday;Autumn;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;8
+13;Unspecified;March;Wednesday;;0.0;369;17;28;12;34;1994-06-26;Yes;1;3;Yes;No;0;70;169;25;0
+1;Factors influencing health status and contact with health services;March;Thursday;Autumn;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;8
+36;Medical consultation;March;Friday;;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;-;178;31;2
+36;;;;;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;-;178;31;2
+36;Diseases of the genitourinary system;March;Tuesday;;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;98;178;31;3
+36;Diseases of the musculoskeletal system and connective tissue;March;Wednesday;;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;-;178;31;8
+1;Unspecified;March;Thursday;Winter;0.0;235;11;20;14;28;1988-06-01;Yes;3;1;No;No;1;88;172;29;0
+24;Unspecified;March;Thursday;;;246;25;52;16;24;1984-10-01;Yes;1;0;Yes;No;0;67;170;23;0
+36;Unspecified;March;Thursday;Winter;0.0;118;13;26;18;15;1975-09-02;Yes;1;1;Yes;No;0;98;178;31;0
+3;Dental consultation;March;Friday;Winter;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;8
+11;Patient follow-up;March;Friday;Winter;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+20;Injury, poisoning and other consequences of external causes;March;Monday;;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;8
+24;Dental consultation;March;Tuesday;;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;2
+3;Dental consultation;April;Wednesday;Winter;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;4
+20;Dental consultation;April;Friday;;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;3
+20;;;;;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;3
+18;Unjustified absence;April;Friday;Winter;0.0;330;16;34;4;37;1997-01-19;No;2;0;No;No;0;84;182;25;4
+13;Patient follow-up;April;Monday;;0.0;369;17;28;-;34;1994-06-26;No;1;3;Yes;No;0;70;169;25;4
+33;Unjustified absence;April;Monday;Winter;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;4
+33;;;;;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;4
+18;Medical consultation;April;Wednesday;Winter;0.0;330;16;34;4;37;1997-01-19;No;2;0;No;No;0;84;182;25;8
+3;Dental consultation;April;Wednesday;Winter;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;8
+36;Medical consultation;April;Monday;Winter;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;98;178;31;1
+36;Diseases of the musculoskeletal system and connective tissue;April;Wednesday;Winter;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;98;178;31;120
+26;Dental consultation;April;Friday;Winter;0.0;300;26;50;13;22;1982-08-04;No;1;2;Y;Yes;1;77;175;25;8
+20;Dental consultation;April;Friday;Winter;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;4
+3;Dental consultation;April;Monday;Winter;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;-;170;31;4
+34;Diseases of the digestive system;April;Wednesday;Winter;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;2
+5;Diseases of the musculoskeletal system and connective tissue;May;Monday;Winter;0.0;235;20;38;13;22;1982-06-19;No;1;1;Yes;No;0;106;167;38;16
+33;Medical consultation;May;Wednesday;Winter;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;2
+13;Diseases of the respiratory system;May;Monday;;0.0;369;17;28;12;34;1994-06-26;No;1;3;Yes;No;0;70;169;25;8
+22;Medical consultation;May;Wednesday;Winter;0.0;179;26;54;9;-1;1995-08-01;No;3;0;No;No;0;56;171;19;3
+3;Dental consultation;May;Wednesday;Winter;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;4
+10;Medical consultation;May;Thursday;Winter;0.0;361;52;114;3;37;1997-07-08;No;1;1;Y;No;4;80;172;27;1
+10;;;;;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;1
+20;Dental consultation;May;Friday;Winter;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;3
+17;Diseases of the digestive system;May;Monday;Winter;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;2
+17;Diseases of the ear and mastoid process;May;Monday;Winter;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;3
+9;Symptoms, signs and abnormal clinical and laboratory findings;May;Wednesday;Winter;0.0;228;14;19;16;7;1967-11-02;No;1;2;No;No;1;65;172;22;8
+28;Laboratory examination;May;Wednesday;Winter;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+18;Diseases of the musculoskeletal system and connective tissue;May;Saturday;Winter;0.0;330;16;34;4;37;1997-01-19;No;2;0;No;No;0;84;182;25;8
+22;Laboratory examination;May;Monday;Winter;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+34;Dental consultation;May;Monday;Winter;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;-;172;28;1
+1;Certain infectious and parasitic diseases;May;Monday;Winter;0.0;235;11;20;-;28;1988-06-01;No;3;1;No;No;1;88;172;29;8
+22;Medical consultation;May;Wednesday;Winter;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;3
+34;Medical consultation;June;Monday;Winter;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;3
+3;Dental consultation;June;Monday;Winter;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;3
+34;Dental consultation;June;Tuesday;;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;2
+28;Medical consultation;June;Thursday;Winter;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;4
+20;Dental consultation;June;Friday;Winter;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;4
+3;Unspecified;June;Friday;Winter;0.0;179;51;108;18;27;1987-04-08;Yes;1;0;Yes;No;0;89;170;31;0
+3;;;;;0.0;179;51;108;18;27;1987-04-08;Yes;1;0;Yes;No;0;89;170;31;0
+15;Diseases of the musculoskeletal system and connective tissue;June;Monday;Winter;0.0;291;31;54;12;25;1985-05-20;No;1;1;Y;No;1;73;171;25;40
+3;Dental consultation;June;Monday;Winter;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;24
+24;Dental consultation;June;Tuesday;Winter;0.0;246;25;52;16;24;1984-10-01;No;1;0;Y;No;0;67;170;23;3
+3;Dental consultation;June;Monday;Winter;0.0;179;51;108;18;-1;1987-04-08;No;1;0;Y;No;0;-;170;31;4
+5;Unjustified absence;June;Tuesday;Winter;0.0;235;20;38;13;22;1982-06-19;No;1;1;Yes;No;0;106;167;38;8
+3;Dental consultation;June;Saturday;Summer;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;-;170;31;2
+28;Medical consultation;June;Wednesday;Summer;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+36;Medical consultation;June;Wednesday;;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;98;178;31;2
+3;Mental and behavioural disorders;June;Wednesday;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;8
+22;Factors influencing health status and contact with health services;June;Wednesday;Summer;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+24;Dental consultation;June;Friday;Summer;0.0;246;25;52;16;24;1984-10-01;No;1;0;Y;No;0;67;170;23;2
+18;Diseases of the digestive system;June;Tuesday;;0.0;330;16;34;4;37;1997-01-19;No;2;0;No;No;0;84;182;25;1
+18;;;;;0.0;330;16;34;4;37;1997-01-19;No;2;0;No;No;0;84;182;25;1
+1;Diseases of the musculoskeletal system and connective tissue;June;Tuesday;Summer;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;8
+22;Medical consultation;July;Thursday;;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;-;171;19;2
+28;Laboratory examination;July;Thursday;Summer;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;-;169;24;4
+20;Diseases of the musculoskeletal system and connective tissue;July;Friday;Summer;0.0;260;50;94;-;29;1989-02-20;No;1;4;Y;No;0;65;168;23;8
+21;Diseases of the eye and adnexa;July;Monday;Summer;0.0;268;11;22;8;32;1992-04-20;No;2;0;No;No;0;79;178;25;8
+18;Laboratory examination;July;Friday;Summer;;330;16;34;4;37;1997-01-19;No;2;0;No;No;0;84;182;25;8
+34;Unjustified absence;July;Friday;Summer;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;8
+20;Unjustified absence;July;Monday;;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;4
+34;Dental consultation;July;Tuesday;Summer;0.0;118;10;22;-;28;1988-05-10;No;1;0;No;No;0;83;172;28;8
+26;Pregnancy, childbirth and the puerperium;July;Monday;Summer;0.0;300;26;50;13;22;1982-08-04;No;1;2;Yes;Yes;1;77;175;25;8
+2;Medical consultation;July;Monday;;0.0;235;29;59;-;17;1977-04-28;No;1;1;No;Yes;5;88;163;33;1
+24;Dental consultation;July;Tuesday;Summer;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;2
+28;Diseases of the circulatory system;July;Tuesday;;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;112
+3;Dental consultation;July;Tuesday;Summer;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;1
+36;Medical consultation;July;Friday;Summer;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;98;178;31;1
+10;Patient follow-up;July;Friday;Summer;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;8
+11;Patient follow-up;July;Monday;Summer;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+5;Unjustified absence;July;Monday;Summer;0.0;235;20;38;13;22;1982-06-19;No;1;1;Yes;No;0;106;167;38;8
+24;Dental consultation;July;Tuesday;Summer;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;2
+15;Dental consultation;July;Thursday;Summer;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;1
+7;Medical consultation;July;Thursday;;0.0;279;5;5;14;26;1986-07-25;No;1;2;Y;Yes;0;68;168;24;2
+3;Laboratory examination;August;Thursday;Summer;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;4
+17;Laboratory examination;August;Monday;Summer;0.0;179;22;40;-;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;1
+24;Dental consultation;August;Tuesday;Summer;0.0;246;25;52;16;24;1984-10-01;No;1;0;Y;No;0;-;170;23;4
+34;Dental consultation;August;Tuesday;;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;4
+11;Unjustified absence;August;Tuesday;Summer;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+5;Unjustified absence;August;Tuesday;;0.0;235;20;38;13;22;1982-06-19;No;1;1;Yes;No;0;106;167;38;8
+15;Dental consultation;August;Thursday;Summer;0.0;291;31;54;12;25;1985-05-20;No;1;1;Y;No;1;73;171;25;4
+3;Laboratory examination;August;Monday;Summer;;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;4
+17;Laboratory examination;August;Tuesday;Summer;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;-;170;22;8
+18;Medical consultation;August;Thursday;Summer;0.0;330;16;34;4;37;1997-01-19;No;2;0;No;No;0;84;182;25;16
+1;Medical consultation;August;Tuesday;Summer;0.0;235;11;20;-;28;1988-06-01;No;3;1;No;No;1;88;172;29;4
+24;Dental consultation;August;Tuesday;Summer;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;1
+34;Dental consultation;August;Tuesday;Summer;0.0;118;10;22;10;-1;1988-05-10;No;1;0;No;No;0;83;172;28;5
+15;Dental consultation;August;Thursday;;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;2
+20;Dental consultation;August;Monday;;0.0;260;50;94;11;29;1989-02-20;No;1;4;Yes;No;0;65;168;23;3
+24;Dental consultation;September;Tuesday;Summer;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;1
+24;;;;;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;1
+24;Dental consultation;September;Tuesday;Summer;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;1
+34;Dental consultation;September;Tuesday;Summer;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;-;172;28;3
+14;Medical consultation;September;Tuesday;Summer;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;-;196;25;2
+15;Dental consultation;September;Thursday;;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;2
+22;Medical consultation;September;Friday;;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;-;171;19;8
+33;Medical consultation;September;Friday;Summer;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;-;165;32;1
+3;Medical consultation;September;Monday;Summer;0.0;179;51;108;-;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;4
+28;Medical consultation;September;Wednesday;Summer;0.0;225;26;50;9;-1;1997-08-03;No;1;1;No;No;2;-;169;24;1
+22;Medical consultation;September;Monday;Summer;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+13;Medical consultation;September;Tuesday;Spring;0.0;369;17;28;12;34;1994-06-26;No;1;3;Yes;No;0;70;169;25;8
+10;Patient follow-up;September;Tuesday;Spring;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;8
+10;;;;;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;8
+32;Endocrine, nutritional and metabolic diseases;October;Thursday;Spring;0.0;289;48;94;29;16;1976-09-21;No;1;0;No;No;2;108;172;36;1
+25;Diseases of the digestive system;October;Thursday;Spring;0.0;235;16;29;8;33;1993-11-21;No;3;0;No;No;0;75;178;25;3
+24;Unjustified absence;October;Friday;Spring;0.0;246;25;52;16;24;1984-10-01;No;1;0;Yes;No;0;67;170;23;8
+32;Diseases of the genitourinary system;October;Wednesday;;0.0;289;48;94;29;16;1976-09-21;No;1;0;No;No;2;108;172;36;3
+15;Dental consultation;October;Wednesday;Spring;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;2
+34;Medical consultation;October;Tuesday;Spring;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;2
+32;Medical consultation;October;Thursday;Spring;0.0;289;48;94;29;16;1976-09-21;No;1;0;No;No;2;108;172;36;2
+15;Medical consultation;October;Friday;Spring;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;1
+28;Medical consultation;October;Tuesday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+13;Medical consultation;October;Tuesday;Spring;0.0;369;17;28;-;34;1994-06-26;No;1;3;Yes;No;0;70;169;25;8
+13;Medical consultation;October;Tuesday;Spring;0.0;369;17;28;12;-1;1994-06-26;No;1;3;Yes;No;0;70;169;25;3
+13;;;;;0.0;369;17;28;12;-1;1994-06-26;No;1;3;Yes;No;0;70;169;25;3
+28;Medical consultation;October;Tuesday;;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;-;169;24;4
+13;Unjustified absence;October;Tuesday;Spring;0.0;369;17;28;12;34;1994-06-26;No;1;3;Yes;No;0;70;169;25;8
+3;Dental consultation;October;Wednesday;Spring;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+9;Certain infectious and parasitic diseases;October;Wednesday;Spring;0.0;228;14;19;16;7;1967-11-02;No;1;2;No;No;1;65;172;22;1
+15;Medical consultation;October;Wednesday;Spring;0.0;291;31;54;-;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;1
+13;Diseases of the respiratory system;October;Thursday;Spring;0.0;369;17;28;12;34;1994-06-26;No;1;3;Yes;No;0;70;169;25;8
+28;Diseases of the musculoskeletal system and connective tissue;October;Thursday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;1
+13;Diseases of the respiratory system;October;Friday;Spring;0.0;369;17;28;12;34;1994-06-26;No;1;3;Yes;No;0;70;169;25;8
+28;Diseases of the respiratory system;October;Friday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+6;Medical consultation;October;Monday;;0.0;189;29;56;13;32;1992-05-24;No;1;2;No;No;2;69;167;25;8
+25;Diseases of the nervous system;October;Monday;;0.0;235;16;29;8;33;1993-11-21;No;3;0;No;No;0;75;178;25;8
+25;;;;;0.0;235;16;29;8;33;1993-11-21;No;3;0;No;No;0;75;178;25;8
+33;Diseases of the respiratory system;October;Monday;Spring;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;8
+28;Unspecified;October;Monday;Spring;0.0;225;26;50;9;37;1997-08-03;Yes;1;1;No;No;2;69;169;24;0
+28;Diseases of the musculoskeletal system and connective tissue;October;Tuesday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+3;Factors influencing health status and contact with health services;November;Tuesday;Spring;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;1
+34;Dental consultation;November;Wednesday;Spring;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;3
+18;Neoplasms;November;Wednesday;Spring;0.0;330;16;34;4;-1;1997-01-19;No;2;0;No;No;0;84;182;25;24
+3;Dental consultation;November;Friday;Spring;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;1
+34;Diseases of the circulatory system;November;Tuesday;Spring;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;8
+11;Blood donation;November;Wednesday;Spring;0.0;289;36;69;13;32;1992-08-15;No;1;2;Y;No;1;90;172;30;8
+25;Certain infectious and parasitic diseases;November;Friday;Spring;0.0;235;16;29;8;33;1993-11-21;No;3;0;No;No;0;75;178;25;8
+28;Medical consultation;November;Friday;Spring;0.0;225;26;50;9;-1;1997-08-03;No;1;1;No;No;2;69;169;24;4
+10;Patient follow-up;November;Tuesday;Spring;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;8
+15;Dental consultation;November;Wednesday;Spring;0.0;291;31;54;12;25;1985-05-20;No;1;1;Y;No;1;73;171;25;2
+15;;;;;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;2
+34;Diseases of the musculoskeletal system and connective tissue;November;Thursday;Spring;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;2
+28;Diseases of the genitourinary system;November;Thursday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+3;Dental consultation;November;Monday;Spring;0.0;179;51;108;18;-1;1987-04-08;No;1;0;Yes;No;0;89;170;31;1
+34;Medical consultation;November;Monday;;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;8
+34;Diseases of the ear and mastoid process;November;Tuesday;;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;8
+28;Medical consultation;November;Tuesday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+15;Unspecified;November;Tuesday;;0.0;291;31;54;12;25;1985-05-20;Yes;1;1;Yes;No;1;-;171;25;0
+15;;;;;0.0;291;31;54;12;25;1985-05-20;Yes;1;1;Yes;No;1;-;171;25;0
+11;Unspecified;November;Wednesday;Spring;0.0;289;36;69;13;32;1992-08-15;Yes;1;2;Y;No;1;90;172;30;0
+11;;;;;0.0;289;36;69;13;32;1992-08-15;Yes;1;2;Yes;No;1;90;172;30;0
+33;Diseases of the genitourinary system;November;Thursday;;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;4
+33;;;;;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;4
+5;Unspecified;November;Thursday;Spring;0.0;235;20;38;13;22;1982-06-19;Yes;1;1;Yes;No;0;106;167;38;0
+28;Medical consultation;November;Friday;Spring;0.0;225;26;50;9;-1;1997-08-03;No;1;1;No;No;2;-;169;24;2
+13;Unjustified absence;November;Friday;;0.0;369;17;28;12;34;1994-06-26;No;1;3;Yes;No;0;-;169;25;8
+10;Dental consultation;November;Monday;Spring;0.0;361;52;114;3;-1;1997-07-08;No;1;1;Yes;No;4;80;172;27;2
+3;Diseases of the musculoskeletal system and connective tissue;December;Tuesday;Spring;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;32
+15;Dental consultation;December;Wednesday;Spring;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;1
+28;Medical consultation;December;Wednesday;Spring;0.0;225;26;50;9;-1;1997-08-03;No;1;1;No;No;2;-;169;24;3
+22;Diseases of the musculoskeletal system and connective tissue;December;Friday;Spring;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;1
+28;Medical consultation;December;Friday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+28;Medical consultation;December;Wednesday;;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+10;Diseases of the genitourinary system;December;Thursday;Spring;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;4
+17;Symptoms, signs and abnormal clinical and laboratory findings;December;Friday;;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;2
+5;Unjustified absence;December;Friday;Spring;0.0;235;20;38;13;22;1982-06-19;No;1;1;Yes;No;0;106;167;38;8
+12;Symptoms, signs and abnormal clinical and laboratory findings;December;Monday;Spring;0.0;233;51;100;1;34;1994-09-18;No;2;1;Y;No;8;68;178;21;8
+22;Diseases of the musculoskeletal system and connective tissue;December;Tuesday;Spring;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;16
+28;Medical consultation;December;Tuesday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+28;Medical consultation;December;Thursday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+28;Medical consultation;December;Monday;Spring;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;-;169;24;2
+14;Symptoms, signs and abnormal clinical and laboratory findings;December;Tuesday;Autumn;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;80
+14;;;;;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;80
+22;Diseases of the skin and subcutaneous tissue;January;Monday;Autumn;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;24
+22;Diseases of the skin and subcutaneous tissue;January;Thursday;Autumn;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;-;171;19;16
+17;Laboratory examination;January;Thursday;Autumn;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;2
+17;Laboratory examination;January;Friday;Autumn;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;2
+22;Diseases of the musculoskeletal system and connective tissue;January;Monday;;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;3
+17;Laboratory examination;January;Wednesday;Autumn;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;2
+32;Diseases of the respiratory system;January;Thursday;Autumn;0.0;289;48;94;29;16;1976-09-21;No;1;0;No;No;2;108;172;36;8
+17;Symptoms, signs and abnormal clinical and laboratory findings;January;Friday;Autumn;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;3
+22;Physiotherapy;January;Monday;;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+14;Symptoms, signs and abnormal clinical and laboratory findings;January;Tuesday;;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;8
+22;Physiotherapy;January;Wednesday;Autumn;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+22;;;;;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+3;Physiotherapy;January;Wednesday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+11;Diseases of the musculoskeletal system and connective tissue;January;Wednesday;;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+3;Physiotherapy;January;Thursday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+3;Physiotherapy;January;Friday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+3;;;;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+3;Diseases of the musculoskeletal system and connective tissue;February;Tuesday;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;-;170;31;8
+28;Medical consultation;February;Tuesday;Autumn;;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+33;Certain infectious and parasitic diseases;February;Wednesday;;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;8
+3;Physiotherapy;February;Wednesday;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+28;Dental consultation;February;Thursday;;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+28;;;;;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+3;Physiotherapy;February;Thursday;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+22;Physiotherapy;February;Thursday;Autumn;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;-;171;19;2
+29;Dental consultation;February;Friday;;0.0;225;15;48;15;24;1997-01-01;No;4;2;Yes;No;2;-;182;28;2
+3;Physiotherapy;February;Friday;;0.0;179;51;108;-;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+12;Injury, poisoning and other consequences of external causes;February;Monday;;0.0;233;51;100;1;34;1994-09-18;No;2;1;Y;No;8;68;178;21;2
+3;Physiotherapy;February;Monday;Autumn;0.0;179;51;108;-;27;1987-04-08;No;1;0;Y;No;0;89;170;31;2
+28;Diseases of the eye and adnexa;February;Tuesday;Autumn;0.0;225;26;50;9;-1;1997-08-03;No;1;1;No;No;2;69;169;24;8
+3;Physiotherapy;February;Wednesday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+3;;;;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;3
+3;Physiotherapy;February;Thursday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;-;170;31;3
+3;;;;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;-;170;31;3
+28;Laboratory examination;February;Thursday;Autumn;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+22;Diseases of the musculoskeletal system and connective tissue;February;Thursday;Autumn;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+17;Medical consultation;February;Friday;Autumn;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;2
+3;Physiotherapy;February;Friday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+12;Diseases of the skin and subcutaneous tissue;February;Wednesday;;0.0;233;51;100;1;34;1994-09-18;No;2;1;Yes;No;8;68;178;21;3
+22;Physiotherapy;February;Wednesday;Autumn;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+3;Physiotherapy;February;Wednesday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;2
+3;Diseases of the musculoskeletal system and connective tissue;February;Thursday;Autumn;;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;-;170;31;8
+3;Physiotherapy;February;Friday;Autumn;0.0;179;51;108;18;-1;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+14;Laboratory examination;February;Monday;Autumn;0.0;155;12;28;14;31;1991-09-10;No;1;2;Y;No;0;95;196;25;5
+25;Laboratory examination;February;Monday;Autumn;0.0;235;16;29;8;33;1993-11-21;No;3;0;No;No;0;75;178;25;3
+3;Physiotherapy;February;Monday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+28;Diseases of the eye and adnexa;February;Monday;Autumn;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+3;Physiotherapy;February;Tuesday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;2
+33;Medical consultation;February;Tuesday;;;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;2
+28;Laboratory examination;February;Tuesday;Autumn;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+28;;;;;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+3;Physiotherapy;February;Wednesday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+3;Physiotherapy;February;Thursday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+25;Laboratory examination;February;Friday;;0.0;235;16;29;8;33;1993-11-21;No;3;0;No;No;0;-;178;25;2
+3;Physiotherapy;March;Monday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+33;Medical consultation;March;Monday;Autumn;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;2
+9;Laboratory examination;March;Tuesday;Autumn;0.0;228;14;19;16;7;1967-11-02;No;1;2;No;No;1;65;172;22;3
+9;;;;;0.0;228;14;19;16;7;1967-11-02;No;1;2;No;No;1;65;172;22;3
+33;Laboratory examination;March;Tuesday;Autumn;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;3
+9;Diseases of the skin and subcutaneous tissue;March;Tuesday;Autumn;0.0;228;14;19;16;7;1967-11-02;No;1;2;No;No;1;65;172;22;112
+9;;;;;0.0;228;14;19;16;7;1967-11-02;No;1;2;No;No;1;65;172;22;112
+3;Physiotherapy;March;Wednesday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+28;Physiotherapy;March;Thursday;Autumn;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+3;Physiotherapy;March;Thursday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;3
+3;;;;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+28;Laboratory examination;March;Thursday;Autumn;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;2
+22;Physiotherapy;March;Friday;Autumn;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;3
+25;Laboratory examination;March;Monday;Autumn;0.0;235;16;29;8;33;1993-11-21;No;3;0;No;No;0;75;178;25;3
+10;Injury, poisoning and other consequences of external causes;March;Monday;Autumn;0.0;361;52;114;3;37;1997-07-08;No;1;1;Y;No;4;80;172;27;8
+3;Diseases of the musculoskeletal system and connective tissue;March;Tuesday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;8
+3;Physiotherapy;March;Wednesday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+3;Physiotherapy;March;Thursday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+22;Physiotherapy;March;Friday;Autumn;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+22;;;;;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+3;Diseases of the respiratory system;March;Monday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;89;170;31;4
+33;Diseases of the musculoskeletal system and connective tissue;March;Monday;Autumn;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;2
+3;Physiotherapy;March;Monday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Y;No;0;-;170;31;3
+28;Diseases of the eye and adnexa;March;Monday;Autumn;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;8
+28;;;;;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;8
+3;Physiotherapy;March;Tuesday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+11;Medical consultation;March;Wednesday;;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;-;172;30;8
+9;Laboratory examination;March;Wednesday;Autumn;0.0;228;14;19;16;7;1967-11-02;No;1;2;No;No;1;65;172;22;2
+3;Physiotherapy;March;Wednesday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;2
+33;Medical consultation;March;Thursday;;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;3
+3;Physiotherapy;March;Thursday;Autumn;0.0;179;51;108;-;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+22;Medical consultation;March;Friday;Autumn;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+3;Physiotherapy;March;Friday;Autumn;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+3;Physiotherapy;March;Tuesday;Winter;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+16;Medical consultation;March;Wednesday;Winter;0.0;118;15;29;24;19;1979-01-20;No;1;2;Yes;Yes;0;75;175;25;8
+14;Diseases of the musculoskeletal system and connective tissue;March;Wednesday;Winter;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;24
+3;Physiotherapy;March;Wednesday;;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+3;Physiotherapy;March;Thursday;Winter;0.0;179;51;108;18;27;1987-04-08;No;1;0;Yes;No;0;89;170;31;3
+22;Diseases of the musculoskeletal system and connective tissue;March;Monday;Winter;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+11;Injury, poisoning and other consequences of external causes;March;Monday;;0.0;289;36;69;13;32;1992-08-15;No;1;2;Y;No;1;90;172;30;104
+13;Patient follow-up;March;Wednesday;Winter;0.0;369;17;28;12;34;1994-06-26;No;1;3;Yes;No;0;70;169;25;8
+28;Diseases of the musculoskeletal system and connective tissue;April;Saturday;;;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;8
+34;Diseases of the respiratory system;April;Monday;Winter;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;8
+10;Injury, poisoning and other consequences of external causes;April;Tuesday;Winter;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;-;172;27;8
+33;Injury, poisoning and other consequences of external causes;April;Wednesday;Winter;0.0;248;25;42;14;18;1978-02-16;No;1;2;No;No;1;86;165;32;8
+6;Diseases of the musculoskeletal system and connective tissue;April;Thursday;Winter;0.0;189;29;56;13;32;1992-05-24;No;1;2;No;No;2;69;167;25;8
+22;Physiotherapy;April;Friday;Winter;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+13;Diseases of the eye and adnexa;April;Monday;Winter;0.0;369;17;28;12;34;1994-06-26;No;1;3;Y;No;0;70;169;25;24
+13;;;;;0.0;369;17;28;12;34;1994-06-26;No;1;3;Yes;No;0;70;169;25;24
+17;Certain conditions originating in the perinatal period;April;Tuesday;Winter;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;2
+36;Medical consultation;April;Tuesday;Winter;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;98;178;31;3
+10;Medical consultation;April;Tuesday;Winter;0.0;361;52;114;3;37;1997-07-08;No;1;1;Y;No;4;80;172;27;2
+34;Diseases of the respiratory system;April;Wednesday;Winter;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;2
+1;Patient follow-up;April;Friday;Winter;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;8
+22;Physiotherapy;April;Friday;Winter;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+28;Injury, poisoning and other consequences of external causes;April;Monday;;0.0;225;26;50;-;37;1997-08-03;No;1;1;No;No;2;-;169;24;8
+25;Certain conditions originating in the perinatal period;April;Tuesday;;0.0;235;16;29;8;33;1993-11-21;No;3;0;No;No;0;75;178;25;3
+22;Physiotherapy;April;Saturday;;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+14;Dental consultation;April;Tuesday;;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;4
+14;;;;;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;4
+28;Injury, poisoning and other consequences of external causes;April;Thursday;;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;8
+36;Diseases of the genitourinary system;April;Thursday;Winter;0.0;118;13;26;18;15;1975-09-02;No;1;1;Y;No;0;98;178;31;2
+22;Physiotherapy;April;Friday;Winter;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+1;Patient follow-up;May;Monday;;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;8
+29;Injury, poisoning and other consequences of external causes;May;Wednesday;Winter;;225;15;48;15;24;1997-01-01;No;4;2;Yes;No;2;94;182;28;3
+25;Dental consultation;May;Wednesday;Winter;0.0;235;16;29;8;33;1993-11-21;No;3;0;No;No;0;75;178;25;2
+34;Diseases of the ear and mastoid process;May;Wednesday;Winter;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;3
+34;;;;;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;3
+5;Unjustified absence;May;Wednesday;Winter;0.0;235;20;38;13;22;1982-06-19;No;1;1;Yes;No;0;106;167;38;8
+22;Diseases of the musculoskeletal system and connective tissue;May;Thursday;Winter;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;1
+15;Dental consultation;May;Thursday;Winter;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;2
+29;Diseases of the genitourinary system;May;Thursday;Winter;0.0;225;15;48;15;24;1997-01-01;No;4;2;Yes;No;2;94;182;28;8
+26;Injury, poisoning and other consequences of external causes;May;Friday;;0.0;300;26;50;13;22;1982-08-04;No;1;2;Yes;Yes;1;77;175;25;64
+29;Patient follow-up;May;Friday;;0.0;225;15;48;15;24;1997-01-01;No;4;2;Yes;No;2;94;182;28;8
+22;Physiotherapy;May;Friday;Winter;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+36;Medical consultation;May;Monday;Winter;0.0;118;13;26;18;15;1975-09-02;No;1;1;Y;No;0;98;178;31;2
+36;Mental and behavioural disorders;May;Tuesday;Winter;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;98;178;31;3
+34;Dental consultation;May;Tuesday;Winter;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;1
+36;Unspecified;May;Tuesday;Winter;0.0;118;13;26;18;15;1975-09-02;Yes;1;1;Y;No;0;98;178;31;0
+22;Physiotherapy;May;Wednesday;Winter;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+23;Unspecified;May;Wednesday;Winter;0.0;378;49;98;11;29;1989-02-10;Yes;1;2;No;Yes;4;65;174;21;0
+17;Certain conditions originating in the perinatal period;May;Friday;Winter;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;1
+17;;;;;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;1
+14;Diseases of the respiratory system;May;Monday;Winter;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;48
+25;Diseases of the respiratory system;May;Monday;Winter;0.0;235;16;29;8;33;1993-11-21;No;3;0;No;No;0;75;178;25;8
+15;Patient follow-up;May;Wednesday;Winter;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;8
+17;Diseases of the respiratory system;May;Wednesday;Winter;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Y;0;63;170;22;8
+28;Diseases of the nervous system;May;Wednesday;Winter;0.0;225;26;50;-;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+28;;;;;0.0;225;26;50;-;37;1997-08-03;No;1;1;No;No;2;69;169;24;3
+18;Diseases of the respiratory system;May;Thursday;Winter;0.0;330;16;34;4;37;1997-01-19;No;2;0;No;No;0;84;182;25;8
+25;Medical consultation;May;Thursday;;0.0;235;16;29;8;33;1993-11-21;No;3;0;No;No;0;75;178;25;2
+15;Dental consultation;May;Thursday;Winter;0.0;291;31;54;12;25;1985-05-20;No;1;1;Yes;No;1;73;171;25;2
+22;Physiotherapy;May;Friday;Winter;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+22;;;;;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+10;Diseases of the eye and adnexa;May;Monday;Winter;0.0;361;52;114;3;37;1997-07-08;No;1;1;Y;No;4;80;172;27;8
+14;Medical consultation;May;Wednesday;;0.0;155;12;28;14;31;1991-09-10;No;1;2;Y;No;0;95;196;25;2
+17;Laboratory examination;May;Friday;Winter;0.0;179;22;40;17;25;1985-06-16;No;2;2;No;Yes;0;63;170;22;8
+14;Diseases of the respiratory system;May;Friday;Winter;0.0;155;12;28;14;31;1991-09-10;No;1;2;Yes;No;0;95;196;25;8
+28;Diseases of the digestive system;May;Monday;;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;1
+16;Diseases of the eye and adnexa;June;Wednesday;Winter;0.0;118;15;29;24;19;1979-01-20;No;1;2;Yes;Yes;0;75;175;25;8
+22;Physiotherapy;June;Wednesday;Winter;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;3
+34;Unjustified absence;June;Friday;Winter;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;8
+34;Diseases of the respiratory system;June;Wednesday;Winter;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;8
+23;Patient follow-up;June;Thursday;Winter;0.0;378;49;98;11;29;1989-02-10;No;1;2;No;Yes;4;65;174;21;8
+36;Injury, poisoning and other consequences of external causes;June;Thursday;Winter;0.0;118;13;26;18;15;1975-09-02;No;1;1;Yes;No;0;98;178;31;24
+12;Injury, poisoning and other consequences of external causes;June;Friday;Winter;0.0;233;51;100;1;-1;1994-09-18;No;2;1;Yes;No;8;68;178;21;8
+22;Physiotherapy;June;Friday;Winter;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+2;Unspecified;June;Monday;;0.0;235;29;59;12;17;1977-04-28;Yes;1;1;No;Y;5;88;163;33;0
+21;Unspecified;June;Monday;;0.0;268;11;22;8;32;1992-04-20;Yes;2;0;No;No;0;79;178;25;0
+36;Injury, poisoning and other consequences of external causes;June;Thursday;Winter;0.0;118;13;26;18;15;1975-09-02;No;1;1;Y;No;0;98;178;31;3
+22;Diseases of the musculoskeletal system and connective tissue;June;Thursday;Winter;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;2
+15;Dental consultation;June;Thursday;Winter;0.0;291;31;54;12;-1;1985-05-20;No;1;1;Yes;No;1;73;171;25;2
+22;Diseases of the musculoskeletal system and connective tissue;June;Monday;Summer;0.0;179;26;54;9;35;1995-08-01;No;3;0;No;No;0;56;171;19;3
+34;Laboratory examination;June;Monday;Summer;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;3
+12;Patient follow-up;June;Thursday;Summer;0.0;233;51;100;1;34;1994-09-18;No;2;1;Yes;No;8;68;178;21;8
+34;Diseases of the ear and mastoid process;June;Friday;Summer;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;2
+34;Diseases of the respiratory system;June;Wednesday;Summer;;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;3
+12;Patient follow-up;June;Wednesday;Summer;0.0;233;51;100;1;34;1994-09-18;No;2;1;Y;No;8;68;178;21;3
+5;Unjustified absence;July;Wednesday;Summer;0.0;235;20;38;-;22;1982-06-19;No;1;1;Yes;No;0;106;167;38;4
+12;Injury, poisoning and other consequences of external causes;July;Friday;;0.0;233;51;100;1;34;1994-09-18;No;2;1;Yes;No;8;68;178;21;2
+12;;;;;0.0;233;51;100;1;34;1994-09-18;No;2;1;Yes;No;8;68;178;21;2
+9;Diseases of the nervous system;July;Monday;Summer;0.0;228;14;19;16;7;1967-11-02;No;1;2;No;No;1;65;172;22;8
+34;Dental consultation;July;Monday;;0.0;118;10;22;10;28;1988-05-10;No;1;0;No;No;0;83;172;28;4
+9;Diseases of the nervous system;July;Tuesday;Summer;0.0;228;14;19;16;7;1967-11-02;No;1;2;No;No;1;65;172;22;120
+6;Patient follow-up;July;Tuesday;Summer;0.0;189;29;56;13;32;1992-05-24;No;1;2;No;No;2;69;167;25;16
+34;Medical consultation;July;Wednesday;Summer;0.0;118;10;22;10;-1;1988-05-10;No;1;0;No;No;0;83;172;28;2
+10;Patient follow-up;July;Wednesday;Summer;0.0;361;52;114;3;37;1997-07-08;No;1;1;Yes;No;4;80;172;27;8
+28;Patient follow-up;July;Saturday;Summer;0.0;225;26;50;9;37;1997-08-03;No;1;1;No;No;2;69;169;24;8
+13;Diseases of the musculoskeletal system and connective tissue;July;Monday;;0.0;369;17;28;12;34;1994-06-26;No;1;3;Yes;No;0;70;169;25;80
+11;Diseases of the genitourinary system;July;Tuesday;Summer;0.0;289;36;69;13;32;1992-08-15;No;1;2;Yes;No;1;90;172;30;8
+1;Diseases of the digestive system;July;Tuesday;Summer;0.0;235;11;20;14;28;1988-06-01;No;3;1;No;No;1;88;172;29;4
+4;Unspecified;;Tuesday;Summer;0.0;118;14;34;13;25;1985-10-20;No;1;1;Yes;No;8;98;170;34;0
+8;Unspecified;;Wednesday;;0.0;231;35;63;14;26;1986-09-13;No;1;2;Yes;No;2;100;170;35;0
+35;Unspecified;;Friday;;0.0;179;45;85;14;-1;1972-11-27;No;1;1;No;No;1;77;175;25;0
