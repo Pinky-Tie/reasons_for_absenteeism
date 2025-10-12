@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+from IPython.display import display
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.metrics import silhouette_score, confusion_matrix
@@ -40,6 +41,152 @@ def calculate_percentage(df, condition=None, columns=None):
         return f'Percentage of rows meeting the condition: {percentage:.2f}%'
     else:
         return {col: round((df[col].isna().sum() / total_count) * 100, 1) for col in columns}
+
+def analyze_missingness_patterns(df, cols_absence):
+    """
+    Analyze and visualize missingness patterns among specified columns.
+
+    Parameters
+    ----------
+    df : pandas.DataFrame
+        The dataset to analyze.
+    cols_absence : list of str
+        List of column names related to absenteeism to check for missingness correlations.
+
+    Returns
+    -------
+    dict
+        Summary dictionary with:
+        - 'corr_matrix': DataFrame of missingness correlations
+        - 'pair_missing_counts': DataFrame of pairwise missing overlaps
+        - 'rows_all_missing': Number of rows where key columns are all missing
+        - 'missing_indices': Index of rows where all key columns are missing
+    """
+
+    # Boolean mask of missingness
+    miss = df[cols_absence].isna()
+
+    # Pairwise correlation of missingness
+    miss_corr = miss.astype(float).corr()
+
+    print("Pairwise Missingness Correlation Matrix:")
+    display(miss_corr.style.background_gradient(cmap='RdYlGn_r').format("{:.2f}"))
+
+    # Choose the three main absence columns
+    tri_cols = ['Reason for absence', 'Month of absence', 'Day of the week']
+
+    # How many rows have all three missing?
+    mask_tri_all_missing = df[tri_cols].isna().all(axis=1)
+    rows_all_missing = mask_tri_all_missing.sum()
+    print(f"\n Rows with all of Reason/Month/Day missing: {rows_all_missing}")
+
+    # Pairwise overlap counts
+    pair_counts = pd.DataFrame(
+        {(c1, c2): (df[c1].isna() & df[c2].isna()).sum()
+         for i, c1 in enumerate(cols_absence) for c2 in cols_absence[i+1:]},
+        index=['count']
+    ).T.sort_values('count', ascending=False)
+
+    print("\n Top 10 Pairs with Highest Overlapping Missing Values:")
+    display(pair_counts.head(10))
+
+    # Indices of rows where all three are missing
+    missing_indices = df.index[mask_tri_all_missing]
+    print("\nExample indices where Reason/Month/Day are all missing:")
+    display(missing_indices[:20])
+
+    # Return a summary dictionary for further use
+    return {
+        'corr_matrix': miss_corr,
+        'pair_missing_counts': pair_counts,
+        'rows_all_missing': rows_all_missing,
+        'missing_indices': missing_indices
+    }
+
+def diagnose_seasons_from_month(df, month_col='Month of absence', season_col='Seasons'):
+    """
+    Diagnostic function to assess how many missing season values can be inferred
+    from the corresponding month of absence, using Brazilian seasonal mapping.
+
+    Parameters
+    ----------
+    df : pandas.DataFrame
+        Dataset containing the month and season columns.
+    month_col : str, default='Month of absence'
+        Name of the column representing the month of absence.
+    season_col : str, default='Seasons'
+        Name of the column representing the current season variable.
+
+    Returns
+    -------
+    dict
+        Summary of diagnostic results, including:
+        - total_missing : Number of missing values in the season column.
+        - potential_fills : Number of missing seasons that can be derived from month.
+        - recoverable_percent : Percentage of missing seasons recoverable.
+        - disagree_count : Number of rows where existing season disagrees with derived season.
+        - derived_seasons : Pandas Series of derived season values.
+    """
+
+    # Mapping for month names → numeric
+    month_map_name_to_num = {
+        'January': 1, 'February': 2, 'March': 3, 'April': 4, 'May': 5, 'June': 6,
+        'July': 7, 'August': 8, 'September': 9, 'October': 10, 'November': 11, 'December': 12
+    }
+
+    def to_month_number(x):
+        """Convert month names or numeric strings to standardized month numbers (1–12)."""
+        if pd.isna(x):
+            return np.nan
+        if isinstance(x, (int, float)):
+            return int(x) if 1 <= int(x) <= 12 else np.nan
+        s = str(x).strip().title()
+        if s.isdigit():
+            m = int(s)
+            return m if 1 <= m <= 12 else np.nan
+        return month_map_name_to_num.get(s, np.nan)
+
+    # Convert 'Month of absence' → numeric
+    month_num = df[month_col].map(to_month_number)
+
+    # Define Brazilian (Southern Hemisphere) seasonal mapping
+    def month_to_season_br(m):
+        if pd.isna(m): return np.nan
+        m = int(m)
+        if m in (12, 1, 2): return 'Summer'
+        if m in (3, 4, 5): return 'Autumn'
+        if m in (6, 7, 8): return 'Winter'
+        if m in (9, 10, 11): return 'Spring'
+        return np.nan
+
+    # Derived seasons from month
+    derived_seasons = month_num.map(month_to_season_br)
+
+    # Diagnostics
+    total_missing = df[season_col].isna().sum()
+    potential_fills = df[season_col].isna() & derived_seasons.notna()
+    recoverable = potential_fills.sum()
+    recoverable_percent = (recoverable / total_missing) * 100 if total_missing else 0
+
+    # Check disagreement where both exist
+    both_present = df[season_col].notna() & derived_seasons.notna()
+    disagree_count = (df.loc[both_present, season_col] != derived_seasons[both_present]).sum()
+
+    # Print summary
+    print(f"Original missing '{season_col}': {total_missing}")
+    print(f"Potentially recoverable from '{month_col}': {recoverable} ({recoverable_percent:.1f}%)")
+    print(f"Rows where existing '{season_col}' disagrees with derived value: {disagree_count}")
+
+    # Return results
+    return {
+        'total_missing': total_missing,
+        'potential_fills': recoverable,
+        'recoverable_percent': recoverable_percent,
+        'disagree_count': disagree_count,
+        'derived_seasons': derived_seasons
+    }
+
+
 
 
 def get_education_level_and_clean_name(row):
