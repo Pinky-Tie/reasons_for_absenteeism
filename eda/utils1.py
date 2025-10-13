@@ -134,6 +134,8 @@ def diagnose_seasons_from_month(df, month_col='Month of absence', season_col='Se
         'July': 7, 'August': 8, 'September': 9, 'October': 10, 'November': 11, 'December': 12
     }
 
+    
+
     def to_month_number(x):
         """Convert month names or numeric strings to standardized month numbers (1–12)."""
         if pd.isna(x):
@@ -185,6 +187,40 @@ def diagnose_seasons_from_month(df, month_col='Month of absence', season_col='Se
         'disagree_count': disagree_count,
         'derived_seasons': derived_seasons
     }
+
+def secret_missing_values(df):
+    """
+    Detects cells that contain '-' (with or without surrounding spaces)
+    across the entire DataFrame.
+
+    Returns
+    -------
+    cols_with_dash : pandas.Series
+        Count of '-' per column (only columns with at least one occurrence).
+    rows_with_dash : pandas.DataFrame
+        Rows that contain '-' in any column.
+    mask_dash : pandas.DataFrame (bool)
+        Boolean mask (True where cell == '-').
+    """
+
+    # Normalize all text: strip spaces and invisible characters
+    mask_dash = df.astype(str).apply(lambda col: col.str.strip().eq('-'))
+
+    # Count how many '-' per column
+    dash_counts = mask_dash.sum().sort_values(ascending=False)
+
+    # Keep only columns with at least one '-'
+    cols_with_dash = dash_counts[dash_counts > 0]
+
+    print("Columns containing '-' values:")
+    display(cols_with_dash)
+
+    # Show rows that contain '-' anywhere
+    rows_with_dash = df[mask_dash.any(axis=1)]
+    print(f"\nTotal rows containing '-': {rows_with_dash.shape[0]}")
+    display(rows_with_dash)
+
+    return cols_with_dash, rows_with_dash, mask_dash
 
 
 
