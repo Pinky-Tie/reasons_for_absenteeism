@@ -660,3 +660,45 @@ def visualize_outliers_vs_normal(data, outliers, feature1, feature2):
     plt.title('Sampled Outliers vs Normal Data')
     plt.legend()
     plt.show()
+
+
+def plot_hist_and_box(df, bins=20, figsize=(10, 4), color='skyblue', alpha=0.7):
+    """
+    Plots a histogram and a boxplot side by side for each numeric column in a DataFrame.
+    """
+    num_df = df.select_dtypes(include='number')
+    if num_df.empty:
+        print("No numeric columns found.")
+        return
+
+    for col in num_df.columns:
+        fig, axes = plt.subplots(1, 2, figsize=figsize)
+
+        # Histogram
+        axes[0].hist(df[col].dropna(), bins=bins, color=color, alpha=alpha)
+        axes[0].set_title(f'Histogram of {col}')
+        axes[0].set_xlabel(col)
+        axes[0].set_ylabel('Frequency')
+        axes[0].grid(False)
+
+        # Boxplot
+        axes[1].boxplot(df[col].dropna(), vert=True, patch_artist=True,
+                        boxprops=dict(facecolor=color, color=color),
+                        medianprops=dict(color='black'))
+        axes[1].set_title(f'Boxplot of {col}')
+        axes[1].set_ylabel(col)
+        axes[1].grid(False)
+
+        plt.tight_layout()
+        plt.show()
+
+def plot_categorical_barcharts(df, top_n=None):
+    """Plot bar charts for all categorical columns."""
+    cat_cols = df.select_dtypes(exclude='number').columns
+    for col in cat_cols:
+        counts = df[col].value_counts().head(top_n) if top_n else df[col].value_counts()
+        counts.plot(kind='bar', color='skyblue')
+        plt.title(col)
+        plt.ylabel('Count')
+        plt.grid(False)
+        plt.show()
