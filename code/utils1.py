@@ -691,3 +691,14 @@ def plot_hist_and_box(df, bins=20, figsize=(10, 4), color='skyblue', alpha=0.7):
 
         plt.tight_layout()
         plt.show()
+
+def plot_categorical_barcharts(df, top_n=None):
+    """Plot bar charts for all categorical columns."""
+    cat_cols = df.select_dtypes(exclude='number').columns
+    for col in cat_cols:
+        counts = df[col].value_counts().head(top_n) if top_n else df[col].value_counts()
+        counts.plot(kind='bar', color='skyblue')
+        plt.title(col)
+        plt.ylabel('Count')
+        plt.grid(False)
+        plt.show()
