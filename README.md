@@ -41,3 +41,7 @@ conclusions did you draw from them?
     Do the findings match what you initially expected? How?
     Discussion of the limitations of your work
     Suggestions for possible work to follow up on your work
+
+
+
+#tips for grade: K-prototypes
