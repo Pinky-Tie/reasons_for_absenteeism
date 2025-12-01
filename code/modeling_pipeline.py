@@ -215,27 +215,6 @@ def plot_cluster_by_coordinates(df,cm,umap,cluster_label, x_min_gb, x_max_gb, y_
     fig.show()
 
 
-def check_for_karens(data, method_column, cluster_number):
-    """
-    Check if there are any rows in the data where the number of complaints is greater than 4
-    and the specified cluster column equals the given cluster number.
-
-    Parameters:
-    - data: pd.DataFrame, the dataset to check.
-    - method_column: str, the name of the column used for clustering.
-    - cluster_number: int, the cluster number to check.
-
-    Returns:
-    - A DataFrame containing the rows that match the criteria.
-    """
-    # Filter rows where 'number_complaints' > 4
-    high_complaints = data[data['number_complaints'] > 4]
-
-    # Check if these rows are in the specified cluster
-    high_complaints_in_cluster = high_complaints[high_complaints[method_column] == cluster_number]
-
-    return high_complaints_in_cluster
-
 
 
 def get_r2_hc(df, link_method, max_nclus=6, min_nclus=1, dist="euclidean"):
