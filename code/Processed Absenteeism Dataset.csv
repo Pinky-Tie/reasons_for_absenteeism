@@ -1,801 +1,801 @@
-Age,Transportation expense,Distance from Residence to Work,Service time,Years until retirement,Disciplinary failure,Number of children,Social drinker,Social smoker,Number of pets,Weight,Height,Absenteeism time in hours,Reason for absence,Month of absence,Day of the week,Seasons,Education,bmi_category
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,4,Unjustified absence,July,Tuesday,Summer,High School,Obesity Class I
-50,118,13,18.0,15.0,1,1,1,0,0,98.0,178,0,Unspecified,July,Tuesday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Medical consultation,July,Wednesday,Summer,High School,Obesity Class I
-39,279,5,14.0,26.0,0,2,1,1,0,68.0,168,4,Diseases of the eye and adnexa,July,Thursday,Spring,High School,Healthy Weight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,2,Medical consultation,July,Thursday,Summer,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Medical consultation,July,Friday,Summer,High School,Obesity Class I
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,Patient follow-up,July,Friday,Summer,High School,Overweight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,Medical consultation,July,Friday,Summer,High School,Healthy Weight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,40,"Injury, poisoning and other consequences of external causes",July,Monday,Summer,High School,Overweight
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,8,Patient follow-up,July,Monday,Spring,Postgraduate,Overweight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,Certain infectious and parasitic diseases,July,Monday,Summer,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,Certain infectious and parasitic diseases,July,Saturday,Summer,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,Diseases of the digestive system,July,Wednesday,Summer,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Diseases of the digestive system,July,Wednesday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Medical consultation,March,Monday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,Medical consultation,July,Wednesday,Spring,High School,Obesity Class I
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,Diseases of the genitourinary system,July,Friday,Summer,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Medical consultation,July,Friday,Summer,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,Factors influencing health status and contact with health services,July,Monday,Summer,High School,Obesity Class I
-33,189,29,13.0,32.0,0,2,0,0,2,69.0,167,8,Diseases of the digestive system,July,Thursday,Summer,High School,Overweight
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,2,Medical consultation,August,Wednesday,Summer,High School,Obesity Class I
-28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,8,Diseases of the respiratory system,August,Wednesday,Summer,Graduate,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Diseases of the digestive system,August,Monday,Summer,High School,Obesity Class I
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,40,Diseases of the musculoskeletal system and connective tissue,August,Monday,Summer,High School,Overweight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,Dental consultation,August,Friday,Summer,High School,Healthy Weight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,"Symptoms, signs and abnormal clinical and laboratory findings",August,Monday,Spring,High School,Obesity Class I
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,7,Laboratory examination,August,Monday,Summer,High School,Overweight
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,7,Medical consultation,March,Monday,Spring,High School,Overweight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,1,Medical consultation,August,Tuesday,Summer,High School,Obesity Class I
-29,157,27,6.0,36.0,0,0,1,1,0,75.0,185,4,Dental consultation,August,Wednesday,Summer,High School,Healthy Weight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,"Symptoms, signs and abnormal clinical and laboratory findings",August,Wednesday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Medical consultation,August,Friday,Summer,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,"Symptoms, signs and abnormal clinical and laboratory findings",August,Monday,Spring,High School,Obesity Class I
-48,235,29,12.0,17.0,0,1,0,1,5,88.0,163,8,"Symptoms, signs and abnormal clinical and laboratory findings",August,Thursday,Summer,High School,Obesity Class I
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,4,Medical consultation,August,Thursday,Summer,Postgraduate,Overweight
-48,235,29,12.0,17.0,0,1,0,1,5,88.0,163,8,"Symptoms, signs and abnormal clinical and laboratory findings",August,Monday,Summer,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Medical consultation,August,Monday,Summer,High School,Obesity Class I
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,1,Medical consultation,August,Monday,Summer,High School,Overweight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,Blood donation,August,Tuesday,Summer,High School,Obesity Class I
-32,291,50,12.0,33.0,0,0,1,0,0,65.0,169,4,Diseases of the digestive system,August,Thursday,Summer,High School,Healthy Weight
-48,235,29,12.0,17.0,0,1,0,1,5,88.0,163,8,Dental consultation,August,Friday,Spring,High School,Obesity Class I
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,Medical consultation,August,Friday,Summer,High School,Healthy Weight
-27,184,42,7.0,38.0,0,0,0,0,0,58.0,167,2,Medical consultation,September,Tuesday,Summer,High School,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,4,Medical consultation,September,Monday,Summer,High School,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,Medical consultation,September,Tuesday,Summer,High School,Obesity Class I
-43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,"Injury, poisoning and other consequences of external causes",September,Tuesday,Spring,High School,Obesity Class II
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,2,Medical consultation,September,Wednesday,Summer,High School,Overweight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,2,Medical consultation,March,Monday,Spring,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,Medical consultation,September,Monday,Summer,High School,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Medical consultation,September,Tuesday,Summer,High School,Obesity Class I
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,4,Medical consultation,September,Thursday,Summer,High School,Overweight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,Patient follow-up,September,Friday,Summer,High School,Healthy Weight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,32,Diseases of the genitourinary system,September,Monday,Spring,High School,Overweight
-36,260,50,11.0,29.0,1,4,1,0,0,65.0,168,0,Unspecified,September,Monday,Spring,High School,Healthy Weight
-28,225,26,9.0,37.0,1,1,0,0,2,69.0,169,0,Unspecified,September,Monday,Spring,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Medical consultation,September,Tuesday,Spring,High School,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Medical consultation,September,Tuesday,Spring,High School,Overweight
-33,289,36,13.0,32.0,1,2,1,0,1,90.0,172,0,Unspecified,September,Tuesday,Spring,High School,Obesity Class I
-50,118,13,18.0,15.0,1,1,1,0,0,98.0,178,0,Unspecified,September,Tuesday,Spring,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,"Symptoms, signs and abnormal clinical and laboratory findings",September,Wednesday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Medical consultation,September,Wednesday,Spring,High School,Obesity Class I
-31,369,17,12.0,34.0,1,3,1,0,0,70.0,169,0,Unspecified,September,Wednesday,Spring,High School,Overweight
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,1,Medical consultation,September,Friday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Medical consultation,September,Friday,Spring,High School,Obesity Class I
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,Medical consultation,September,Friday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Medical consultation,October,Tuesday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Medical consultation,March,Monday,Spring,High School,Obesity Class I
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,Medical consultation,October,Tuesday,Spring,High School,Overweight
-50,118,13,18.0,15.0,1,1,1,0,0,98.0,178,0,Unspecified,October,Wednesday,Spring,High School,Obesity Class I
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,1,Medical consultation,October,Thursday,Spring,Postgraduate,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Medical consultation,October,Friday,Spring,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Medical consultation,October,Friday,Spring,High School,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,Medical consultation,October,Tuesday,Spring,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Medical consultation,October,Wednesday,Spring,High School,Healthy Weight
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,2,Medical consultation,October,Wednesday,Spring,High School,Obesity Class I
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,5,Medical consultation,October,Thursday,Spring,High School,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,Medical consultation,October,Wednesday,Spring,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Medical consultation,October,Wednesday,Spring,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,16,"Injury, poisoning and other consequences of external causes",October,Thursday,Spring,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,16,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,8,Diseases of the genitourinary system,October,Tuesday,Spring,High School,Overweight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,8,Medical consultation,March,Monday,Spring,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Dental consultation,October,Tuesday,Spring,High School,Healthy Weight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,Unjustified absence,October,Wednesday,Spring,High School,Obesity Class I
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,1,Medical consultation,October,Friday,Spring,High School,Overweight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,Dental consultation,October,Friday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Medical consultation,November,Thursday,Spring,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,Medical consultation,November,Wednesday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,Diseases of the musculoskeletal system and connective tissue,November,Thursday,Spring,High School,Obesity Class I
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,8,Factors influencing health status and contact with health services,November,Thursday,Spring,Graduate,Healthy Weight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,5,Medical consultation,November,Thursday,Spring,High School,Overweight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,32,Diseases of the respiratory system,November,Monday,Spring,High School,Overweight
-33,189,29,13.0,32.0,0,2,0,0,2,69.0,167,8,Patient follow-up,November,Monday,Spring,High School,Overweight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,40,Diseases of the genitourinary system,November,Monday,Spring,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,Medical consultation,November,Wednesday,Spring,High School,Healthy Weight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,8,Diseases of the nervous system,November,Friday,Spring,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Medical consultation,November,Wednesday,Spring,High School,Healthy Weight
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,8,Factors influencing health status and contact with health services,November,Wednesday,Spring,Graduate,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Diseases of the musculoskeletal system and connective tissue,November,Friday,Spring,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,Dental consultation,November,Friday,Spring,High School,Healthy Weight
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,1,Dental consultation,November,Monday,Spring,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Dental consultation,November,Tuesday,Spring,High School,Healthy Weight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,24,Diseases of the eye and adnexa,November,Wednesday,Spring,High School,Obesity Class I
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,3,Medical consultation,November,Thursday,Spring,High School,Overweight
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,1,Medical consultation,December,Tuesday,Spring,High School,Obesity Class I
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,64,"Injury, poisoning and other consequences of external causes",December,Tuesday,Spring,High School,Overweight
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,2,Medical consultation,December,Wednesday,Spring,High School,Obesity Class I
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,8,Unjustified absence,December,Wednesday,Spring,Postgraduate,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Medical consultation,December,Thursday,Spring,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,Unjustified absence,December,Friday,Spring,High School,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,56,"Injury, poisoning and other consequences of external causes",December,Tuesday,Spring,High School,Overweight
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,Patient follow-up,December,Wednesday,Spring,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Dental consultation,December,Thursday,Spring,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,Dental consultation,December,Friday,Spring,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Medical consultation,December,Tuesday,Spring,High School,Healthy Weight
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,Patient follow-up,December,Wednesday,Spring,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Physiotherapy,December,Friday,Spring,High School,Overweight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,"Injury, poisoning and other consequences of external causes",December,Friday,Autumn,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Medical consultation,December,Friday,Spring,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,Medical consultation,January,Wednesday,Spring,High School,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,1,"Injury, poisoning and other consequences of external causes",January,Monday,Spring,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,1,Physiotherapy,January,Tuesday,Autumn,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,1,Medical consultation,March,Monday,Spring,High School,Overweight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,8,"Symptoms, signs and abnormal clinical and laboratory findings",January,Tuesday,Autumn,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Physiotherapy,January,Wednesday,Autumn,High School,Healthy Weight
-27,184,42,7.0,38.0,0,0,0,0,0,58.0,167,2,Medical consultation,January,Thursday,Autumn,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Dental consultation,January,Thursday,Autumn,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,Physiotherapy,January,Friday,Autumn,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Physiotherapy,January,Monday,Autumn,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Physiotherapy,January,Tuesday,Spring,High School,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Physiotherapy,January,Tuesday,Autumn,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Physiotherapy,January,Wednesday,Spring,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Physiotherapy,January,Thursday,Autumn,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Physiotherapy,January,Friday,Spring,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Physiotherapy,January,Monday,Autumn,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Physiotherapy,January,Tuesday,Autumn,High School,Overweight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,8,"Symptoms, signs and abnormal clinical and laboratory findings",January,Tuesday,Autumn,Postgraduate,Healthy Weight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,"Symptoms, signs and abnormal clinical and laboratory findings",January,Tuesday,Autumn,High School,Obesity Class I
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Physiotherapy,January,Wednesday,Autumn,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Medical consultation,March,Monday,Spring,High School,Overweight
-27,184,42,7.0,38.0,0,0,0,0,0,58.0,167,2,Medical consultation,January,Thursday,Spring,High School,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Physiotherapy,January,Thursday,Autumn,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,0,Physiotherapy,January,Monday,Spring,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,Medical consultation,January,Tuesday,Autumn,High School,Healthy Weight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,3,Patient follow-up,January,Thursday,Autumn,High School,Obesity Class I
-27,184,42,7.0,38.0,0,0,0,0,0,58.0,167,1,Medical consultation,February,Friday,Autumn,High School,Healthy Weight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,Certain infectious and parasitic diseases,February,Wednesday,Autumn,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,Diseases of the digestive system,February,Wednesday,Autumn,High School,Obesity Class I
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,2,Dental consultation,February,Thursday,Spring,High School,Overweight
-33,189,29,13.0,32.0,0,2,0,0,2,69.0,167,8,Medical consultation,February,Thursday,Autumn,High School,Overweight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,2,Dental consultation,February,Friday,Autumn,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,2,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,Patient follow-up,February,Friday,Spring,High School,Obesity Class I
-50,388,15,9.0,15.0,0,0,0,0,0,76.0,178,8,Diseases of the digestive system,February,Monday,Autumn,High School,Healthy Weight
-50,388,15,9.0,15.0,0,0,0,0,0,76.0,178,8,Certain infectious and parasitic diseases,February,Tuesday,Autumn,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Dental consultation,February,Monday,Autumn,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Medical consultation,February,Tuesday,Spring,High School,Healthy Weight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,1,Medical consultation,February,Tuesday,Autumn,Postgraduate,Healthy Weight
-27,184,42,7.0,38.0,0,0,0,0,0,58.0,167,8,Medical consultation,February,Tuesday,Autumn,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Laboratory examination,February,Thursday,Autumn,High School,Healthy Weight
-28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,8,"Symptoms, signs and abnormal clinical and laboratory findings",February,Monday,Autumn,Graduate,Overweight
-28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,1,Medical consultation,February,Tuesday,Autumn,Graduate,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,Medical consultation,February,Wednesday,Autumn,High School,Healthy Weight
-33,189,29,13.0,32.0,0,2,0,0,2,69.0,167,8,"Injury, poisoning and other consequences of external causes",February,Thursday,Autumn,High School,Overweight
-32,291,50,12.0,33.0,0,0,1,0,0,65.0,169,2,Dental consultation,March,Tuesday,Autumn,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,"Injury, poisoning and other consequences of external causes",March,Tuesday,Autumn,High School,Healthy Weight
-29,157,27,6.0,36.0,0,0,1,1,0,75.0,185,3,"Injury, poisoning and other consequences of external causes",March,Tuesday,Autumn,High School,Healthy Weight
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,8,"Congenital malformations, deformations and chromosomal abnormalities",March,Tuesday,Autumn,Graduate,Healthy Weight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,8,Patient follow-up,March,Wednesday,Autumn,High School,Overweight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,Diseases of the musculoskeletal system and connective tissue,March,Wednesday,Spring,High School,Healthy Weight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,8,Diseases of the musculoskeletal system and connective tissue,March,Thursday,Autumn,Postgraduate,Healthy Weight
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,3,Diseases of the genitourinary system,March,Friday,Spring,High School,Obesity Class I
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,3,Medical consultation,March,Monday,Spring,High School,Obesity Class I
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,40,Diseases of the musculoskeletal system and connective tissue,March,Friday,Autumn,High School,Healthy Weight
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,40,Diseases of the digestive system,March,Monday,Spring,Graduate,Healthy Weight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,16,Certain infectious and parasitic diseases,March,Monday,Autumn,High School,Overweight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,16,Unjustified absence,March,Monday,Autumn,High School,Healthy Weight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,8,Diseases of the musculoskeletal system and connective tissue,March,Tuesday,Spring,High School,Overweight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,Diseases of the nervous system,March,Thursday,Autumn,High School,Obesity Class I
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,8,Diseases of the ear and mastoid process,March,Thursday,Autumn,Graduate,Healthy Weight
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,8,Medical consultation,March,Monday,Spring,Graduate,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,Dental consultation,March,Friday,Spring,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,Medical consultation,March,Friday,Autumn,High School,Healthy Weight
-39,279,5,14.0,26.0,0,2,1,1,0,68.0,168,8,Diseases of the genitourinary system,March,Monday,Autumn,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,24,Diseases of the musculoskeletal system and connective tissue,March,Tuesday,Spring,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Medical consultation,March,Wednesday,Autumn,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,Diseases of the digestive system,March,Monday,Winter,High School,Healthy Weight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,1,Diseases of the musculoskeletal system and connective tissue,March,Monday,Spring,Postgraduate,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,Diseases of the digestive system,March,Tuesday,Winter,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,16,Diseases of the digestive system,March,Wednesday,Winter,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Diseases of the musculoskeletal system and connective tissue,March,Wednesday,Spring,High School,Obesity Class I
-39,279,5,14.0,26.0,0,2,1,1,0,68.0,168,16,Diseases of the genitourinary system,March,Thursday,Spring,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Dental consultation,March,Friday,Winter,High School,Healthy Weight
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,3,Diseases of the genitourinary system,March,Friday,Winter,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,Dental consultation,March,Monday,Spring,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,1,Dental consultation,April,Wednesday,Winter,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,Medical consultation,April,Wednesday,Winter,High School,Healthy Weight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,1,Dental consultation,April,Tuesday,Spring,High School,Overweight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,24,Diseases of the musculoskeletal system and connective tissue,April,Wednesday,Winter,High School,Healthy Weight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,1,Medical consultation,April,Thursday,Winter,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Dental consultation,April,Friday,Winter,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,Dental consultation,April,Friday,Winter,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,24,Diseases of the musculoskeletal system and connective tissue,April,Wednesday,Winter,High School,Obesity Class I
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,Medical consultation,April,Thursday,Spring,High School,Obesity Class I
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,3,Medical consultation,April,Friday,Winter,High School,Overweight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,Diseases of the genitourinary system,April,Friday,Winter,High School,Healthy Weight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,1,Dental consultation,April,Friday,Winter,High School,Overweight
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,8,Dental consultation,April,Friday,Winter,High School,Obesity Class I
-36,260,50,11.0,29.0,0,4,1,0,0,66.0,168,56,"Injury, poisoning and other consequences of external causes",April,Friday,Winter,High School,Healthy Weight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,"Injury, poisoning and other consequences of external causes",April,Tuesday,Winter,High School,Obesity Class I
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,24,Diseases of the skin and subcutaneous tissue,April,Wednesday,Spring,High School,Overweight
-36,378,49,11.0,29.0,0,2,0,1,4,65.0,174,8,"Injury, poisoning and other consequences of external causes",April,Wednesday,Winter,High School,Healthy Weight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,16,Diseases of the musculoskeletal system and connective tissue,April,Thursday,Spring,High School,Obesity Class I
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,3,Diseases of the eye and adnexa,April,Friday,Winter,Postgraduate,Overweight
-48,235,29,12.0,17.0,1,1,0,1,5,88.0,163,0,Unspecified,April,Monday,Spring,High School,Obesity Class I
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,Diseases of the musculoskeletal system and connective tissue,May,Wednesday,Winter,High School,Obesity Class I
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,2,Dental consultation,May,Thursday,Winter,High School,Overweight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,1,Dental consultation,May,Monday,Winter,High School,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,"Symptoms, signs and abnormal clinical and laboratory findings",May,Tuesday,Winter,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,"Injury, poisoning and other consequences of external causes",May,Tuesday,Winter,High School,Healthy Weight
-27,184,42,7.0,38.0,0,0,0,0,0,58.0,167,4,Diseases of the eye and adnexa,May,Wednesday,Winter,High School,Healthy Weight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,2,Dental consultation,May,Monday,Spring,High School,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Diseases of the skin and subcutaneous tissue,May,Tuesday,Winter,High School,Obesity Class I
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,24,Diseases of the musculoskeletal system and connective tissue,May,Wednesday,Spring,High School,Obesity Class I
-39,279,5,14.0,26.0,1,2,1,1,0,68.0,168,0,Unspecified,May,Wednesday,Winter,High School,Healthy Weight
-28,330,16,4.0,37.0,1,0,0,0,0,84.0,182,0,Unspecified,May,Wednesday,Winter,Graduate,Overweight
-36,378,49,11.0,29.0,1,2,0,1,4,65.0,174,0,Unspecified,May,Wednesday,Winter,High School,Healthy Weight
-50,388,15,9.0,15.0,1,0,0,0,0,76.0,178,0,Unspecified,May,Wednesday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Diseases of the digestive system,May,Tuesday,Winter,High School,Obesity Class I
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,24,Diseases of the musculoskeletal system and connective tissue,May,Wednesday,Winter,High School,Obesity Class I
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,Patient follow-up,May,Friday,Winter,High School,Overweight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,"Injury, poisoning and other consequences of external causes",June,Monday,Winter,High School,Healthy Weight
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,Patient follow-up,June,Monday,Winter,High School,Overweight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,24,Diseases of the respiratory system,June,Tuesday,Winter,High School,Healthy Weight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,4,Medical consultation,June,Thursday,Spring,High School,Overweight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,Diseases of the respiratory system,June,Friday,Winter,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,Diseases of the digestive system,June,Monday,Winter,High School,Obesity Class I
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,4,Medical consultation,June,Monday,Winter,High School,Overweight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,Diseases of the respiratory system,June,Monday,Spring,High School,Healthy Weight
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,8,Diseases of the musculoskeletal system and connective tissue,June,Wednesday,Winter,High School,Obesity Class I
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,16,Diseases of the musculoskeletal system and connective tissue,June,Friday,Winter,Postgraduate,Overweight
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,Medical consultation,June,Tuesday,Winter,High School,Obesity Class I
-50,118,13,18.0,15.0,0,1,1,0,0,83.0,178,80,Diseases of the musculoskeletal system and connective tissue,June,Wednesday,Winter,High School,Obesity Class I
-50,118,13,18.0,15.0,0,1,1,0,0,83.0,178,80,Medical consultation,March,Monday,Spring,High School,Obesity Class I
-36,378,49,11.0,29.0,0,2,0,1,4,65.0,174,8,Patient follow-up,June,Thursday,Winter,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Diseases of the digestive system,June,Friday,Winter,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Medical consultation,March,Monday,Spring,High School,Obesity Class I
-49,289,48,29.0,16.0,0,0,0,0,2,108.0,172,2,Dental consultation,June,Monday,Spring,High School,Obesity Class II
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Dental consultation,June,Thursday,Spring,High School,Healthy Weight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,16,"Injury, poisoning and other consequences of external causes",July,Tuesday,Summer,High School,Overweight
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,8,Certain infectious and parasitic diseases,July,Wednesday,Spring,High School,Obesity Class I
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,Mental and behavioural disorders,July,Friday,Spring,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,4,Unjustified absence,July,Friday,Summer,High School,Overweight
-28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,8,Unjustified absence,July,Tuesday,Summer,Graduate,Overweight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,8,"Symptoms, signs and abnormal clinical and laboratory findings",July,Thursday,Spring,Postgraduate,Healthy Weight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,2,Laboratory examination,July,Friday,Spring,High School,Overweight
-28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,8,Certain infectious and parasitic diseases,July,Monday,Summer,Graduate,Overweight
-28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,8,Certain infectious and parasitic diseases,July,Tuesday,Summer,Graduate,Overweight
-29,157,27,6.0,36.0,0,0,1,1,0,75.0,185,3,Laboratory examination,July,Monday,Spring,High School,Healthy Weight
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,Patient follow-up,July,Tuesday,Summer,High School,Overweight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,Unjustified absence,July,Wednesday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,Unjustified absence,July,Thursday,Summer,High School,Obesity Class I
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,32,"Injury, poisoning and other consequences of external causes",July,Monday,Summer,High School,Obesity Class I
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,"Injury, poisoning and other consequences of external causes",July,Thursday,Summer,High School,Obesity Class I
-36,260,50,11.0,29.0,1,4,1,0,0,65.0,168,0,Unspecified,July,Thursday,Summer,High School,Healthy Weight
-36,260,50,11.0,29.0,1,4,1,0,0,65.0,168,0,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,"Injury, poisoning and other consequences of external causes",August,Friday,Summer,High School,Obesity Class I
-29,157,27,6.0,36.0,0,0,1,1,0,75.0,185,3,"Injury, poisoning and other consequences of external causes",August,Friday,Summer,High School,Healthy Weight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,1,Medical consultation,August,Monday,Spring,High School,Obesity Class I
-58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,8,"Symptoms, signs and abnormal clinical and laboratory findings",August,Tuesday,Summer,High School,Healthy Weight
-43,300,26,13.0,22.0,0,2,1,1,1,77.0,175,1,Diseases of the musculoskeletal system and connective tissue,August,Thursday,Summer,High School,Overweight
-43,300,26,13.0,22.0,0,2,1,1,1,77.0,175,2,Diseases of the genitourinary system,August,Thursday,Summer,High School,Overweight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,Dental consultation,August,Friday,Spring,High School,Healthy Weight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,4,Medical consultation,August,Tuesday,Summer,High School,Obesity Class I
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,4,Medical consultation,March,Monday,Spring,High School,Obesity Class I
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,1,Medical consultation,August,Wednesday,Summer,High School,Obesity Class I
-33,268,11,8.0,32.0,0,0,0,0,0,79.0,178,8,Diseases of the digestive system,August,Thursday,Summer,Graduate,Overweight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,1,Medical consultation,August,Thursday,Summer,Postgraduate,Healthy Weight
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,3,Diseases of the musculoskeletal system and connective tissue,August,Thursday,Spring,High School,Obesity Class I
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,2,Laboratory examination,August,Monday,Summer,High School,Obesity Class I
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,1,Medical consultation,August,Tuesday,Summer,Postgraduate,Overweight
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,Medical consultation,August,Thursday,Spring,High School,Obesity Class I
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,8,"Injury, poisoning and other consequences of external causes",August,Thursday,Summer,Postgraduate,Overweight
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,Diseases of the ear and mastoid process,August,Tuesday,Spring,High School,Overweight
-27,184,42,7.0,38.0,0,0,0,0,0,58.0,167,8,Diseases of the nervous system,August,Wednesday,Summer,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,Diseases of the digestive system,September,Monday,Summer,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Medical consultation,September,Friday,Summer,High School,Obesity Class I
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,24,"Injury, poisoning and other consequences of external causes",September,Wednesday,Summer,High School,Obesity Class I
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,24,Medical consultation,March,Monday,Spring,High School,Obesity Class I
-43,235,20,13.0,22.0,1,1,1,0,0,106.0,167,0,Unspecified,September,Thursday,Summer,High School,Obesity Class II
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,16,Diseases of the circulatory system,September,Monday,Summer,High School,Healthy Weight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,16,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,3,Dental consultation,September,Tuesday,Summer,High School,Overweight
-39,231,35,14.0,26.0,1,2,1,0,2,100.0,170,0,Unspecified,September,Tuesday,Summer,High School,Obesity Class II
-32,291,50,12.0,33.0,1,0,1,0,0,65.0,169,0,Unspecified,September,Tuesday,Summer,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,Diseases of the musculoskeletal system and connective tissue,September,Wednesday,Summer,High School,Obesity Class I
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,32,Diseases of the circulatory system,September,Wednesday,Spring,High School,Healthy Weight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,32,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Medical consultation,September,Thursday,Summer,High School,Obesity Class I
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,4,Dental consultation,September,Friday,Summer,High School,Overweight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,Dental consultation,September,Friday,Spring,High School,Healthy Weight
-43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,Unjustified absence,September,Wednesday,Spring,High School,Obesity Class II
-43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,Medical consultation,March,Monday,Spring,High School,Obesity Class II
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,Dental consultation,September,Thursday,Spring,High School,Obesity Class I
-43,235,20,13.0,22.0,1,1,1,0,0,106.0,167,0,Unspecified,September,Thursday,Spring,High School,Obesity Class II
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,3,Dental consultation,September,Friday,Spring,High School,Overweight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,40,Diseases of the eye and adnexa,September,Monday,Spring,High School,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,Diseases of the musculoskeletal system and connective tissue,September,Monday,Spring,High School,Obesity Class I
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,Blood donation,October,Monday,Spring,High School,Obesity Class I
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,4,Unjustified absence,October,Monday,Spring,Postgraduate,Overweight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,Unjustified absence,October,Monday,Spring,High School,Obesity Class I
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,Patient follow-up,October,Friday,Spring,High School,Obesity Class I
-50,118,13,18.0,15.0,1,1,1,0,0,98.0,178,0,Unspecified,October,Friday,Spring,High School,Obesity Class I
-47,248,25,14.0,18.0,1,2,0,0,1,86.0,165,0,Unspecified,October,Friday,Spring,High School,Obesity Class I
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,8,Certain infectious and parasitic diseases,October,Monday,Spring,Postgraduate,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,Diseases of the eye and adnexa,October,Monday,Spring,High School,Overweight
-31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,8,Patient follow-up,October,Monday,Spring,High School,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Dental consultation,October,Wednesday,Spring,High School,Obesity Class I
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,64,Certain infectious and parasitic diseases,October,Wednesday,Spring,Postgraduate,Healthy Weight
-43,235,20,13.0,22.0,1,1,1,0,0,106.0,167,0,Unspecified,October,Wednesday,Spring,High School,Obesity Class II
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,16,"Injury, poisoning and other consequences of external causes",October,Thursday,Spring,High School,Obesity Class I
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,Dental consultation,October,Friday,Spring,High School,Healthy Weight
-43,235,20,13.0,22.0,1,1,1,0,0,106.0,167,0,Unspecified,October,Friday,Spring,High School,Obesity Class II
-43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,2,Medical consultation,October,Monday,Spring,High School,Obesity Class II
-43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,2,Medical consultation,October,Monday,Spring,High School,Obesity Class II
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,Dental consultation,October,Tuesday,Spring,High School,Obesity Class I
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,4,Dental consultation,October,Tuesday,Spring,High School,Overweight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,16,Medical consultation,October,Thursday,Spring,Postgraduate,Healthy Weight
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,Dental consultation,October,Thursday,Spring,High School,Obesity Class I
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,Diseases of the respiratory system,October,Monday,Spring,High School,Overweight
-36,260,50,11.0,29.0,1,4,1,0,0,65.0,168,0,Unspecified,October,Tuesday,Spring,High School,Healthy Weight
-40,291,31,12.0,25.0,1,1,1,0,1,73.0,171,0,Unspecified,October,Tuesday,Spring,High School,Overweight
-29,157,27,6.0,36.0,1,0,1,1,0,75.0,185,0,Unspecified,October,Tuesday,Spring,High School,Healthy Weight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,5,Certain infectious and parasitic diseases,October,Wednesday,Spring,Postgraduate,Healthy Weight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,5,Diseases of the eye and adnexa,October,Wednesday,Spring,Postgraduate,Healthy Weight
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,Medical consultation,October,Thursday,Spring,High School,Obesity Class I
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,Diseases of the digestive system,November,Monday,Spring,High School,Overweight
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,2,Medical consultation,November,Monday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,Diseases of the nervous system,November,Tuesday,Spring,High School,Obesity Class I
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,Dental consultation,November,Friday,Spring,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,1,Medical consultation,November,Monday,Spring,High School,Overweight
-36,378,49,11.0,29.0,0,2,0,1,4,65.0,174,8,Certain infectious and parasitic diseases,November,Monday,Spring,High School,Healthy Weight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,120,Diseases of the digestive system,November,Monday,Spring,High School,Overweight
-43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,Unjustified absence,November,Monday,Spring,High School,Obesity Class II
-28,330,16,4.0,37.0,1,0,0,0,0,84.0,182,0,Unspecified,November,Tuesday,Spring,Graduate,Overweight
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,1,"Symptoms, signs and abnormal clinical and laboratory findings",November,Wednesday,Spring,Postgraduate,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,Diseases of the digestive system,November,Wednesday,Spring,High School,Overweight
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,2,Laboratory examination,November,Thursday,Spring,Postgraduate,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Dental consultation,November,Thursday,Spring,High School,Obesity Class I
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,Diseases of the musculoskeletal system and connective tissue,November,Friday,Spring,High School,Healthy Weight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,4,Diseases of the skin and subcutaneous tissue,November,Friday,Spring,High School,Overweight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,Diseases of the musculoskeletal system and connective tissue,November,Monday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Dental consultation,November,Tuesday,Spring,High School,Obesity Class I
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,Diseases of the respiratory system,November,Wednesday,Spring,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,"Pregnancy, childbirth and the puerperium",November,Friday,Spring,High School,Healthy Weight
-36,378,49,11.0,29.0,1,2,0,1,4,65.0,174,0,Unspecified,November,Friday,Spring,High School,Healthy Weight
-39,279,5,14.0,26.0,1,2,1,1,0,68.0,168,0,Unspecified,November,Tuesday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Medical consultation,November,Thursday,Spring,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Diseases of the skin and subcutaneous tissue,December,Monday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Dental consultation,December,Monday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Medical consultation,March,Monday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Dental consultation,December,Monday,Spring,High School,Obesity Class I
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,3,Medical consultation,December,Monday,Spring,Postgraduate,Overweight
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,Dental consultation,December,Tuesday,Spring,High School,Obesity Class I
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,Dental consultation,December,Friday,Spring,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,"Endocrine, nutritional and metabolic diseases",December,Thursday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Dental consultation,December,Thursday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Dental consultation,December,Friday,Spring,High School,Obesity Class I
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,1,Medical consultation,December,Tuesday,Spring,Postgraduate,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,Laboratory examination,December,Tuesday,Spring,High School,Overweight
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,2,Laboratory examination,December,Thursday,Spring,Postgraduate,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Dental consultation,December,Friday,Spring,High School,Obesity Class I
-43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,Diseases of the musculoskeletal system and connective tissue,December,Tuesday,Autumn,High School,Obesity Class II
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,4,Diseases of the genitourinary system,December,Tuesday,Autumn,Postgraduate,Overweight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,Unjustified absence,December,Wednesday,Autumn,High School,Healthy Weight
-29,157,27,6.0,36.0,0,0,1,1,0,75.0,185,2,Dental consultation,December,Monday,Autumn,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Dental consultation,December,Monday,Spring,High School,Obesity Class I
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,"Injury, poisoning and other consequences of external causes",December,Monday,Autumn,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,5,Medical consultation,January,Wednesday,Autumn,High School,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,98.0,172,32,"Injury, poisoning and other consequences of external causes",January,Monday,Autumn,High School,Overweight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,2,Medical consultation,January,Monday,Autumn,High School,Overweight
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,1,Diseases of the musculoskeletal system and connective tissue,January,Tuesday,Autumn,Postgraduate,Overweight
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,1,Medical consultation,March,Monday,Spring,Postgraduate,Overweight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,4,Medical consultation,January,Tuesday,Autumn,High School,Overweight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,Unjustified absence,January,Monday,Autumn,High School,Obesity Class I
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,8,Diseases of the blood and blood-forming organs and immune mechanism,January,Wednesday,Autumn,High School,Overweight
-43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,Unjustified absence,January,Monday,Autumn,High School,Obesity Class II
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,4,Unjustified absence,January,Monday,Autumn,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Dental consultation,January,Wednesday,Autumn,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Dental consultation,January,Friday,Autumn,High School,Obesity Class I
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Dental consultation,February,Tuesday,Autumn,High School,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,February,Wednesday,Spring,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,Diseases of the eye and adnexa,February,Wednesday,Autumn,High School,Healthy Weight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,3,Patient follow-up,February,Friday,Autumn,High School,Obesity Class I
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,Dental consultation,February,Friday,Autumn,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Medical consultation,February,Friday,Autumn,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Physiotherapy,February,Monday,Autumn,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,February,Wednesday,Autumn,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,Diseases of the respiratory system,February,Thursday,Autumn,High School,Obesity Class I
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,Unjustified absence,February,Thursday,Autumn,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,February,Friday,Autumn,High School,Obesity Class I
-33,189,29,13.0,32.0,0,2,0,0,2,69.0,167,8,Patient follow-up,February,Monday,Spring,High School,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,February,Monday,Autumn,High School,Obesity Class I
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,2,Medical consultation,February,Tuesday,Spring,High School,Healthy Weight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,2,Medical consultation,February,Tuesday,Autumn,High School,Overweight
-29,157,27,6.0,36.0,0,0,1,1,0,75.0,185,16,Diseases of the digestive system,February,Wednesday,Autumn,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,February,Wednesday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,February,Friday,Autumn,High School,Obesity Class I
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,24,Diseases of the respiratory system,February,Friday,Autumn,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,February,Wednesday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,February,Friday,Spring,High School,Obesity Class I
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,"Symptoms, signs and abnormal clinical and laboratory findings",March,Tuesday,Autumn,High School,Overweight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,16,"Injury, poisoning and other consequences of external causes",March,Wednesday,Autumn,High School,Healthy Weight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,2,Dental consultation,March,Friday,Autumn,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,Dental consultation,March,Friday,Autumn,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Dental consultation,March,Monday,Autumn,High School,Obesity Class I
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,8,Patient follow-up,March,Monday,Spring,Postgraduate,Overweight
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,8,Patient follow-up,March,Tuesday,Autumn,Graduate,Healthy Weight
-36,378,49,11.0,29.0,0,2,0,1,4,65.0,174,8,Patient follow-up,March,Tuesday,Autumn,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,16,Dental consultation,March,Monday,Autumn,High School,Obesity Class I
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,Patient follow-up,March,Wednesday,Autumn,High School,Overweight
-31,369,17,12.0,34.0,1,3,1,0,0,70.0,169,0,Unspecified,March,Wednesday,Spring,High School,Overweight
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,8,Factors influencing health status and contact with health services,March,Thursday,Autumn,Postgraduate,Overweight
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,2,Medical consultation,March,Friday,Spring,High School,Obesity Class I
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,2,Medical consultation,March,Monday,Spring,High School,Obesity Class I
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,3,Diseases of the genitourinary system,March,Tuesday,Spring,High School,Obesity Class I
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,8,Diseases of the musculoskeletal system and connective tissue,March,Wednesday,Spring,High School,Obesity Class I
-37,235,11,14.0,28.0,1,1,0,0,1,88.0,172,0,Unspecified,March,Thursday,Winter,Postgraduate,Overweight
-41,246,25,16.0,24.0,1,0,1,0,0,67.0,170,0,Unspecified,March,Thursday,Spring,High School,Healthy Weight
-50,118,13,18.0,15.0,1,1,1,0,0,98.0,178,0,Unspecified,March,Thursday,Winter,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,Dental consultation,March,Friday,Winter,High School,Obesity Class I
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,Patient follow-up,March,Friday,Winter,High School,Obesity Class I
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,"Injury, poisoning and other consequences of external causes",March,Monday,Spring,High School,Healthy Weight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,2,Dental consultation,March,Tuesday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,Dental consultation,April,Wednesday,Winter,High School,Obesity Class I
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,Dental consultation,April,Friday,Spring,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,4,Unjustified absence,April,Friday,Winter,Graduate,Overweight
-31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,4,Patient follow-up,April,Monday,Spring,High School,Overweight
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,4,Unjustified absence,April,Monday,Winter,High School,Obesity Class I
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,4,Medical consultation,March,Monday,Spring,High School,Obesity Class I
-28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,8,Medical consultation,April,Wednesday,Winter,Graduate,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,Dental consultation,April,Wednesday,Winter,High School,Obesity Class I
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,Medical consultation,April,Monday,Winter,High School,Obesity Class I
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,120,Diseases of the musculoskeletal system and connective tissue,April,Wednesday,Winter,High School,Obesity Class I
-43,300,26,13.0,22.0,0,2,1,1,1,77.0,175,8,Dental consultation,April,Friday,Winter,High School,Overweight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,Dental consultation,April,Friday,Winter,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,Dental consultation,April,Monday,Winter,High School,Obesity Class I
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Diseases of the digestive system,April,Wednesday,Winter,High School,Overweight
-43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,16,Diseases of the musculoskeletal system and connective tissue,May,Monday,Winter,High School,Obesity Class II
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,2,Medical consultation,May,Wednesday,Winter,High School,Obesity Class I
-31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,8,Diseases of the respiratory system,May,Monday,Spring,High School,Overweight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,3,Medical consultation,May,Wednesday,Winter,Postgraduate,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,Dental consultation,May,Wednesday,Winter,High School,Obesity Class I
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,1,Medical consultation,May,Thursday,Winter,High School,Overweight
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,1,Medical consultation,March,Monday,Spring,High School,Overweight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,Dental consultation,May,Friday,Winter,High School,Healthy Weight
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,2,Diseases of the digestive system,May,Monday,Winter,Graduate,Healthy Weight
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,3,Diseases of the ear and mastoid process,May,Monday,Winter,Graduate,Healthy Weight
-58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,8,"Symptoms, signs and abnormal clinical and laboratory findings",May,Wednesday,Winter,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Laboratory examination,May,Wednesday,Winter,High School,Healthy Weight
-28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,8,Diseases of the musculoskeletal system and connective tissue,May,Saturday,Winter,Graduate,Overweight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Laboratory examination,May,Monday,Winter,Postgraduate,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,1,Dental consultation,May,Monday,Winter,High School,Overweight
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,8,Certain infectious and parasitic diseases,May,Monday,Winter,Postgraduate,Overweight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,3,Medical consultation,May,Wednesday,Winter,Postgraduate,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,Medical consultation,June,Monday,Winter,High School,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Dental consultation,June,Monday,Winter,High School,Obesity Class I
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Dental consultation,June,Tuesday,Spring,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,4,Medical consultation,June,Thursday,Winter,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,Dental consultation,June,Friday,Winter,High School,Healthy Weight
-38,179,51,18.0,27.0,1,0,1,0,0,89.0,170,0,Unspecified,June,Friday,Winter,High School,Obesity Class I
-38,179,51,18.0,27.0,1,0,1,0,0,89.0,170,0,Medical consultation,March,Monday,Spring,High School,Obesity Class I
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,40,Diseases of the musculoskeletal system and connective tissue,June,Monday,Winter,High School,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,24,Dental consultation,June,Monday,Winter,High School,Obesity Class I
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,3,Dental consultation,June,Tuesday,Winter,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,Dental consultation,June,Monday,Winter,High School,Obesity Class I
-43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,Unjustified absence,June,Tuesday,Winter,High School,Obesity Class II
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Dental consultation,June,Saturday,Summer,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Medical consultation,June,Wednesday,Summer,High School,Healthy Weight
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,2,Medical consultation,June,Wednesday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,Mental and behavioural disorders,June,Wednesday,Spring,High School,Obesity Class I
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Factors influencing health status and contact with health services,June,Wednesday,Summer,Postgraduate,Healthy Weight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,2,Dental consultation,June,Friday,Summer,High School,Healthy Weight
-28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,1,Diseases of the digestive system,June,Tuesday,Spring,Graduate,Overweight
-28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,1,Medical consultation,March,Monday,Spring,Graduate,Overweight
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,8,Diseases of the musculoskeletal system and connective tissue,June,Tuesday,Summer,Postgraduate,Overweight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Medical consultation,July,Thursday,Spring,Postgraduate,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,4,Laboratory examination,July,Thursday,Summer,High School,Healthy Weight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,Diseases of the musculoskeletal system and connective tissue,July,Friday,Summer,High School,Healthy Weight
-33,268,11,8.0,32.0,0,0,0,0,0,79.0,178,8,Diseases of the eye and adnexa,July,Monday,Summer,Graduate,Overweight
-28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,8,Laboratory examination,July,Friday,Summer,Graduate,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,Unjustified absence,July,Friday,Summer,High School,Overweight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,Unjustified absence,July,Monday,Spring,High School,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,Dental consultation,July,Tuesday,Summer,High School,Overweight
-43,300,26,13.0,22.0,0,2,1,1,1,77.0,175,8,"Pregnancy, childbirth and the puerperium",July,Monday,Summer,High School,Overweight
-48,235,29,12.0,17.0,0,1,0,1,5,88.0,163,1,Medical consultation,July,Monday,Spring,High School,Obesity Class I
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,2,Dental consultation,July,Tuesday,Summer,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,112,Diseases of the circulatory system,July,Tuesday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Dental consultation,July,Tuesday,Summer,High School,Obesity Class I
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,Medical consultation,July,Friday,Summer,High School,Obesity Class I
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,Patient follow-up,July,Friday,Summer,High School,Overweight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,Patient follow-up,July,Monday,Summer,High School,Obesity Class I
-43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,Unjustified absence,July,Monday,Summer,High School,Obesity Class II
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,2,Dental consultation,July,Tuesday,Summer,High School,Healthy Weight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,1,Dental consultation,July,Thursday,Summer,High School,Overweight
-39,279,5,14.0,26.0,0,2,1,1,0,68.0,168,2,Medical consultation,July,Thursday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,Laboratory examination,August,Thursday,Summer,High School,Obesity Class I
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,1,Laboratory examination,August,Monday,Summer,Graduate,Healthy Weight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,4,Dental consultation,August,Tuesday,Summer,High School,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,4,Dental consultation,August,Tuesday,Spring,High School,Overweight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,Unjustified absence,August,Tuesday,Summer,High School,Obesity Class I
-43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,Unjustified absence,August,Tuesday,Spring,High School,Obesity Class II
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,4,Dental consultation,August,Thursday,Summer,High School,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,Laboratory examination,August,Monday,Summer,High School,Obesity Class I
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,8,Laboratory examination,August,Tuesday,Summer,Graduate,Healthy Weight
-28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,16,Medical consultation,August,Thursday,Summer,Graduate,Overweight
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,4,Medical consultation,August,Tuesday,Summer,Postgraduate,Overweight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,1,Dental consultation,August,Tuesday,Summer,High School,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,5,Dental consultation,August,Tuesday,Summer,High School,Overweight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,2,Dental consultation,August,Thursday,Spring,High School,Overweight
-36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,Dental consultation,August,Monday,Spring,High School,Healthy Weight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,1,Dental consultation,September,Tuesday,Summer,High School,Healthy Weight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,1,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,1,Dental consultation,September,Tuesday,Summer,High School,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,Dental consultation,September,Tuesday,Summer,High School,Overweight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,2,Medical consultation,September,Tuesday,Summer,High School,Overweight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,2,Dental consultation,September,Thursday,Spring,High School,Overweight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,8,Medical consultation,September,Friday,Spring,Postgraduate,Healthy Weight
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,1,Medical consultation,September,Friday,Summer,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,Medical consultation,September,Monday,Summer,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,Medical consultation,September,Wednesday,Summer,High School,Healthy Weight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Medical consultation,September,Monday,Summer,Postgraduate,Healthy Weight
-31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,8,Medical consultation,September,Tuesday,Spring,High School,Overweight
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,Patient follow-up,September,Tuesday,Spring,High School,Overweight
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,Medical consultation,March,Monday,Spring,High School,Overweight
-49,289,48,29.0,16.0,0,0,0,0,2,108.0,172,1,"Endocrine, nutritional and metabolic diseases",October,Thursday,Spring,High School,Obesity Class II
-32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,3,Diseases of the digestive system,October,Thursday,Spring,Postgraduate,Overweight
-41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,Unjustified absence,October,Friday,Spring,High School,Healthy Weight
-49,289,48,29.0,16.0,0,0,0,0,2,108.0,172,3,Diseases of the genitourinary system,October,Wednesday,Spring,High School,Obesity Class II
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,2,Dental consultation,October,Wednesday,Spring,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Medical consultation,October,Tuesday,Spring,High School,Overweight
-49,289,48,29.0,16.0,0,0,0,0,2,108.0,172,2,Medical consultation,October,Thursday,Spring,High School,Obesity Class II
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,1,Medical consultation,October,Friday,Spring,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Medical consultation,October,Tuesday,Spring,High School,Healthy Weight
-31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,8,Medical consultation,October,Tuesday,Spring,High School,Overweight
-31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,3,Medical consultation,October,Tuesday,Spring,High School,Overweight
-31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,3,Medical consultation,March,Monday,Spring,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,4,Medical consultation,October,Tuesday,Spring,High School,Healthy Weight
-31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,8,Unjustified absence,October,Tuesday,Spring,High School,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Dental consultation,October,Wednesday,Spring,High School,Obesity Class I
-58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,1,Certain infectious and parasitic diseases,October,Wednesday,Spring,High School,Healthy Weight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,1,Medical consultation,October,Wednesday,Spring,High School,Overweight
-31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,8,Diseases of the respiratory system,October,Thursday,Spring,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,Diseases of the musculoskeletal system and connective tissue,October,Thursday,Spring,High School,Healthy Weight
-31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,8,Diseases of the respiratory system,October,Friday,Spring,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Diseases of the respiratory system,October,Friday,Spring,High School,Healthy Weight
-33,189,29,13.0,32.0,0,2,0,0,2,69.0,167,8,Medical consultation,October,Monday,Spring,High School,Overweight
-32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,8,Diseases of the nervous system,October,Monday,Spring,Postgraduate,Overweight
-32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,8,Medical consultation,March,Monday,Spring,Postgraduate,Overweight
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,8,Diseases of the respiratory system,October,Monday,Spring,High School,Obesity Class I
-28,225,26,9.0,37.0,1,1,0,0,2,69.0,169,0,Unspecified,October,Monday,Spring,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Diseases of the musculoskeletal system and connective tissue,October,Tuesday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Factors influencing health status and contact with health services,November,Tuesday,Spring,High School,Obesity Class I
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,Dental consultation,November,Wednesday,Spring,High School,Overweight
-28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,24,Neoplasms,November,Wednesday,Spring,Graduate,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Dental consultation,November,Friday,Spring,High School,Obesity Class I
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,Diseases of the circulatory system,November,Tuesday,Spring,High School,Overweight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,Blood donation,November,Wednesday,Spring,High School,Obesity Class I
-32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,8,Certain infectious and parasitic diseases,November,Friday,Spring,Postgraduate,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,4,Medical consultation,November,Friday,Spring,High School,Healthy Weight
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,Patient follow-up,November,Tuesday,Spring,High School,Overweight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,2,Dental consultation,November,Wednesday,Spring,High School,Overweight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,2,Medical consultation,March,Monday,Spring,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Diseases of the musculoskeletal system and connective tissue,November,Thursday,Spring,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Diseases of the genitourinary system,November,Thursday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,Dental consultation,November,Monday,Spring,High School,Obesity Class I
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,Medical consultation,November,Monday,Spring,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,Diseases of the ear and mastoid process,November,Tuesday,Spring,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Medical consultation,November,Tuesday,Spring,High School,Healthy Weight
-40,291,31,12.0,25.0,1,1,1,0,1,73.0,171,0,Unspecified,November,Tuesday,Spring,High School,Overweight
-40,291,31,12.0,25.0,1,1,1,0,1,73.0,171,0,Medical consultation,March,Monday,Spring,High School,Overweight
-33,289,36,13.0,32.0,1,2,1,0,1,90.0,172,0,Unspecified,November,Wednesday,Spring,High School,Obesity Class I
-33,289,36,13.0,32.0,1,2,1,0,1,90.0,172,0,Medical consultation,March,Monday,Spring,High School,Obesity Class I
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,4,Diseases of the genitourinary system,November,Thursday,Spring,High School,Obesity Class I
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,4,Medical consultation,March,Monday,Spring,High School,Obesity Class I
-43,235,20,13.0,22.0,1,1,1,0,0,106.0,167,0,Unspecified,November,Thursday,Spring,High School,Obesity Class II
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Medical consultation,November,Friday,Spring,High School,Healthy Weight
-31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,8,Unjustified absence,November,Friday,Spring,High School,Overweight
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,2,Dental consultation,November,Monday,Spring,High School,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,32,Diseases of the musculoskeletal system and connective tissue,December,Tuesday,Spring,High School,Obesity Class I
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,1,Dental consultation,December,Wednesday,Spring,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Medical consultation,December,Wednesday,Spring,High School,Healthy Weight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,1,Diseases of the musculoskeletal system and connective tissue,December,Friday,Spring,Postgraduate,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Medical consultation,December,Friday,Spring,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Medical consultation,December,Wednesday,Spring,High School,Healthy Weight
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,4,Diseases of the genitourinary system,December,Thursday,Spring,High School,Overweight
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,2,"Symptoms, signs and abnormal clinical and laboratory findings",December,Friday,Spring,Graduate,Healthy Weight
-43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,Unjustified absence,December,Friday,Spring,High School,Obesity Class II
-31,233,51,1.0,34.0,0,1,1,0,8,68.0,178,8,"Symptoms, signs and abnormal clinical and laboratory findings",December,Monday,Spring,Graduate,Healthy Weight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,16,Diseases of the musculoskeletal system and connective tissue,December,Tuesday,Spring,Postgraduate,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Medical consultation,December,Tuesday,Spring,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Medical consultation,December,Thursday,Spring,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Medical consultation,December,Monday,Spring,High School,Healthy Weight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,80,"Symptoms, signs and abnormal clinical and laboratory findings",December,Tuesday,Autumn,High School,Overweight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,80,Medical consultation,March,Monday,Spring,High School,Overweight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,24,Diseases of the skin and subcutaneous tissue,January,Monday,Autumn,Postgraduate,Healthy Weight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,16,Diseases of the skin and subcutaneous tissue,January,Thursday,Autumn,Postgraduate,Healthy Weight
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,2,Laboratory examination,January,Thursday,Autumn,Graduate,Healthy Weight
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,2,Laboratory examination,January,Friday,Autumn,Graduate,Healthy Weight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,3,Diseases of the musculoskeletal system and connective tissue,January,Monday,Spring,Postgraduate,Healthy Weight
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,2,Laboratory examination,January,Wednesday,Autumn,Graduate,Healthy Weight
-49,289,48,29.0,16.0,0,0,0,0,2,108.0,172,8,Diseases of the respiratory system,January,Thursday,Autumn,High School,Obesity Class II
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,3,"Symptoms, signs and abnormal clinical and laboratory findings",January,Friday,Autumn,Graduate,Healthy Weight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Physiotherapy,January,Monday,Spring,Postgraduate,Healthy Weight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,8,"Symptoms, signs and abnormal clinical and laboratory findings",January,Tuesday,Spring,High School,Overweight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Physiotherapy,January,Wednesday,Autumn,Postgraduate,Healthy Weight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Medical consultation,March,Monday,Spring,Postgraduate,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,January,Wednesday,Autumn,High School,Obesity Class I
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,Diseases of the musculoskeletal system and connective tissue,January,Wednesday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,January,Thursday,Autumn,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Physiotherapy,January,Friday,Autumn,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Medical consultation,March,Monday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,Diseases of the musculoskeletal system and connective tissue,February,Tuesday,Spring,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Medical consultation,February,Tuesday,Autumn,High School,Healthy Weight
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,8,Certain infectious and parasitic diseases,February,Wednesday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Physiotherapy,February,Wednesday,Spring,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Dental consultation,February,Thursday,Spring,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Physiotherapy,February,Thursday,Spring,High School,Obesity Class I
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Physiotherapy,February,Thursday,Autumn,Postgraduate,Healthy Weight
-28,225,15,15.0,24.0,0,2,1,0,2,94.0,182,2,Dental consultation,February,Friday,Spring,Master’s or PhD,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Physiotherapy,February,Friday,Spring,High School,Obesity Class I
-31,233,51,1.0,34.0,0,1,1,0,8,68.0,178,2,"Injury, poisoning and other consequences of external causes",February,Monday,Spring,Graduate,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Physiotherapy,February,Monday,Autumn,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,Diseases of the eye and adnexa,February,Tuesday,Autumn,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,February,Wednesday,Autumn,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Medical consultation,March,Monday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,February,Thursday,Autumn,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Medical consultation,March,Monday,Spring,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Laboratory examination,February,Thursday,Autumn,High School,Healthy Weight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Diseases of the musculoskeletal system and connective tissue,February,Thursday,Autumn,Postgraduate,Healthy Weight
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,2,Medical consultation,February,Friday,Autumn,Graduate,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,February,Friday,Autumn,High School,Obesity Class I
-31,233,51,1.0,34.0,0,1,1,0,8,68.0,178,3,Diseases of the skin and subcutaneous tissue,February,Wednesday,Spring,Graduate,Healthy Weight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Physiotherapy,February,Wednesday,Autumn,Postgraduate,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Physiotherapy,February,Wednesday,Autumn,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,Diseases of the musculoskeletal system and connective tissue,February,Thursday,Autumn,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Physiotherapy,February,Friday,Autumn,High School,Obesity Class I
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,5,Laboratory examination,February,Monday,Autumn,High School,Overweight
-32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,3,Laboratory examination,February,Monday,Autumn,Postgraduate,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Physiotherapy,February,Monday,Autumn,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Diseases of the eye and adnexa,February,Monday,Autumn,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Physiotherapy,February,Tuesday,Autumn,High School,Obesity Class I
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,2,Medical consultation,February,Tuesday,Spring,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Laboratory examination,February,Tuesday,Autumn,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Physiotherapy,February,Wednesday,Autumn,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Physiotherapy,February,Thursday,Autumn,High School,Obesity Class I
-32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,2,Laboratory examination,February,Friday,Spring,Postgraduate,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Physiotherapy,March,Monday,Autumn,High School,Obesity Class I
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,2,Medical consultation,March,Monday,Autumn,High School,Obesity Class I
-58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,3,Laboratory examination,March,Tuesday,Autumn,High School,Healthy Weight
-58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,3,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,3,Laboratory examination,March,Tuesday,Autumn,High School,Obesity Class I
-58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,112,Diseases of the skin and subcutaneous tissue,March,Tuesday,Autumn,High School,Healthy Weight
-58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,112,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Physiotherapy,March,Wednesday,Autumn,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Physiotherapy,March,Thursday,Autumn,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,March,Thursday,Autumn,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Medical consultation,March,Monday,Spring,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,Laboratory examination,March,Thursday,Autumn,High School,Healthy Weight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,3,Physiotherapy,March,Friday,Autumn,Postgraduate,Healthy Weight
-32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,3,Laboratory examination,March,Monday,Autumn,Postgraduate,Overweight
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,"Injury, poisoning and other consequences of external causes",March,Monday,Autumn,High School,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,Diseases of the musculoskeletal system and connective tissue,March,Tuesday,Autumn,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Physiotherapy,March,Wednesday,Autumn,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,March,Thursday,Autumn,High School,Obesity Class I
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Physiotherapy,March,Friday,Autumn,Postgraduate,Healthy Weight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Medical consultation,March,Monday,Spring,Postgraduate,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,Diseases of the respiratory system,March,Monday,Autumn,High School,Obesity Class I
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,2,Diseases of the musculoskeletal system and connective tissue,March,Monday,Autumn,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,March,Monday,Autumn,High School,Obesity Class I
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,Diseases of the eye and adnexa,March,Monday,Autumn,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Physiotherapy,March,Tuesday,Autumn,High School,Obesity Class I
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,Medical consultation,March,Wednesday,Spring,High School,Obesity Class I
-58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,2,Laboratory examination,March,Wednesday,Autumn,High School,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,Physiotherapy,March,Wednesday,Autumn,High School,Obesity Class I
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,3,Medical consultation,March,Thursday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,March,Thursday,Autumn,High School,Obesity Class I
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Medical consultation,March,Friday,Autumn,Postgraduate,Healthy Weight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,March,Friday,Autumn,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,March,Tuesday,Winter,High School,Obesity Class I
-46,118,15,24.0,19.0,0,2,1,1,0,75.0,175,8,Medical consultation,March,Wednesday,Winter,High School,Overweight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,24,Diseases of the musculoskeletal system and connective tissue,March,Wednesday,Winter,High School,Overweight
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,March,Wednesday,Spring,High School,Obesity Class I
-38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,Physiotherapy,March,Thursday,Winter,High School,Obesity Class I
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Diseases of the musculoskeletal system and connective tissue,March,Monday,Winter,Postgraduate,Healthy Weight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,104,"Injury, poisoning and other consequences of external causes",March,Monday,Spring,High School,Obesity Class I
-31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,8,Patient follow-up,March,Wednesday,Winter,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,Diseases of the musculoskeletal system and connective tissue,April,Saturday,Spring,High School,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,Diseases of the respiratory system,April,Monday,Winter,High School,Overweight
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,"Injury, poisoning and other consequences of external causes",April,Tuesday,Winter,High School,Overweight
-47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,8,"Injury, poisoning and other consequences of external causes",April,Wednesday,Winter,High School,Obesity Class I
-33,189,29,13.0,32.0,0,2,0,0,2,69.0,167,8,Diseases of the musculoskeletal system and connective tissue,April,Thursday,Winter,High School,Overweight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Physiotherapy,April,Friday,Winter,Postgraduate,Healthy Weight
-31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,24,Diseases of the eye and adnexa,April,Monday,Winter,High School,Overweight
-31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,24,Medical consultation,March,Monday,Spring,High School,Overweight
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,2,Certain conditions originating in the perinatal period,April,Tuesday,Winter,Graduate,Healthy Weight
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,3,Medical consultation,April,Tuesday,Winter,High School,Obesity Class I
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,2,Medical consultation,April,Tuesday,Winter,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Diseases of the respiratory system,April,Wednesday,Winter,High School,Overweight
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,8,Patient follow-up,April,Friday,Winter,Postgraduate,Overweight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Physiotherapy,April,Friday,Winter,Postgraduate,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,"Injury, poisoning and other consequences of external causes",April,Monday,Spring,High School,Healthy Weight
-32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,3,Certain conditions originating in the perinatal period,April,Tuesday,Spring,Postgraduate,Overweight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Physiotherapy,April,Saturday,Spring,Postgraduate,Healthy Weight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,4,Dental consultation,April,Tuesday,Spring,High School,Overweight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,4,Medical consultation,March,Monday,Spring,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,"Injury, poisoning and other consequences of external causes",April,Thursday,Spring,High School,Healthy Weight
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,2,Diseases of the genitourinary system,April,Thursday,Winter,High School,Obesity Class I
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Physiotherapy,April,Friday,Winter,Postgraduate,Healthy Weight
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,8,Patient follow-up,May,Monday,Spring,Postgraduate,Overweight
-28,225,15,15.0,24.0,0,2,1,0,2,94.0,182,3,"Injury, poisoning and other consequences of external causes",May,Wednesday,Winter,Master’s or PhD,Overweight
-32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,2,Dental consultation,May,Wednesday,Winter,Postgraduate,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,Diseases of the ear and mastoid process,May,Wednesday,Winter,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,Medical consultation,March,Monday,Spring,High School,Overweight
-43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,Unjustified absence,May,Wednesday,Winter,High School,Obesity Class II
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,1,Diseases of the musculoskeletal system and connective tissue,May,Thursday,Winter,Postgraduate,Healthy Weight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,2,Dental consultation,May,Thursday,Winter,High School,Overweight
-28,225,15,15.0,24.0,0,2,1,0,2,94.0,182,8,Diseases of the genitourinary system,May,Thursday,Winter,Master’s or PhD,Overweight
-43,300,26,13.0,22.0,0,2,1,1,1,77.0,175,64,"Injury, poisoning and other consequences of external causes",May,Friday,Spring,High School,Overweight
-28,225,15,15.0,24.0,0,2,1,0,2,94.0,182,8,Patient follow-up,May,Friday,Spring,Master’s or PhD,Overweight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Physiotherapy,May,Friday,Winter,Postgraduate,Healthy Weight
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,2,Medical consultation,May,Monday,Winter,High School,Obesity Class I
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,3,Mental and behavioural disorders,May,Tuesday,Winter,High School,Obesity Class I
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,1,Dental consultation,May,Tuesday,Winter,High School,Overweight
-50,118,13,18.0,15.0,1,1,1,0,0,98.0,178,0,Unspecified,May,Tuesday,Winter,High School,Obesity Class I
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Physiotherapy,May,Wednesday,Winter,Postgraduate,Healthy Weight
-36,378,49,11.0,29.0,1,2,0,1,4,65.0,174,0,Unspecified,May,Wednesday,Winter,High School,Healthy Weight
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,1,Certain conditions originating in the perinatal period,May,Friday,Winter,Graduate,Healthy Weight
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,1,Medical consultation,March,Monday,Spring,Graduate,Healthy Weight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,48,Diseases of the respiratory system,May,Monday,Winter,High School,Overweight
-32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,8,Diseases of the respiratory system,May,Monday,Winter,Postgraduate,Overweight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,8,Patient follow-up,May,Wednesday,Winter,High School,Overweight
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,8,Diseases of the respiratory system,May,Wednesday,Winter,Graduate,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Diseases of the nervous system,May,Wednesday,Winter,High School,Healthy Weight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,Medical consultation,March,Monday,Spring,High School,Healthy Weight
-28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,8,Diseases of the respiratory system,May,Thursday,Winter,Graduate,Overweight
-32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,2,Medical consultation,May,Thursday,Spring,Postgraduate,Overweight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,2,Dental consultation,May,Thursday,Winter,High School,Overweight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Physiotherapy,May,Friday,Winter,Postgraduate,Healthy Weight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Medical consultation,March,Monday,Spring,Postgraduate,Healthy Weight
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,Diseases of the eye and adnexa,May,Monday,Winter,High School,Overweight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,2,Medical consultation,May,Wednesday,Spring,High School,Overweight
-40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,8,Laboratory examination,May,Friday,Winter,Graduate,Healthy Weight
-34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,8,Diseases of the respiratory system,May,Friday,Winter,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,Diseases of the digestive system,May,Monday,Spring,High School,Healthy Weight
-46,118,15,24.0,19.0,0,2,1,1,0,75.0,175,8,Diseases of the eye and adnexa,June,Wednesday,Winter,High School,Overweight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,3,Physiotherapy,June,Wednesday,Winter,Postgraduate,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,Unjustified absence,June,Friday,Winter,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,Diseases of the respiratory system,June,Wednesday,Winter,High School,Overweight
-36,378,49,11.0,29.0,0,2,0,1,4,65.0,174,8,Patient follow-up,June,Thursday,Winter,High School,Healthy Weight
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,24,"Injury, poisoning and other consequences of external causes",June,Thursday,Winter,High School,Obesity Class I
-31,233,51,1.0,34.0,0,1,1,0,8,68.0,178,8,"Injury, poisoning and other consequences of external causes",June,Friday,Winter,Graduate,Healthy Weight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Physiotherapy,June,Friday,Winter,Postgraduate,Healthy Weight
-48,235,29,12.0,17.0,1,1,0,1,5,88.0,163,0,Unspecified,June,Monday,Spring,High School,Obesity Class I
-33,268,11,8.0,32.0,1,0,0,0,0,79.0,178,0,Unspecified,June,Monday,Spring,Graduate,Overweight
-50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,3,"Injury, poisoning and other consequences of external causes",June,Thursday,Winter,High School,Obesity Class I
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,Diseases of the musculoskeletal system and connective tissue,June,Thursday,Winter,Postgraduate,Healthy Weight
-40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,2,Dental consultation,June,Thursday,Winter,High School,Overweight
-30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,3,Diseases of the musculoskeletal system and connective tissue,June,Monday,Summer,Postgraduate,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,Laboratory examination,June,Monday,Summer,High School,Overweight
-31,233,51,1.0,34.0,0,1,1,0,8,68.0,178,8,Patient follow-up,June,Thursday,Summer,Graduate,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Diseases of the ear and mastoid process,June,Friday,Summer,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,Diseases of the respiratory system,June,Wednesday,Summer,High School,Overweight
-31,233,51,1.0,34.0,0,1,1,0,8,68.0,178,3,Patient follow-up,June,Wednesday,Summer,Graduate,Healthy Weight
-43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,4,Unjustified absence,July,Wednesday,Summer,High School,Obesity Class II
-31,233,51,1.0,34.0,0,1,1,0,8,68.0,178,2,"Injury, poisoning and other consequences of external causes",July,Friday,Spring,Graduate,Healthy Weight
-31,233,51,1.0,34.0,0,1,1,0,8,68.0,178,2,Medical consultation,March,Monday,Spring,Graduate,Healthy Weight
-58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,8,Diseases of the nervous system,July,Monday,Summer,High School,Healthy Weight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,4,Dental consultation,July,Monday,Spring,High School,Overweight
-58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,120,Diseases of the nervous system,July,Tuesday,Summer,High School,Healthy Weight
-33,189,29,13.0,32.0,0,2,0,0,2,69.0,167,16,Patient follow-up,July,Tuesday,Summer,High School,Overweight
-37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,Medical consultation,July,Wednesday,Summer,High School,Overweight
-28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,Patient follow-up,July,Wednesday,Summer,High School,Overweight
-28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,Patient follow-up,July,Saturday,Summer,High School,Healthy Weight
-31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,80,Diseases of the musculoskeletal system and connective tissue,July,Monday,Spring,High School,Overweight
-33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,Diseases of the genitourinary system,July,Tuesday,Summer,High School,Obesity Class I
-37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,4,Diseases of the digestive system,July,Tuesday,Summer,Postgraduate,Overweight
-40,118,14,13.0,25.0,0,1,1,0,8,98.0,170,0,Unspecified,March,Tuesday,Summer,High School,Obesity Class I
-39,231,35,14.0,26.0,0,2,1,0,2,100.0,170,0,Unspecified,March,Wednesday,Spring,High School,Obesity Class II
-53,179,45,14.0,27.0,0,1,0,0,1,77.0,175,0,Unspecified,March,Friday,Spring,High School,Overweight
+Age,Transportation expense,Distance from Residence to Work,Service time,Years until retirement,Disciplinary failure,Number of children,Social drinker,Social smoker,Number of pets,Weight,Height,Absenteeism time in hours,Day of the week_Monday,Day of the week_Saturday,Day of the week_Thursday,Day of the week_Tuesday,Day of the week_Wednesday,Seasons_Spring,Seasons_Summer,Seasons_Winter,Education_High School,Education_Master’s or PhD,Education_Postgraduate,bmi_category_Obesity Class I,bmi_category_Obesity Class II,bmi_category_Overweight,Month_sin,Month_cos,Reason_for_abs_freq
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,4,0,0,0,1,0,0,1,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.04125
+50,118,13,18.0,15.0,1,1,1,0,0,98.0,178,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.05375
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,0,0,0,1,0,1,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.26125
+39,279,5,14.0,26.0,0,2,1,1,0,68.0,168,4,0,0,1,0,0,1,0,0,1,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.01875
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,2,0,0,1,0,0,0,1,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,0,0,0,0,0,1,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.26125
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,0,0,0,0,0,0,1,0,1,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.0475
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,0,0,0,0,0,0,1,0,1,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.26125
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,40,1,0,0,0,0,0,1,0,1,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.05
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,8,1,0,0,0,0,1,0,0,0,0,1,0,0,1,-0.4999999999999997,-0.8660254037844388,0.0475
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,1,0,0,0,0,0,1,0,1,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.02
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,0,1,0,0,0,0,1,0,1,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.02
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,0,0,0,0,1,0,1,0,1,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.0325
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.0325
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,0,0,0,0,1,1,0,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.26125
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,0,0,0,0,0,0,1,0,1,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.02375
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,0,0,0,0,0,1,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,1,0,0,0,0,0,1,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.0075
+33,189,29,13.0,32.0,0,2,0,0,2,69.0,167,8,0,0,1,0,0,0,1,0,1,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.0325
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,2,0,0,0,0,1,0,1,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.26125
+28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,8,0,0,0,0,1,0,1,0,0,0,0,0,0,1,-0.8660254037844385,-0.5000000000000004,0.03125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,1,0,0,0,0,0,1,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.0325
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,40,1,0,0,0,0,0,1,0,1,0,0,0,0,1,-0.8660254037844385,-0.5000000000000004,0.06875
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,0,0,0,0,0,0,1,0,1,0,0,0,0,0,-0.8660254037844385,-0.5000000000000004,0.14
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,1,0,0,0,0,1,0,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.02625
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,7,1,0,0,0,0,0,1,0,1,0,0,0,0,1,-0.8660254037844385,-0.5000000000000004,0.03875
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,7,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.26125
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,1,0,0,0,1,0,0,1,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.26125
+29,157,27,6.0,36.0,0,0,1,1,0,75.0,185,4,0,0,0,0,1,0,1,0,1,0,0,0,0,0,-0.8660254037844385,-0.5000000000000004,0.14
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,0,0,0,0,1,1,0,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.02625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,0,0,0,0,0,1,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,1,0,0,0,0,1,0,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.02625
+48,235,29,12.0,17.0,0,1,0,1,5,88.0,163,8,0,0,1,0,0,0,1,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.02625
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,4,0,0,1,0,0,0,1,0,0,0,1,0,0,1,-0.8660254037844385,-0.5000000000000004,0.26125
+48,235,29,12.0,17.0,0,1,0,1,5,88.0,163,8,1,0,0,0,0,0,1,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.02625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,1,0,0,0,0,0,1,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.26125
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,-0.8660254037844385,-0.5000000000000004,0.26125
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,0,0,0,1,0,0,1,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.00375
+32,291,50,12.0,33.0,0,0,1,0,0,65.0,169,4,0,0,1,0,0,0,1,0,1,0,0,0,0,0,-0.8660254037844385,-0.5000000000000004,0.0325
+48,235,29,12.0,17.0,0,1,0,1,5,88.0,163,8,0,0,0,0,0,1,0,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.14
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,0,0,0,0,0,0,1,0,1,0,0,0,0,0,-0.8660254037844385,-0.5000000000000004,0.26125
+27,184,42,7.0,38.0,0,0,0,0,0,58.0,167,2,0,0,0,1,0,0,1,0,1,0,0,0,0,0,-1.0,-1.8369701987210297e-16,0.26125
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,4,1,0,0,0,0,0,1,0,1,0,0,0,0,1,-1.0,-1.8369701987210297e-16,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,0,0,0,1,0,0,1,0,1,0,0,1,0,0,-1.0,-1.8369701987210297e-16,0.26125
+43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,0,0,0,1,0,1,0,0,1,0,0,0,1,0,-1.0,-1.8369701987210297e-16,0.05
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,2,0,0,0,0,1,0,1,0,1,0,0,0,0,1,-1.0,-1.8369701987210297e-16,0.26125
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,2,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.26125
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,1,0,0,0,0,0,1,0,1,0,0,0,0,1,-1.0,-1.8369701987210297e-16,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,1,0,0,1,0,1,0,0,1,0,0,-1.0,-1.8369701987210297e-16,0.26125
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,4,0,0,1,0,0,0,1,0,1,0,0,0,0,1,-1.0,-1.8369701987210297e-16,0.26125
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,0,0,0,0,0,0,1,0,1,0,0,0,0,0,-1.0,-1.8369701987210297e-16,0.0475
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,32,1,0,0,0,0,1,0,0,1,0,0,0,0,1,-1.0,-1.8369701987210297e-16,0.02375
+36,260,50,11.0,29.0,1,4,1,0,0,65.0,168,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,-1.0,-1.8369701987210297e-16,0.05375
+28,225,26,9.0,37.0,1,1,0,0,2,69.0,169,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,-1.0,-1.8369701987210297e-16,0.05375
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,0,1,0,1,0,0,1,0,0,0,0,0,-1.0,-1.8369701987210297e-16,0.26125
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-1.0,-1.8369701987210297e-16,0.26125
+33,289,36,13.0,32.0,1,2,1,0,1,90.0,172,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,-1.0,-1.8369701987210297e-16,0.05375
+50,118,13,18.0,15.0,1,1,1,0,0,98.0,178,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,-1.0,-1.8369701987210297e-16,0.05375
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,0,0,1,1,0,0,1,0,0,0,0,0,-1.0,-1.8369701987210297e-16,0.02625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,1,1,0,0,1,0,0,1,0,0,-1.0,-1.8369701987210297e-16,0.26125
+31,369,17,12.0,34.0,1,3,1,0,0,70.0,169,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,-1.0,-1.8369701987210297e-16,0.05375
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,-1.0,-1.8369701987210297e-16,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,0,1,0,0,1,0,0,1,0,0,-1.0,-1.8369701987210297e-16,0.26125
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-1.0,-1.8369701987210297e-16,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,1,0,1,0,0,1,0,0,1,0,0,-0.8660254037844386,0.5000000000000001,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.26125
+50,118,13,18.0,15.0,1,1,1,0,0,98.0,178,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,-0.8660254037844386,0.5000000000000001,0.05375
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,-0.8660254037844386,0.5000000000000001,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,0,1,0,0,1,0,0,1,0,0,-0.8660254037844386,0.5000000000000001,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.8660254037844386,0.5000000000000001,0.26125
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,0,0,1,1,0,0,1,0,0,0,0,0,-0.8660254037844386,0.5000000000000001,0.26125
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,2,0,0,0,0,1,1,0,0,1,0,0,1,0,0,-0.8660254037844386,0.5000000000000001,0.26125
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,5,0,0,1,0,0,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,0,0,0,0,1,1,0,0,1,0,0,1,0,0,-0.8660254037844386,0.5000000000000001,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,0,0,1,1,0,0,1,0,0,0,0,0,-0.8660254037844386,0.5000000000000001,0.26125
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,16,0,0,1,0,0,1,0,0,1,0,0,0,0,0,-0.8660254037844386,0.5000000000000001,0.05
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,16,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,8,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.02375
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,8,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,0,1,0,1,0,0,1,0,0,0,0,0,-0.8660254037844386,0.5000000000000001,0.14
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,0,0,0,0,1,1,0,0,1,0,0,1,0,0,-0.8660254037844386,0.5000000000000001,0.04125
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.26125
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.8660254037844386,0.5000000000000001,0.14
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,-0.5000000000000004,0.8660254037844384,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,0,0,1,0,0,1,0,0,1,0,0,1,0,0,-0.5000000000000004,0.8660254037844384,0.06875
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,8,0,0,1,0,0,1,0,0,0,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.0075
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,5,0,0,1,0,0,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.26125
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,32,1,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.03125
+33,189,29,13.0,32.0,0,2,0,0,2,69.0,167,8,1,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.0475
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,40,1,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.02375
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.26125
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,8,0,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.01
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,0,0,1,1,0,0,1,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.26125
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,8,0,0,0,0,1,1,0,0,0,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.0075
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.06875
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.14
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,-0.5000000000000004,0.8660254037844384,0.14
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,0,1,0,1,0,0,1,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.14
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,24,0,0,0,0,1,1,0,0,1,0,0,1,0,0,-0.5000000000000004,0.8660254037844384,0.01875
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,3,0,0,1,0,0,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.26125
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,-2.4492935982947064e-16,1.0,0.26125
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,64,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-2.4492935982947064e-16,1.0,0.05
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,2,0,0,0,0,1,1,0,0,1,0,0,1,0,0,-2.4492935982947064e-16,1.0,0.26125
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,8,0,0,0,0,1,1,0,0,0,0,1,0,0,1,-2.4492935982947064e-16,1.0,0.04125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,1,0,0,1,0,0,1,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.26125
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.04125
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,56,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-2.4492935982947064e-16,1.0,0.05
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,0,0,0,0,1,1,0,0,1,0,0,0,0,1,-2.4492935982947064e-16,1.0,0.0475
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,1,0,0,1,0,0,1,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.14
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.14
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,0,1,0,1,0,0,1,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.26125
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,0,0,0,0,1,1,0,0,1,0,0,0,0,1,-2.4492935982947064e-16,1.0,0.0475
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,0,0,0,0,0,1,0,0,1,0,0,0,0,1,-2.4492935982947064e-16,1.0,0.08625
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.05
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0.49999999999999994,0.8660254037844387,0.26125
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0.49999999999999994,0.8660254037844387,0.05
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0.49999999999999994,0.8660254037844387,0.08625
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.26125
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,8,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0.49999999999999994,0.8660254037844387,0.02625
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.49999999999999994,0.8660254037844387,0.08625
+27,184,42,7.0,38.0,0,0,0,0,0,58.0,167,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0.49999999999999994,0.8660254037844387,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0.49999999999999994,0.8660254037844387,0.14
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.49999999999999994,0.8660254037844387,0.08625
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0.49999999999999994,0.8660254037844387,0.08625
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0.49999999999999994,0.8660254037844387,0.08625
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0.49999999999999994,0.8660254037844387,0.08625
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0.49999999999999994,0.8660254037844387,0.08625
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0.49999999999999994,0.8660254037844387,0.08625
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0.49999999999999994,0.8660254037844387,0.08625
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0.49999999999999994,0.8660254037844387,0.08625
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0.49999999999999994,0.8660254037844387,0.08625
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,8,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0.49999999999999994,0.8660254037844387,0.02625
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0.49999999999999994,0.8660254037844387,0.02625
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0.49999999999999994,0.8660254037844387,0.08625
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.26125
+27,184,42,7.0,38.0,0,0,0,0,0,58.0,167,2,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0.49999999999999994,0.8660254037844387,0.26125
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0.49999999999999994,0.8660254037844387,0.08625
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0.49999999999999994,0.8660254037844387,0.08625
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0.49999999999999994,0.8660254037844387,0.26125
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,3,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0.49999999999999994,0.8660254037844387,0.0475
+27,184,42,7.0,38.0,0,0,0,0,0,58.0,167,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.26125
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.02
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.0325
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,2,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0.8660254037844386,0.5000000000000001,0.14
+33,189,29,13.0,32.0,0,2,0,0,2,69.0,167,8,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0.8660254037844386,0.5000000000000001,0.26125
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.14
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,2,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.0475
+50,388,15,9.0,15.0,0,0,0,0,0,76.0,178,8,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.0325
+50,388,15,9.0,15.0,0,0,0,0,0,76.0,178,8,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.02
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.14
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.26125
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0.8660254037844386,0.5000000000000001,0.26125
+27,184,42,7.0,38.0,0,0,0,0,0,58.0,167,8,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.03875
+28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0.8660254037844386,0.5000000000000001,0.02625
+28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0.8660254037844386,0.5000000000000001,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.26125
+33,189,29,13.0,32.0,0,2,0,0,2,69.0,167,8,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0.8660254037844386,0.5000000000000001,0.05
+32,291,50,12.0,33.0,0,0,1,0,0,65.0,169,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.14
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.05
+29,157,27,6.0,36.0,0,0,1,1,0,75.0,185,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.05
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1.0,6.123233995736766e-17,0.00125
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,8,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.0475
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.06875
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,8,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1.0,6.123233995736766e-17,0.06875
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,3,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.02375
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,3,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,40,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.06875
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,40,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1.0,6.123233995736766e-17,0.0325
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,16,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.02
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,16,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.04125
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,8,0,0,0,1,0,1,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.06875
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,0,0,1,0,0,0,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.01
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1.0,6.123233995736766e-17,0.0075
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,8,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.14
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+39,279,5,14.0,26.0,0,2,1,1,0,68.0,168,8,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.02375
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,24,0,0,0,1,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.06875
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.0325
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0,6.123233995736766e-17,0.06875
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.0325
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,16,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.0325
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,1,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.06875
+39,279,5,14.0,26.0,0,2,1,1,0,68.0,168,16,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.02375
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.14
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,3,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.02375
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.14
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0.8660254037844387,-0.4999999999999998,0.14
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0.8660254037844387,-0.4999999999999998,0.26125
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0.8660254037844387,-0.4999999999999998,0.14
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,24,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0.8660254037844387,-0.4999999999999998,0.06875
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,1,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0.8660254037844387,-0.4999999999999998,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0.8660254037844387,-0.4999999999999998,0.14
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0.8660254037844387,-0.4999999999999998,0.14
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,24,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0.8660254037844387,-0.4999999999999998,0.06875
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0.8660254037844387,-0.4999999999999998,0.26125
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,3,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0.8660254037844387,-0.4999999999999998,0.26125
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0.8660254037844387,-0.4999999999999998,0.02375
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0.8660254037844387,-0.4999999999999998,0.14
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,8,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0.8660254037844387,-0.4999999999999998,0.14
+36,260,50,11.0,29.0,0,4,1,0,0,66.0,168,56,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0.8660254037844387,-0.4999999999999998,0.05
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0.8660254037844387,-0.4999999999999998,0.05
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,24,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0.8660254037844387,-0.4999999999999998,0.01
+36,378,49,11.0,29.0,0,2,0,1,4,65.0,174,8,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0.8660254037844387,-0.4999999999999998,0.05
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,16,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0.8660254037844387,-0.4999999999999998,0.06875
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,3,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0.8660254037844387,-0.4999999999999998,0.01875
+48,235,29,12.0,17.0,1,1,0,1,5,88.0,163,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0.8660254037844387,-0.4999999999999998,0.05375
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0.49999999999999994,-0.8660254037844387,0.06875
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,2,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.14
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,1,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.14
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0.49999999999999994,-0.8660254037844387,0.02625
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0.49999999999999994,-0.8660254037844387,0.05
+27,184,42,7.0,38.0,0,0,0,0,0,58.0,167,4,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0.49999999999999994,-0.8660254037844387,0.01875
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,2,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.14
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0.49999999999999994,-0.8660254037844387,0.01
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,24,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0.49999999999999994,-0.8660254037844387,0.06875
+39,279,5,14.0,26.0,1,2,1,1,0,68.0,168,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0.49999999999999994,-0.8660254037844387,0.05375
+28,330,16,4.0,37.0,1,0,0,0,0,84.0,182,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.05375
+36,378,49,11.0,29.0,1,2,0,1,4,65.0,174,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0.49999999999999994,-0.8660254037844387,0.05375
+50,388,15,9.0,15.0,1,0,0,0,0,76.0,178,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0.49999999999999994,-0.8660254037844387,0.05375
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0.49999999999999994,-0.8660254037844387,0.0325
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,24,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0.49999999999999994,-0.8660254037844387,0.06875
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.0475
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1.2246467991473532e-16,-1.0,0.05
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1.2246467991473532e-16,-1.0,0.0475
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,24,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1.2246467991473532e-16,-1.0,0.03125
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,4,0,0,1,0,0,1,0,0,1,0,0,0,0,1,1.2246467991473532e-16,-1.0,0.26125
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1.2246467991473532e-16,-1.0,0.03125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,1,0,0,0,0,0,0,1,1,0,0,1,0,0,1.2246467991473532e-16,-1.0,0.0325
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,4,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1.2246467991473532e-16,-1.0,0.26125
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.2246467991473532e-16,-1.0,0.03125
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,8,0,0,0,0,1,0,0,1,1,0,0,1,0,0,1.2246467991473532e-16,-1.0,0.06875
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,16,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1.2246467991473532e-16,-1.0,0.06875
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,0,0,0,1,0,0,0,1,1,0,0,1,0,0,1.2246467991473532e-16,-1.0,0.26125
+50,118,13,18.0,15.0,0,1,1,0,0,83.0,178,80,0,0,0,0,1,0,0,1,1,0,0,1,0,0,1.2246467991473532e-16,-1.0,0.06875
+50,118,13,18.0,15.0,0,1,1,0,0,83.0,178,80,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+36,378,49,11.0,29.0,0,2,0,1,4,65.0,174,8,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1.2246467991473532e-16,-1.0,0.0475
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1.2246467991473532e-16,-1.0,0.0325
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+49,289,48,29.0,16.0,0,0,0,0,2,108.0,172,2,1,0,0,0,0,1,0,0,1,0,0,0,1,0,1.2246467991473532e-16,-1.0,0.14
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1.2246467991473532e-16,-1.0,0.14
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,16,0,0,0,1,0,0,1,0,1,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.05
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,8,0,0,0,0,1,1,0,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.02
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,0,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.00375
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,4,0,0,0,0,0,0,1,0,1,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.04125
+28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,8,0,0,0,1,0,0,1,0,0,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.04125
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,8,0,0,1,0,0,1,0,0,0,0,1,0,0,0,-0.4999999999999997,-0.8660254037844388,0.02625
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,2,0,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.03875
+28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,8,1,0,0,0,0,0,1,0,0,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.02
+28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,8,0,0,0,1,0,0,1,0,0,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.02
+29,157,27,6.0,36.0,0,0,1,1,0,75.0,185,3,1,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.03875
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,0,0,0,1,0,0,1,0,1,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.0475
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,0,0,0,0,1,1,0,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.04125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,0,0,1,0,0,0,1,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.04125
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,32,1,0,0,0,0,0,1,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.05
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,0,0,1,0,0,0,1,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.05
+36,260,50,11.0,29.0,1,4,1,0,0,65.0,168,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.05375
+36,260,50,11.0,29.0,1,4,1,0,0,65.0,168,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,0,0,0,0,0,0,1,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.05
+29,157,27,6.0,36.0,0,0,1,1,0,75.0,185,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,-0.8660254037844385,-0.5000000000000004,0.05
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.26125
+58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,8,0,0,0,1,0,0,1,0,1,0,0,0,0,0,-0.8660254037844385,-0.5000000000000004,0.02625
+43,300,26,13.0,22.0,0,2,1,1,1,77.0,175,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,-0.8660254037844385,-0.5000000000000004,0.06875
+43,300,26,13.0,22.0,0,2,1,1,1,77.0,175,2,0,0,1,0,0,0,1,0,1,0,0,0,0,1,-0.8660254037844385,-0.5000000000000004,0.02375
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.8660254037844385,-0.5000000000000004,0.14
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,4,0,0,0,1,0,0,1,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.26125
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,4,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,1,0,0,0,0,1,0,1,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.26125
+33,268,11,8.0,32.0,0,0,0,0,0,79.0,178,8,0,0,1,0,0,0,1,0,0,0,0,0,0,1,-0.8660254037844385,-0.5000000000000004,0.0325
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,-0.8660254037844385,-0.5000000000000004,0.26125
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,3,0,0,1,0,0,1,0,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.06875
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,2,1,0,0,0,0,0,1,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.03875
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,-0.8660254037844385,-0.5000000000000004,0.26125
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.26125
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,8,0,0,1,0,0,0,1,0,0,0,1,0,0,1,-0.8660254037844385,-0.5000000000000004,0.05
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-0.8660254037844385,-0.5000000000000004,0.0075
+27,184,42,7.0,38.0,0,0,0,0,0,58.0,167,8,0,0,0,0,1,0,1,0,1,0,0,0,0,0,-0.8660254037844385,-0.5000000000000004,0.01
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,1,0,0,0,0,0,1,0,1,0,0,1,0,0,-1.0,-1.8369701987210297e-16,0.0325
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,0,0,1,0,1,0,0,1,0,0,-1.0,-1.8369701987210297e-16,0.26125
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,24,0,0,0,0,1,0,1,0,1,0,0,1,0,0,-1.0,-1.8369701987210297e-16,0.05
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,24,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+43,235,20,13.0,22.0,1,1,1,0,0,106.0,167,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,-1.0,-1.8369701987210297e-16,0.05375
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,16,1,0,0,0,0,0,1,0,1,0,0,0,0,0,-1.0,-1.8369701987210297e-16,0.005
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,16,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,3,0,0,0,1,0,0,1,0,1,0,0,0,0,1,-1.0,-1.8369701987210297e-16,0.14
+39,231,35,14.0,26.0,1,2,1,0,2,100.0,170,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,-1.0,-1.8369701987210297e-16,0.05375
+32,291,50,12.0,33.0,1,0,1,0,0,65.0,169,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,-1.0,-1.8369701987210297e-16,0.05375
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,0,0,0,0,1,0,1,0,1,0,0,1,0,0,-1.0,-1.8369701987210297e-16,0.06875
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,32,0,0,0,0,1,1,0,0,1,0,0,0,0,0,-1.0,-1.8369701987210297e-16,0.005
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,32,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,-1.0,-1.8369701987210297e-16,0.26125
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,4,0,0,0,0,0,0,1,0,1,0,0,0,0,1,-1.0,-1.8369701987210297e-16,0.14
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-1.0,-1.8369701987210297e-16,0.14
+43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,0,0,0,0,1,1,0,0,1,0,0,0,1,0,-1.0,-1.8369701987210297e-16,0.04125
+43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,1,0,0,0,0,1,0,0,1,0,0,0,1,0,1.0,6.123233995736766e-17,0.26125
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,-1.0,-1.8369701987210297e-16,0.14
+43,235,20,13.0,22.0,1,1,1,0,0,106.0,167,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,-1.0,-1.8369701987210297e-16,0.05375
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,3,0,0,0,0,0,1,0,0,1,0,0,0,0,1,-1.0,-1.8369701987210297e-16,0.14
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,40,1,0,0,0,0,1,0,0,1,0,0,0,0,1,-1.0,-1.8369701987210297e-16,0.01875
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,1,0,0,0,0,1,0,0,1,0,0,1,0,0,-1.0,-1.8369701987210297e-16,0.06875
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,1,0,0,0,0,1,0,0,1,0,0,1,0,0,-0.8660254037844386,0.5000000000000001,0.00375
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,4,1,0,0,0,0,1,0,0,0,0,1,0,0,1,-0.8660254037844386,0.5000000000000001,0.04125
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,1,0,0,0,0,1,0,0,1,0,0,1,0,0,-0.8660254037844386,0.5000000000000001,0.04125
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,0,0,0,0,0,1,0,0,1,0,0,1,0,0,-0.8660254037844386,0.5000000000000001,0.0475
+50,118,13,18.0,15.0,1,1,1,0,0,98.0,178,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,-0.8660254037844386,0.5000000000000001,0.05375
+47,248,25,14.0,18.0,1,2,0,0,1,86.0,165,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,-0.8660254037844386,0.5000000000000001,0.05375
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,8,1,0,0,0,0,1,0,0,0,0,1,0,0,0,-0.8660254037844386,0.5000000000000001,0.02
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,1,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.01875
+31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,8,1,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.0475
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,-0.8660254037844386,0.5000000000000001,0.14
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,64,0,0,0,0,1,1,0,0,0,0,1,0,0,0,-0.8660254037844386,0.5000000000000001,0.02
+43,235,20,13.0,22.0,1,1,1,0,0,106.0,167,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,-0.8660254037844386,0.5000000000000001,0.05375
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,16,0,0,1,0,0,1,0,0,1,0,0,1,0,0,-0.8660254037844386,0.5000000000000001,0.05
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.8660254037844386,0.5000000000000001,0.14
+43,235,20,13.0,22.0,1,1,1,0,0,106.0,167,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,-0.8660254037844386,0.5000000000000001,0.05375
+43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,2,1,0,0,0,0,1,0,0,1,0,0,0,1,0,-0.8660254037844386,0.5000000000000001,0.26125
+43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,2,1,0,0,0,0,1,0,0,1,0,0,0,1,0,-0.8660254037844386,0.5000000000000001,0.26125
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,-0.8660254037844386,0.5000000000000001,0.14
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,4,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.14
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,16,0,0,1,0,0,1,0,0,0,0,1,0,0,0,-0.8660254037844386,0.5000000000000001,0.26125
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,-0.8660254037844386,0.5000000000000001,0.14
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,1,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.03125
+36,260,50,11.0,29.0,1,4,1,0,0,65.0,168,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,-0.8660254037844386,0.5000000000000001,0.05375
+40,291,31,12.0,25.0,1,1,1,0,1,73.0,171,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.05375
+29,157,27,6.0,36.0,1,0,1,1,0,75.0,185,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,-0.8660254037844386,0.5000000000000001,0.05375
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,5,0,0,0,0,1,1,0,0,0,0,1,0,0,0,-0.8660254037844386,0.5000000000000001,0.02
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,5,0,0,0,0,1,1,0,0,0,0,1,0,0,0,-0.8660254037844386,0.5000000000000001,0.01875
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,-0.8660254037844386,0.5000000000000001,0.26125
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,1,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.0325
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,2,1,0,0,0,0,1,0,0,1,0,0,1,0,0,-0.5000000000000004,0.8660254037844384,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,0,0,0,1,0,1,0,0,1,0,0,1,0,0,-0.5000000000000004,0.8660254037844384,0.01
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.14
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.26125
+36,378,49,11.0,29.0,0,2,0,1,4,65.0,174,8,1,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.02
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,120,1,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.0325
+43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,1,0,0,0,0,1,0,0,1,0,0,0,1,0,-0.5000000000000004,0.8660254037844384,0.04125
+28,330,16,4.0,37.0,1,0,0,0,0,84.0,182,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.05375
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,1,0,0,0,0,1,1,0,0,0,0,1,0,0,1,-0.5000000000000004,0.8660254037844384,0.02625
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,0,0,0,0,1,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.0325
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,2,0,0,1,0,0,1,0,0,0,0,1,0,0,1,-0.5000000000000004,0.8660254037844384,0.03875
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,1,0,0,1,0,0,1,0,0,1,0,0,-0.5000000000000004,0.8660254037844384,0.14
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.06875
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,4,0,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.01
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,1,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.06875
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,-0.5000000000000004,0.8660254037844384,0.14
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,0,0,0,0,1,1,0,0,1,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.03125
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.0025
+36,378,49,11.0,29.0,1,2,0,1,4,65.0,174,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.05375
+39,279,5,14.0,26.0,1,2,1,1,0,68.0,168,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.05375
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,-0.5000000000000004,0.8660254037844384,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,1,0,0,0,0,1,0,0,1,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.01
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,1,0,0,0,0,1,0,0,1,0,0,1,0,0,-2.4492935982947064e-16,1.0,0.14
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,-2.4492935982947064e-16,1.0,0.14
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,3,1,0,0,0,0,1,0,0,0,0,1,0,0,1,-2.4492935982947064e-16,1.0,0.26125
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,-2.4492935982947064e-16,1.0,0.14
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.14
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,0,0,1,0,0,1,0,0,1,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.0025
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,-2.4492935982947064e-16,1.0,0.14
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,-2.4492935982947064e-16,1.0,0.14
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,-2.4492935982947064e-16,1.0,0.26125
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-2.4492935982947064e-16,1.0,0.03875
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,2,0,0,1,0,0,1,0,0,0,0,1,0,0,1,-2.4492935982947064e-16,1.0,0.03875
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,-2.4492935982947064e-16,1.0,0.14
+43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,0,0,0,1,0,0,0,0,1,0,0,0,1,0,-2.4492935982947064e-16,1.0,0.06875
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,4,0,0,0,1,0,0,0,0,0,0,1,0,0,1,-2.4492935982947064e-16,1.0,0.02375
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,0,0,0,0,1,0,0,0,1,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.04125
+29,157,27,6.0,36.0,0,0,1,1,0,75.0,185,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.14
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,1,0,0,0,0,1,0,0,1,0,0,1,0,0,-2.4492935982947064e-16,1.0,0.14
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,1,0,0,0,0,0,0,0,1,0,0,1,0,0,-2.4492935982947064e-16,1.0,0.05
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,5,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.49999999999999994,0.8660254037844387,0.26125
+37,118,10,10.0,28.0,0,0,0,0,0,98.0,172,32,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0.49999999999999994,0.8660254037844387,0.05
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,2,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0.49999999999999994,0.8660254037844387,0.26125
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0.49999999999999994,0.8660254037844387,0.06875
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,1.0,6.123233995736766e-17,0.26125
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,4,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0.49999999999999994,0.8660254037844387,0.26125
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0.49999999999999994,0.8660254037844387,0.04125
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,8,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0.49999999999999994,0.8660254037844387,0.00125
+43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0.49999999999999994,0.8660254037844387,0.04125
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,4,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0.49999999999999994,0.8660254037844387,0.04125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0.49999999999999994,0.8660254037844387,0.14
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.49999999999999994,0.8660254037844387,0.14
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0.8660254037844386,0.5000000000000001,0.14
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.01875
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,3,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.0475
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.14
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.03125
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.04125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+33,189,29,13.0,32.0,0,2,0,0,2,69.0,167,8,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0.8660254037844386,0.5000000000000001,0.0475
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,2,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.26125
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,2,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0.8660254037844386,0.5000000000000001,0.26125
+29,157,27,6.0,36.0,0,0,1,1,0,75.0,185,16,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.0325
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,24,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.03125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.02625
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,16,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.05
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.14
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.14
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.14
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,8,1,0,0,0,0,1,0,0,0,0,1,0,0,1,1.0,6.123233995736766e-17,0.0475
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1.0,6.123233995736766e-17,0.0475
+36,378,49,11.0,29.0,0,2,0,1,4,65.0,174,8,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.0475
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,16,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.14
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.0475
+31,369,17,12.0,34.0,1,3,1,0,0,70.0,169,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.05375
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,8,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1.0,6.123233995736766e-17,0.0075
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,2,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,2,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,3,0,0,0,1,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.02375
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,8,0,0,0,0,1,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.06875
+37,235,11,14.0,28.0,1,1,0,0,1,88.0,172,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1.0,6.123233995736766e-17,0.05375
+41,246,25,16.0,24.0,1,0,1,0,0,67.0,170,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.05375
+50,118,13,18.0,15.0,1,1,1,0,0,98.0,178,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.05375
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.14
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.0475
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.05
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,2,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.14
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0.8660254037844387,-0.4999999999999998,0.14
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.8660254037844387,-0.4999999999999998,0.14
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,4,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0.8660254037844387,-0.4999999999999998,0.04125
+31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,4,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0.8660254037844387,-0.4999999999999998,0.0475
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,4,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0.8660254037844387,-0.4999999999999998,0.04125
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,4,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,8,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0.8660254037844387,-0.4999999999999998,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0.8660254037844387,-0.4999999999999998,0.14
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0.8660254037844387,-0.4999999999999998,0.26125
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,120,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0.8660254037844387,-0.4999999999999998,0.06875
+43,300,26,13.0,22.0,0,2,1,1,1,77.0,175,8,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0.8660254037844387,-0.4999999999999998,0.14
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0.8660254037844387,-0.4999999999999998,0.14
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0.8660254037844387,-0.4999999999999998,0.14
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0.8660254037844387,-0.4999999999999998,0.0325
+43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,16,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0.49999999999999994,-0.8660254037844387,0.06875
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,2,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0.49999999999999994,-0.8660254037844387,0.26125
+31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,8,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.03125
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,3,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0.49999999999999994,-0.8660254037844387,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0.49999999999999994,-0.8660254037844387,0.14
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,1,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.26125
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.26125
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0.49999999999999994,-0.8660254037844387,0.14
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.49999999999999994,-0.8660254037844387,0.0325
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.49999999999999994,-0.8660254037844387,0.0075
+58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,8,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0.49999999999999994,-0.8660254037844387,0.02625
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0.49999999999999994,-0.8660254037844387,0.03875
+28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,8,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.06875
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0.49999999999999994,-0.8660254037844387,0.03875
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,1,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.14
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,8,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0.49999999999999994,-0.8660254037844387,0.02
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,3,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0.49999999999999994,-0.8660254037844387,0.26125
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1.2246467991473532e-16,-1.0,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,1,0,0,0,0,0,0,1,1,0,0,1,0,0,1.2246467991473532e-16,-1.0,0.14
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,0,0,0,1,0,1,0,0,1,0,0,0,0,1,1.2246467991473532e-16,-1.0,0.14
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,4,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1.2246467991473532e-16,-1.0,0.26125
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1.2246467991473532e-16,-1.0,0.14
+38,179,51,18.0,27.0,1,0,1,0,0,89.0,170,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1.2246467991473532e-16,-1.0,0.05375
+38,179,51,18.0,27.0,1,0,1,0,0,89.0,170,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,40,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1.2246467991473532e-16,-1.0,0.06875
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,24,1,0,0,0,0,0,0,1,1,0,0,1,0,0,1.2246467991473532e-16,-1.0,0.14
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,3,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1.2246467991473532e-16,-1.0,0.14
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,1,0,0,0,0,0,0,1,1,0,0,1,0,0,1.2246467991473532e-16,-1.0,0.14
+43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,0,0,0,1,0,0,0,1,1,0,0,0,1,0,1.2246467991473532e-16,-1.0,0.04125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,1,0,0,0,0,1,0,1,0,0,1,0,0,1.2246467991473532e-16,-1.0,0.14
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1.2246467991473532e-16,-1.0,0.26125
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,2,0,0,0,0,1,1,0,0,1,0,0,1,0,0,1.2246467991473532e-16,-1.0,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,0,0,0,0,1,1,0,0,1,0,0,1,0,0,1.2246467991473532e-16,-1.0,0.00375
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1.2246467991473532e-16,-1.0,0.0075
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1.2246467991473532e-16,-1.0,0.14
+28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1.2246467991473532e-16,-1.0,0.0325
+28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1.0,6.123233995736766e-17,0.26125
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,8,0,0,0,1,0,0,1,0,0,0,1,0,0,1,1.2246467991473532e-16,-1.0,0.06875
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,0,0,1,0,0,1,0,0,0,0,1,0,0,0,-0.4999999999999997,-0.8660254037844388,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,4,0,0,1,0,0,0,1,0,1,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.03875
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,8,0,0,0,0,0,0,1,0,1,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.06875
+33,268,11,8.0,32.0,0,0,0,0,0,79.0,178,8,1,0,0,0,0,0,1,0,0,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.01875
+28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,8,0,0,0,0,0,0,1,0,0,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.03875
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,0,0,0,0,0,0,1,0,1,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.04125
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,4,1,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.04125
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,0,0,0,1,0,0,1,0,1,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.14
+43,300,26,13.0,22.0,0,2,1,1,1,77.0,175,8,1,0,0,0,0,0,1,0,1,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.0025
+48,235,29,12.0,17.0,0,1,0,1,5,88.0,163,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.26125
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,2,0,0,0,1,0,0,1,0,1,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.14
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,112,0,0,0,1,0,1,0,0,1,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.005
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,0,0,0,1,0,0,1,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.14
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.26125
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,0,0,0,0,0,0,1,0,1,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.0475
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,1,0,0,0,0,0,1,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.0475
+43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,1,0,0,0,0,0,1,0,1,0,0,0,1,0,-0.4999999999999997,-0.8660254037844388,0.04125
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,2,0,0,0,1,0,0,1,0,1,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.14
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.14
+39,279,5,14.0,26.0,0,2,1,1,0,68.0,168,2,0,0,1,0,0,1,0,0,1,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,0,0,1,0,0,0,1,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.03875
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,-0.8660254037844385,-0.5000000000000004,0.03875
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,4,0,0,0,1,0,0,1,0,1,0,0,0,0,0,-0.8660254037844385,-0.5000000000000004,0.14
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,4,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-0.8660254037844385,-0.5000000000000004,0.14
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,0,0,0,1,0,0,1,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.04125
+43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,0,0,0,1,0,1,0,0,1,0,0,0,1,0,-0.8660254037844385,-0.5000000000000004,0.04125
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,4,0,0,1,0,0,0,1,0,1,0,0,0,0,1,-0.8660254037844385,-0.5000000000000004,0.14
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,1,0,0,0,0,0,1,0,1,0,0,1,0,0,-0.8660254037844385,-0.5000000000000004,0.03875
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,8,0,0,0,1,0,0,1,0,0,0,0,0,0,0,-0.8660254037844385,-0.5000000000000004,0.03875
+28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,16,0,0,1,0,0,0,1,0,0,0,0,0,0,1,-0.8660254037844385,-0.5000000000000004,0.26125
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,4,0,0,0,1,0,0,1,0,0,0,1,0,0,1,-0.8660254037844385,-0.5000000000000004,0.26125
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,-0.8660254037844385,-0.5000000000000004,0.14
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,5,0,0,0,1,0,0,1,0,1,0,0,0,0,1,-0.8660254037844385,-0.5000000000000004,0.14
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,2,0,0,1,0,0,1,0,0,1,0,0,0,0,1,-0.8660254037844385,-0.5000000000000004,0.14
+36,260,50,11.0,29.0,0,4,1,0,0,65.0,168,3,1,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.8660254037844385,-0.5000000000000004,0.14
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,-1.0,-1.8369701987210297e-16,0.14
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,-1.0,-1.8369701987210297e-16,0.14
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,0,0,0,1,0,0,1,0,1,0,0,0,0,1,-1.0,-1.8369701987210297e-16,0.14
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,2,0,0,0,1,0,0,1,0,1,0,0,0,0,1,-1.0,-1.8369701987210297e-16,0.26125
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,2,0,0,1,0,0,1,0,0,1,0,0,0,0,1,-1.0,-1.8369701987210297e-16,0.14
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,8,0,0,0,0,0,1,0,0,0,0,1,0,0,0,-1.0,-1.8369701987210297e-16,0.26125
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,-1.0,-1.8369701987210297e-16,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,1,0,0,0,0,0,1,0,1,0,0,1,0,0,-1.0,-1.8369701987210297e-16,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,-1.0,-1.8369701987210297e-16,0.26125
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,1,0,0,0,0,0,1,0,0,0,1,0,0,0,-1.0,-1.8369701987210297e-16,0.26125
+31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,8,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-1.0,-1.8369701987210297e-16,0.26125
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-1.0,-1.8369701987210297e-16,0.0475
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.26125
+49,289,48,29.0,16.0,0,0,0,0,2,108.0,172,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,-0.8660254037844386,0.5000000000000001,0.0025
+32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,3,0,0,1,0,0,1,0,0,0,0,1,0,0,1,-0.8660254037844386,0.5000000000000001,0.0325
+41,246,25,16.0,24.0,0,0,1,0,0,67.0,170,8,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.8660254037844386,0.5000000000000001,0.04125
+49,289,48,29.0,16.0,0,0,0,0,2,108.0,172,3,0,0,0,0,1,1,0,0,1,0,0,0,1,0,-0.8660254037844386,0.5000000000000001,0.02375
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,2,0,0,0,0,1,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.14
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.26125
+49,289,48,29.0,16.0,0,0,0,0,2,108.0,172,2,0,0,1,0,0,1,0,0,1,0,0,0,1,0,-0.8660254037844386,0.5000000000000001,0.26125
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,0,1,0,1,0,0,1,0,0,0,0,0,-0.8660254037844386,0.5000000000000001,0.26125
+31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,8,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.26125
+31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,3,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.26125
+31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,3,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,4,0,0,0,1,0,1,0,0,1,0,0,0,0,0,-0.8660254037844386,0.5000000000000001,0.26125
+31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,8,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.04125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,1,1,0,0,1,0,0,1,0,0,-0.8660254037844386,0.5000000000000001,0.14
+58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,-0.8660254037844386,0.5000000000000001,0.02
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.26125
+31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,8,0,0,1,0,0,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.03125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,-0.8660254037844386,0.5000000000000001,0.06875
+31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,8,0,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.03125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.8660254037844386,0.5000000000000001,0.03125
+33,189,29,13.0,32.0,0,2,0,0,2,69.0,167,8,1,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.8660254037844386,0.5000000000000001,0.26125
+32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,8,1,0,0,0,0,1,0,0,0,0,1,0,0,1,-0.8660254037844386,0.5000000000000001,0.01
+32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,8,1,0,0,0,0,1,0,0,0,0,1,0,0,1,1.0,6.123233995736766e-17,0.26125
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,8,1,0,0,0,0,1,0,0,1,0,0,1,0,0,-0.8660254037844386,0.5000000000000001,0.03125
+28,225,26,9.0,37.0,1,1,0,0,2,69.0,169,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.8660254037844386,0.5000000000000001,0.05375
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,0,1,0,1,0,0,1,0,0,0,0,0,-0.8660254037844386,0.5000000000000001,0.06875
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,-0.5000000000000004,0.8660254037844384,0.0075
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,0,0,0,0,1,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.14
+28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,24,0,0,0,0,1,1,0,0,0,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.00125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,-0.5000000000000004,0.8660254037844384,0.14
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.005
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,0,0,0,0,1,1,0,0,1,0,0,1,0,0,-0.5000000000000004,0.8660254037844384,0.00375
+32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,8,0,0,0,0,0,1,0,0,0,0,1,0,0,1,-0.5000000000000004,0.8660254037844384,0.02
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.26125
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.0475
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,2,0,0,0,0,1,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.14
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,2,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.26125
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,0,0,1,0,0,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.06875
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,1,0,0,1,0,0,1,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.02375
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,-0.5000000000000004,0.8660254037844384,0.14
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,1,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.26125
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.0075
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,0,1,0,1,0,0,1,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.26125
+40,291,31,12.0,25.0,1,1,1,0,1,73.0,171,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.05375
+40,291,31,12.0,25.0,1,1,1,0,1,73.0,171,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.26125
+33,289,36,13.0,32.0,1,2,1,0,1,90.0,172,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,-0.5000000000000004,0.8660254037844384,0.05375
+33,289,36,13.0,32.0,1,2,1,0,1,90.0,172,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,4,0,0,1,0,0,1,0,0,1,0,0,1,0,0,-0.5000000000000004,0.8660254037844384,0.02375
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,4,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+43,235,20,13.0,22.0,1,1,1,0,0,106.0,167,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,-0.5000000000000004,0.8660254037844384,0.05375
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-0.5000000000000004,0.8660254037844384,0.26125
+31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,8,0,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.04125
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,2,1,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.5000000000000004,0.8660254037844384,0.14
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,32,0,0,0,1,0,1,0,0,1,0,0,1,0,0,-2.4492935982947064e-16,1.0,0.06875
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,-2.4492935982947064e-16,1.0,0.14
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,0,0,1,1,0,0,1,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.26125
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,-2.4492935982947064e-16,1.0,0.06875
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,0,0,1,1,0,0,1,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.26125
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,4,0,0,1,0,0,1,0,0,1,0,0,0,0,1,-2.4492935982947064e-16,1.0,0.02375
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.02625
+43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,0,0,0,0,0,1,0,0,1,0,0,0,1,0,-2.4492935982947064e-16,1.0,0.04125
+31,233,51,1.0,34.0,0,1,1,0,8,68.0,178,8,1,0,0,0,0,1,0,0,0,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.02625
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,16,0,0,0,1,0,1,0,0,0,0,1,0,0,0,-2.4492935982947064e-16,1.0,0.06875
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,0,1,0,1,0,0,1,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,1,0,0,1,0,0,1,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,1,0,0,0,0,1,0,0,1,0,0,0,0,0,-2.4492935982947064e-16,1.0,0.26125
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,80,0,0,0,1,0,0,0,0,1,0,0,0,0,1,-2.4492935982947064e-16,1.0,0.02625
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,80,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.26125
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,24,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0.49999999999999994,0.8660254037844387,0.01
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,16,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0.49999999999999994,0.8660254037844387,0.01
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.49999999999999994,0.8660254037844387,0.03875
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.49999999999999994,0.8660254037844387,0.03875
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,3,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0.49999999999999994,0.8660254037844387,0.06875
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.49999999999999994,0.8660254037844387,0.03875
+49,289,48,29.0,16.0,0,0,0,0,2,108.0,172,8,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0.49999999999999994,0.8660254037844387,0.03125
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.49999999999999994,0.8660254037844387,0.02625
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0.49999999999999994,0.8660254037844387,0.08625
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,8,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0.49999999999999994,0.8660254037844387,0.02625
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.49999999999999994,0.8660254037844387,0.08625
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0,6.123233995736766e-17,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0.49999999999999994,0.8660254037844387,0.08625
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0.49999999999999994,0.8660254037844387,0.06875
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0.49999999999999994,0.8660254037844387,0.08625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.49999999999999994,0.8660254037844387,0.08625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.06875
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.26125
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,8,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.02
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.14
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0.8660254037844386,0.5000000000000001,0.08625
+28,225,15,15.0,24.0,0,2,1,0,2,94.0,182,2,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0.8660254037844386,0.5000000000000001,0.14
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+31,233,51,1.0,34.0,0,1,1,0,8,68.0,178,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.05
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.01875
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.03875
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0.8660254037844386,0.5000000000000001,0.06875
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+31,233,51,1.0,34.0,0,1,1,0,8,68.0,178,3,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.01
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.8660254037844386,0.5000000000000001,0.08625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.06875
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,5,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0.8660254037844386,0.5000000000000001,0.03875
+32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,3,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0.8660254037844386,0.5000000000000001,0.03875
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.01875
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,2,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0.8660254037844386,0.5000000000000001,0.03875
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0.8660254037844386,0.5000000000000001,0.08625
+32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,2,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0.8660254037844386,0.5000000000000001,0.03875
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.08625
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,2,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.03875
+58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,3,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,3,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.03875
+58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,112,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.01
+58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,112,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.08625
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.08625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,1,0,0,0,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.08625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.03875
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1.0,6.123233995736766e-17,0.08625
+32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,3,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1.0,6.123233995736766e-17,0.03875
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.05
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,8,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.06875
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.08625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,1,0,0,0,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.08625
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1.0,6.123233995736766e-17,0.08625
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0,6.123233995736766e-17,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,4,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.03125
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,2,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.06875
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.08625
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.01875
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.08625
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,0,0,0,0,1,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.03875
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,2,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.08625
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,3,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,1,0,0,0,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.08625
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1.0,6.123233995736766e-17,0.26125
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.08625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,1,0,0,0,1,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.08625
+46,118,15,24.0,19.0,0,2,1,1,0,75.0,175,8,0,0,0,0,1,0,0,1,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.26125
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,24,0,0,0,0,1,0,0,1,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.06875
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,0,0,1,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.08625
+38,179,51,18.0,27.0,0,0,1,0,0,89.0,170,3,0,0,1,0,0,0,0,1,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.08625
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1.0,6.123233995736766e-17,0.06875
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,104,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.05
+31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,8,0,0,0,0,1,0,0,1,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.0475
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0.8660254037844387,-0.4999999999999998,0.06875
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0.8660254037844387,-0.4999999999999998,0.03125
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0.8660254037844387,-0.4999999999999998,0.05
+47,248,25,14.0,18.0,0,2,0,0,1,86.0,165,8,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0.8660254037844387,-0.4999999999999998,0.05
+33,189,29,13.0,32.0,0,2,0,0,2,69.0,167,8,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0.8660254037844387,-0.4999999999999998,0.06875
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0.8660254037844387,-0.4999999999999998,0.08625
+31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,24,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0.8660254037844387,-0.4999999999999998,0.01875
+31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,24,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.26125
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0.8660254037844387,-0.4999999999999998,0.00375
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,3,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0.8660254037844387,-0.4999999999999998,0.26125
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,2,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0.8660254037844387,-0.4999999999999998,0.26125
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0.8660254037844387,-0.4999999999999998,0.03125
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,8,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0.8660254037844387,-0.4999999999999998,0.0475
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0.8660254037844387,-0.4999999999999998,0.08625
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0.8660254037844387,-0.4999999999999998,0.05
+32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,3,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0.8660254037844387,-0.4999999999999998,0.00375
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0.8660254037844387,-0.4999999999999998,0.08625
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,4,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0.8660254037844387,-0.4999999999999998,0.14
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,4,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.26125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0.8660254037844387,-0.4999999999999998,0.05
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,2,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0.8660254037844387,-0.4999999999999998,0.02375
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0.8660254037844387,-0.4999999999999998,0.08625
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,8,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0.49999999999999994,-0.8660254037844387,0.0475
+28,225,15,15.0,24.0,0,2,1,0,2,94.0,182,3,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.05
+32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,2,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0.49999999999999994,-0.8660254037844387,0.14
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.0075
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.26125
+43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,8,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0.49999999999999994,-0.8660254037844387,0.04125
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0.49999999999999994,-0.8660254037844387,0.06875
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,2,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.14
+28,225,15,15.0,24.0,0,2,1,0,2,94.0,182,8,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.02375
+43,300,26,13.0,22.0,0,2,1,1,1,77.0,175,64,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.05
+28,225,15,15.0,24.0,0,2,1,0,2,94.0,182,8,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.0475
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0.49999999999999994,-0.8660254037844387,0.08625
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,2,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0.49999999999999994,-0.8660254037844387,0.26125
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,3,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0.49999999999999994,-0.8660254037844387,0.00375
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,1,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.14
+50,118,13,18.0,15.0,1,1,1,0,0,98.0,178,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0.49999999999999994,-0.8660254037844387,0.05375
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0.49999999999999994,-0.8660254037844387,0.08625
+36,378,49,11.0,29.0,1,2,0,1,4,65.0,174,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0.49999999999999994,-0.8660254037844387,0.05375
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.49999999999999994,-0.8660254037844387,0.00375
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,48,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.03125
+32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,8,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0.49999999999999994,-0.8660254037844387,0.03125
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,8,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.0475
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,8,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0.49999999999999994,-0.8660254037844387,0.03125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0.49999999999999994,-0.8660254037844387,0.01
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,3,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+28,330,16,4.0,37.0,0,0,0,0,0,84.0,182,8,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.03125
+32,235,16,8.0,33.0,0,0,0,0,0,75.0,178,2,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0.49999999999999994,-0.8660254037844387,0.26125
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,2,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.14
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0.49999999999999994,-0.8660254037844387,0.08625
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0,6.123233995736766e-17,0.26125
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.01875
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,2,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.26125
+40,179,22,17.0,25.0,0,2,0,1,0,63.0,170,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.49999999999999994,-0.8660254037844387,0.03875
+34,155,12,14.0,31.0,0,2,1,0,0,95.0,196,8,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0.49999999999999994,-0.8660254037844387,0.03125
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0.49999999999999994,-0.8660254037844387,0.0325
+46,118,15,24.0,19.0,0,2,1,1,0,75.0,175,8,0,0,0,0,1,0,0,1,1,0,0,0,0,1,1.2246467991473532e-16,-1.0,0.01875
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,3,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1.2246467991473532e-16,-1.0,0.08625
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1.2246467991473532e-16,-1.0,0.04125
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,8,0,0,0,0,1,0,0,1,1,0,0,0,0,1,1.2246467991473532e-16,-1.0,0.03125
+36,378,49,11.0,29.0,0,2,0,1,4,65.0,174,8,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1.2246467991473532e-16,-1.0,0.0475
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,24,0,0,1,0,0,0,0,1,1,0,0,1,0,0,1.2246467991473532e-16,-1.0,0.05
+31,233,51,1.0,34.0,0,1,1,0,8,68.0,178,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1.2246467991473532e-16,-1.0,0.05
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1.2246467991473532e-16,-1.0,0.08625
+48,235,29,12.0,17.0,1,1,0,1,5,88.0,163,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1.2246467991473532e-16,-1.0,0.05375
+33,268,11,8.0,32.0,1,0,0,0,0,79.0,178,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1.2246467991473532e-16,-1.0,0.05375
+50,118,13,18.0,15.0,0,1,1,0,0,98.0,178,3,0,0,1,0,0,0,0,1,1,0,0,1,0,0,1.2246467991473532e-16,-1.0,0.05
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,2,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1.2246467991473532e-16,-1.0,0.06875
+40,291,31,12.0,25.0,0,1,1,0,1,73.0,171,2,0,0,1,0,0,0,0,1,1,0,0,0,0,1,1.2246467991473532e-16,-1.0,0.14
+30,179,26,9.0,35.0,0,0,0,0,0,56.0,171,3,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1.2246467991473532e-16,-1.0,0.06875
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,1,0,0,0,0,0,1,0,1,0,0,0,0,1,1.2246467991473532e-16,-1.0,0.03875
+31,233,51,1.0,34.0,0,1,1,0,8,68.0,178,8,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1.2246467991473532e-16,-1.0,0.0475
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1.2246467991473532e-16,-1.0,0.0075
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,3,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1.2246467991473532e-16,-1.0,0.03125
+31,233,51,1.0,34.0,0,1,1,0,8,68.0,178,3,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1.2246467991473532e-16,-1.0,0.0475
+43,235,20,13.0,22.0,0,1,1,0,0,106.0,167,4,0,0,0,0,1,0,1,0,1,0,0,0,1,0,-0.4999999999999997,-0.8660254037844388,0.04125
+31,233,51,1.0,34.0,0,1,1,0,8,68.0,178,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.05
+31,233,51,1.0,34.0,0,1,1,0,8,68.0,178,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1.0,6.123233995736766e-17,0.26125
+58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,8,1,0,0,0,0,0,1,0,1,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.01
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,4,1,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.14
+58,228,14,16.0,7.0,0,2,0,0,1,65.0,172,120,0,0,0,1,0,0,1,0,1,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.01
+33,189,29,13.0,32.0,0,2,0,0,2,69.0,167,16,0,0,0,1,0,0,1,0,1,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.0475
+37,118,10,10.0,28.0,0,0,0,0,0,83.0,172,2,0,0,0,0,1,0,1,0,1,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.26125
+28,361,52,3.0,37.0,0,1,1,0,4,80.0,172,8,0,0,0,0,1,0,1,0,1,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.0475
+28,225,26,9.0,37.0,0,1,0,0,2,69.0,169,8,0,1,0,0,0,0,1,0,1,0,0,0,0,0,-0.4999999999999997,-0.8660254037844388,0.0475
+31,369,17,12.0,34.0,0,3,1,0,0,70.0,169,80,1,0,0,0,0,1,0,0,1,0,0,0,0,1,-0.4999999999999997,-0.8660254037844388,0.06875
+33,289,36,13.0,32.0,0,2,1,0,1,90.0,172,8,0,0,0,1,0,0,1,0,1,0,0,1,0,0,-0.4999999999999997,-0.8660254037844388,0.02375
+37,235,11,14.0,28.0,0,1,0,0,1,88.0,172,4,0,0,0,1,0,0,1,0,0,0,1,0,0,1,-0.4999999999999997,-0.8660254037844388,0.0325
+40,118,14,13.0,25.0,0,1,1,0,8,98.0,170,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,1.0,6.123233995736766e-17,0.05375
+39,231,35,14.0,26.0,0,2,1,0,2,100.0,170,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,1.0,6.123233995736766e-17,0.05375
+53,179,45,14.0,27.0,0,1,0,0,1,77.0,175,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1.0,6.123233995736766e-17,0.05375
