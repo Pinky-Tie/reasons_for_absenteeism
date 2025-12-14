@@ -10,4 +10,6 @@ umap-learn
 ipython
 jupyter
 ipykernel
+mlxtend
+
 
