@@ -4,4 +4,10 @@ matplotlib
 seaborn
 plotly
 scikit-learn
+scipy
+tqdm
+umap-learn
 ipython
+jupyter
+ipykernel
+
