@@ -145,11 +145,17 @@ def pp_pipeline(
         df = df.replace(-1, np.nan)
         # Replace dashes in specific columns with NaN
         cols_with_dash, rows_with_dash, mask_dash = secret_missing_values(df)
-        existing_cols = [c for c in cols_with_dash if c in df.columns]
+        existing_cols  = cols_with_dash.index.tolist()
         #count number of dashes before replacement
+        dash_tokens = ['-', '--', '-', '—']
+
         num_dashes = mask_dash.sum().sum()
-        df[existing_cols] = df[existing_cols].apply(
-            lambda col: col.astype(str).str.strip().replace('-', np.nan)
+
+        df[existing_cols] = (
+            df[existing_cols]
+            .apply(lambda s: s.astype(str).str.strip())
+            .replace(dash_tokens, np.nan)
+            .apply(pd.to_numeric, errors="coerce")
         )
         print(f"Step 3.1: Replaced {num_neg_ones} occurrences of -1 with NaN.")
         print(f"Step 3.1: Replaced {num_dashes} occurrences of '-' with NaN.")
