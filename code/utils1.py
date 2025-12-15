@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 
 #display and visualization
+import plotly.express as px
 from IPython.display import display
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -16,6 +17,8 @@ import matplotlib.pyplot as plt
 from pylab import rcParams
 from sklearn.impute import KNNImputer
 from sklearn.impute import SimpleImputer
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 #warning handling
 import warnings
 warnings.filterwarnings("ignore", category=FutureWarning)
@@ -872,43 +875,120 @@ def visualize_outliers_vs_normal(data, outliers, feature1, feature2):
     plt.show()
 
 
-def plot_hist_and_box(df, bins=20, figsize=(10, 4), color='skyblue', alpha=0.7):
+def plot_hist_and_box(df, bins=20, color="skyblue", opacity=0.7):
     """
-    Plots a histogram and a boxplot side by side for each numeric column in a DataFrame.
+    Plots an interactive histogram and boxplot side by side for each numeric column
+    in a DataFrame using Plotly.
     """
-    num_df = df.select_dtypes(include='number')
+    num_df = df.select_dtypes(include="number")
+
     if num_df.empty:
         print("No numeric columns found.")
         return
 
     for col in num_df.columns:
-        fig, axes = plt.subplots(1, 2, figsize=figsize)
+        data = num_df[col].dropna()
+
+        fig = make_subplots(
+            rows=1,
+            cols=2,
+            subplot_titles=[
+                f"Histogram of {col}",
+                f"Boxplot of {col}"
+            ]
+        )
 
         # Histogram
-        axes[0].hist(df[col].dropna(), bins=bins, color=color, alpha=alpha)
-        axes[0].set_title(f'Histogram of {col}')
-        axes[0].set_xlabel(col)
-        axes[0].set_ylabel('Frequency')
-        axes[0].grid(False)
+        fig.add_trace(
+            go.Histogram(
+                x=data,
+                nbinsx=bins,
+                marker_color=color,
+                opacity=opacity,
+                name="Histogram"
+            ),
+            row=1,
+            col=1
+        )
 
         # Boxplot
-        axes[1].boxplot(df[col].dropna(), vert=True, patch_artist=True,
-                        boxprops=dict(facecolor=color, color=color),
-                        medianprops=dict(color='black'))
-        axes[1].set_title(f'Boxplot of {col}')
-        axes[1].set_ylabel(col)
-        axes[1].grid(False)
+        fig.add_trace(
+            go.Box(
+                y=data,
+                marker_color=color,
+                boxmean="sd",
+                name="Boxplot"
+            ),
+            row=1,
+            col=2
+        )
 
-        plt.tight_layout()
-        plt.show()
+        fig.update_layout(
+            title_text=f"Distribution of {col}",
+            showlegend=False,
+            template="plotly_white",
+            height=400,
+            width=900
+        )
+
+        fig.show()
+
+PLOT_BLUE = "#6EC1E4"
+
 
 def plot_categorical_barcharts(df, top_n=None):
-    """Plot bar charts for all categorical columns."""
-    cat_cols = df.select_dtypes(exclude='number').columns
+    """
+    Plots interactive bar charts for all categorical columns using a consistent color.
+    """
+    cat_cols = df.select_dtypes(exclude="number").columns
+
+    if len(cat_cols) == 0:
+        print("No categorical columns found.")
+        return
+
     for col in cat_cols:
-        counts = df[col].value_counts().head(top_n) if top_n else df[col].value_counts()
-        counts.plot(kind='bar', color='skyblue')
-        plt.title(col)
-        plt.ylabel('Count')
-        plt.grid(False)
-        plt.show()
+        counts = df[col].value_counts()
+        if top_n:
+            counts = counts.head(top_n)
+
+        fig = px.bar(
+            x=counts.index.astype(str),
+            y=counts.values,
+            labels={"x": col, "y": "Count"},
+            title=f"Distribution of {col}",
+            template="plotly_white"
+        )
+
+        fig.update_traces(marker_color=PLOT_BLUE)
+
+        fig.update_layout(
+            height=400,
+            width=900,
+            showlegend=False
+        )
+
+        fig.show()
+
+def corr_heatmap(correlation: pd.DataFrame) -> None:
+    """
+    Plot a (masked) Spearman's correlation heatmap.
+
+    Only the lower triangle is shown to avoid redundant information.
+
+    Parameters
+    ----------
+    correlation:
+        A square correlation matrix (e.g., from ``df.corr(method="spearman")``).
+    """
+    plt.figure(figsize=(20, 6))
+    mask = np.triu(np.ones_like(correlation, dtype=bool))
+
+    ax = sns.heatmap(
+        data=correlation,
+        annot=True,
+        mask=mask,
+        cmap="Blues",
+        fmt=".2f",
+    )
+    ax.set_title("Spearman's Correlation Heatmap", fontsize=15)
+    plt.show()
