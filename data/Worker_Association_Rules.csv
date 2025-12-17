@@ -1,10 +1,10 @@
 Final_Cluster,Age_group,Absence_level,Commute_distance,Pets_group,Social drinker,Social smoker,Education_High School,Education_Master’s or PhD,Education_Postgraduate,bmi_category_Overweight,bmi_category_Obesity Class I,bmi_category_Obesity Class II,Seasons_Summer,Seasons_Winter
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,False,True,False,True,False
 Veteran Reliable Workforce,Senior,Low,Short,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
 Mid-Age Stable Employees,Mid-Age,Low,Short,No pets,1,1,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,False,True,False,True,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
 Pet Lovers Employees,Young,Moderate,Long,Many pets,1,0,True,False,False,True,False,False,True,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,True,False
 Physically Strained Operational Staff,Mid-Age,High,Short,No pets,1,0,True,False,False,True,False,False,True,False
@@ -14,16 +14,16 @@ Mid-Age Stable Employees,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,Fals
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,False,False,True,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,False,False,True,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Senior,Moderate,Medium,No pets,1,0,True,False,False,False,False,False,True,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,True,False
 Healthy Young Reliable Employees,Mid-Age,Moderate,Medium,Few pets,0,0,True,False,False,True,False,False,True,False
 Mid-Age Stable Employees,Senior,Low,Medium,Few pets,0,0,True,False,False,False,True,False,True,False
 Early-Career Unstable Workers,Young,Moderate,Medium,No pets,0,0,False,False,False,True,False,False,True,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
 Socially Driven High-Absence Group,Young,High,Long,Many pets,1,0,True,False,False,True,False,False,True,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,True,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,False,True,False,False,False
@@ -32,12 +32,12 @@ Pet Lovers Employees,Young,Moderate,Long,Many pets,1,0,True,False,False,True,Fal
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,False,True,False,True,False
 Early-Career Unstable Workers,Young,Low,Medium,No pets,1,1,True,False,False,False,False,False,True,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Senior,Moderate,Medium,Many pets,0,1,True,False,False,False,True,False,True,False
 Mid-Age Stable Employees,Mid-Age,Low,Short,Few pets,0,0,False,False,True,True,False,False,True,False
 Mid-Age Stable Employees,Senior,Moderate,Medium,Many pets,0,1,True,False,False,False,True,False,True,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
 Pet Lovers Employees,Young,Low,Long,Many pets,1,0,True,False,False,True,False,False,True,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,False,True,False,True,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,True,False
@@ -45,12 +45,12 @@ Mid-Age Stable Employees,Senior,Moderate,Medium,Many pets,0,1,True,False,False,F
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,True,False
 Young Low-Burden Performers,Young,Low,Long,No pets,0,0,True,False,False,False,False,False,True,False
 Young Low-Burden Performers,Mid-Age,Low,Short,No pets,0,0,True,False,False,True,False,False,True,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
 Mid-Age Stable Employees,Senior,Moderate,Medium,No pets,1,0,True,False,False,False,False,True,False,False
 Physically Strained Operational Staff,Mid-Age,Low,Short,No pets,1,0,True,False,False,True,False,False,True,False
 Physically Strained Operational Staff,Mid-Age,Low,Short,No pets,1,0,True,False,False,True,False,False,False,False
 Young Low-Burden Performers,Mid-Age,Low,Short,No pets,0,0,True,False,False,True,False,False,True,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,True,False,False,True,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,False,False,True,False
 Socially Driven High-Absence Group,Mid-Age,High,Long,Few pets,1,0,True,False,False,True,False,False,False,False
@@ -61,23 +61,23 @@ Young Low-Burden Performers,Mid-Age,Low,Short,No pets,0,0,True,False,False,True,
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,False,True,False,False,False
 Veteran Reliable Workforce,Senior,Low,Short,No pets,1,0,True,False,False,False,True,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Medium,No pets,1,0,True,False,False,True,False,False,False,False
 Mid-Age Stable Employees,Senior,Low,Medium,Few pets,0,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Young Low-Burden Performers,Mid-Age,Low,Short,No pets,0,0,True,False,False,True,False,False,False,False
 Veteran Reliable Workforce,Senior,Low,Short,No pets,1,0,True,False,False,False,True,False,False,False
 Young Low-Burden Performers,Young,Low,Medium,No pets,0,0,False,False,True,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
 Young Low-Burden Performers,Mid-Age,Low,Short,No pets,0,0,True,False,False,True,False,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Senior,Low,Medium,Few pets,0,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,True,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,False,False,False,False
 Socially Driven High-Absence Group,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,False,False,False,False
@@ -87,9 +87,9 @@ Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,False,True,False,False,False
 Pet Lovers Employees,Young,Low,Long,Many pets,1,0,True,False,False,True,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Medium,No pets,0,1,False,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,True,False,False,False,False
 Physically Strained Operational Staff,Mid-Age,High,Short,No pets,1,0,True,False,False,True,False,False,False,False
@@ -149,7 +149,7 @@ Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,False,True,False,False,False
 Young Low-Burden Performers,Young,Low,Long,No pets,0,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Senior,Moderate,Medium,No pets,1,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Physically Strained Operational Staff,Mid-Age,Low,Short,No pets,1,0,True,False,False,True,False,False,False,False
 Healthy Young Reliable Employees,Mid-Age,Moderate,Medium,Few pets,0,0,True,False,False,True,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,False,False
@@ -192,7 +192,7 @@ Healthy Young Reliable Employees,Young,Moderate,Medium,Few pets,0,0,True,False,F
 Young Low-Burden Performers,Young,Low,Medium,No pets,0,0,False,False,True,False,False,False,False,False
 Healthy Young Reliable Employees,Young,Moderate,Medium,Few pets,0,0,True,False,False,False,False,False,False,True
 Healthy Young Reliable Employees,Young,Moderate,Medium,Few pets,0,0,True,False,False,False,False,False,False,True
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Socially Driven High-Absence Group,Mid-Age,Moderate,Short,No pets,1,1,True,False,False,False,False,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,True
 Mid-Age Stable Employees,Senior,Low,Medium,Few pets,0,0,True,False,False,False,True,False,False,True
@@ -221,17 +221,17 @@ Mid-Age Stable Employees,Senior,Low,Medium,Many pets,0,1,True,False,False,False,
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,False,True,False,False,True
 Physically Strained Operational Staff,Mid-Age,Low,Short,No pets,1,0,True,False,False,True,False,False,False,True
 Physically Strained Operational Staff,Mid-Age,Low,Short,No pets,1,0,True,False,False,True,False,False,False,True
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,True
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,True
 Healthy Young Reliable Employees,Young,Moderate,Medium,Few pets,0,0,True,False,False,False,False,False,False,True
 Young Low-Burden Performers,Young,Low,Long,No pets,0,0,True,False,False,False,False,False,False,True
 Physically Strained Operational Staff,Mid-Age,Low,Short,No pets,1,0,True,False,False,True,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
 Socially Driven High-Absence Group,Mid-Age,High,Long,Few pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Short,No pets,1,1,True,False,False,False,False,False,False,True
 Early-Career Unstable Workers,Young,Low,Medium,No pets,0,0,False,False,False,True,False,False,False,True
 Pet Lovers Employees,Mid-Age,Low,Long,Many pets,0,1,True,False,False,False,False,False,False,True
 Mid-Age Stable Employees,Senior,Low,Short,No pets,0,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
 Veteran Reliable Workforce,Senior,High,Short,No pets,1,0,True,False,False,False,True,False,False,True
 Pet Lovers Employees,Young,Moderate,Long,Many pets,1,0,True,False,False,True,False,False,False,True
 Mid-Age Stable Employees,Senior,Moderate,Medium,No pets,1,0,True,False,False,False,False,False,False,True
@@ -239,7 +239,7 @@ Pet Lovers Employees,Young,Moderate,Long,Many pets,1,0,True,False,False,True,Fal
 Socially Driven High-Absence Group,Senior,High,Medium,No pets,1,0,True,False,False,False,False,False,False,True
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,True,False,False,False,False
 Mid-Age Stable Employees,Senior,Moderate,Medium,No pets,1,0,True,False,False,False,False,False,False,True
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,True
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,True
 Physically Strained Operational Staff,Mid-Age,Low,Short,No pets,1,0,True,False,False,True,False,False,False,True
 Mid-Age Stable Employees,Senior,Moderate,Medium,No pets,1,0,True,False,False,False,False,False,False,False
 Veteran Reliable Workforce,Senior,Moderate,Short,No pets,1,0,True,False,False,False,True,False,False,True
@@ -248,8 +248,8 @@ Veteran Reliable Workforce,Senior,Low,Short,No pets,1,0,True,False,False,False,T
 Employees with Chronic Absenteeism,Senior,High,Short,No pets,1,0,True,False,False,False,True,False,False,True
 Employees with Chronic Absenteeism,Senior,High,Short,No pets,1,0,True,False,False,False,True,False,False,False
 Pet Lovers Employees,Mid-Age,Moderate,Long,Many pets,0,1,True,False,False,False,False,False,False,True
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Senior,Low,Long,Few pets,0,0,True,False,False,False,False,True,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
 Physically Strained Operational Staff,Mid-Age,Moderate,Short,No pets,1,0,True,False,False,True,False,False,True,False
@@ -264,7 +264,7 @@ Early-Career Unstable Workers,Young,Moderate,Medium,No pets,0,0,False,False,Fals
 Early-Career Unstable Workers,Young,Low,Medium,No pets,1,1,True,False,False,False,False,False,False,False
 Pet Lovers Employees,Young,Moderate,Long,Many pets,1,0,True,False,False,True,False,False,True,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,True,False
 Socially Driven High-Absence Group,Mid-Age,High,Long,Few pets,1,0,True,False,False,False,True,False,True,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,False,True,False,True,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,True,False
@@ -288,8 +288,8 @@ Veteran Reliable Workforce,Senior,Low,Short,No pets,1,0,True,False,False,False,T
 Mid-Age Stable Employees,Mid-Age,Moderate,Short,Few pets,0,0,False,False,True,True,False,False,True,False
 Pet Lovers Employees,Young,Moderate,Long,Many pets,1,0,True,False,False,True,False,False,False,False
 Young Low-Burden Performers,Young,Moderate,Long,No pets,0,0,True,False,False,False,False,False,True,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,True,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
 Socially Driven High-Absence Group,Mid-Age,High,Long,Few pets,1,0,True,False,False,False,True,False,True,False
 Socially Driven High-Absence Group,Mid-Age,High,Long,Few pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Senior,Low,Medium,No pets,1,0,True,False,False,False,False,True,True,False
@@ -298,10 +298,10 @@ Socially Driven High-Absence Group,Senior,Moderate,Medium,No pets,1,0,True,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,True,False,False,True,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,False,False,True,True,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,True,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,True,False
 Socially Driven High-Absence Group,Senior,High,Medium,No pets,1,0,True,False,False,False,False,False,False,False
 Socially Driven High-Absence Group,Senior,High,Medium,No pets,1,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,True,False,False,True,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Senior,Moderate,Medium,No pets,1,0,True,False,False,False,False,True,False,False
@@ -310,7 +310,7 @@ Veteran Reliable Workforce,Senior,Low,Short,No pets,1,0,True,False,False,False,T
 Mid-Age Stable Employees,Senior,Low,Medium,No pets,1,0,True,False,False,False,False,True,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,True,False,False,False,False
 Socially Driven High-Absence Group,Mid-Age,High,Long,Few pets,1,0,True,False,False,True,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Short,Few pets,0,0,False,False,True,True,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,False,True,False,False,False
@@ -320,7 +320,7 @@ Mid-Age Stable Employees,Senior,Low,Medium,Few pets,0,0,True,False,False,False,T
 Young Low-Burden Performers,Young,Moderate,Medium,No pets,0,0,False,False,True,False,False,False,False,False
 Young Low-Burden Performers,Mid-Age,Low,Short,No pets,0,0,True,False,False,True,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Medium,No pets,1,0,True,False,False,True,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Employees with Chronic Absenteeism,Young,High,Medium,No pets,0,0,False,False,True,False,False,False,False,False
 Mid-Age Stable Employees,Senior,Low,Medium,No pets,1,0,True,False,False,False,False,True,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,False,True,False,False,False
@@ -341,7 +341,7 @@ Young Low-Burden Performers,Young,Moderate,Medium,No pets,0,0,False,False,True,F
 Veteran Reliable Workforce,Senior,Low,Short,No pets,1,0,True,False,False,False,True,False,False,False
 Young Low-Burden Performers,Mid-Age,Moderate,Short,No pets,0,0,True,False,False,True,False,False,False,False
 Mid-Age Stable Employees,Senior,Low,Medium,Few pets,0,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,True,False,False,False,False
@@ -352,36 +352,36 @@ Early-Career Unstable Workers,Young,Low,Medium,No pets,0,0,False,False,False,Tru
 Mid-Age Stable Employees,Mid-Age,Low,Short,Few pets,0,0,False,False,True,True,False,False,False,False
 Young Low-Burden Performers,Mid-Age,Low,Short,No pets,0,0,True,False,False,True,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Short,Few pets,0,0,False,False,True,True,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Senior,Moderate,Medium,No pets,1,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,True,False,False,False,False
 Mid-Age Stable Employees,Senior,Moderate,Medium,No pets,1,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,False,False,False,False
 Pet Lovers Employees,Mid-Age,Low,Long,Many pets,0,1,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Short,No pets,1,1,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Short,Few pets,0,0,False,False,True,True,False,False,False,False
 Veteran Reliable Workforce,Senior,Low,Short,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Senior,Moderate,Medium,No pets,1,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Young Low-Burden Performers,Young,Low,Medium,No pets,0,0,False,False,True,False,False,False,False,False
 Young Low-Burden Performers,Mid-Age,Moderate,Short,No pets,0,0,True,False,False,True,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Short,Few pets,0,0,False,False,True,True,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Senior,Moderate,Medium,No pets,1,0,True,False,False,False,False,True,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Short,Few pets,0,0,False,False,True,True,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,False,False,False,False
 Early-Career Unstable Workers,Young,Low,Medium,No pets,1,1,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,False,True,False,False,False
 Healthy Young Reliable Employees,Young,Moderate,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
 Socially Driven High-Absence Group,Mid-Age,High,Short,No pets,0,0,True,False,False,True,False,False,False,False
@@ -393,34 +393,34 @@ Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,Fal
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,True,False,False,False,False
 Mid-Age Stable Employees,Senior,Moderate,Medium,No pets,1,0,True,False,False,False,False,True,False,False
 Veteran Reliable Workforce,Senior,Low,Short,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Young Low-Burden Performers,Mid-Age,Low,Short,No pets,0,0,True,False,False,True,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Senior,Moderate,Medium,No pets,1,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Healthy Young Reliable Employees,Mid-Age,Moderate,Medium,Few pets,0,0,True,False,False,True,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Senior,Low,Medium,No pets,1,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,True,False,False,False,False
 Early-Career Unstable Workers,Young,Moderate,Medium,No pets,1,1,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Socially Driven High-Absence Group,Senior,High,Medium,No pets,1,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Young Low-Burden Performers,Mid-Age,Moderate,Short,No pets,0,0,True,False,False,True,False,False,False,False
 Socially Driven High-Absence Group,Senior,Moderate,Medium,No pets,1,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Senior,Low,Medium,No pets,1,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Short,Few pets,0,0,False,False,True,True,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Medium,No pets,0,1,False,False,False,False,False,False,False,False
 Pet Lovers Employees,Mid-Age,Moderate,Long,Many pets,0,1,True,False,False,False,False,False,False,False
@@ -435,11 +435,11 @@ Veteran Reliable Workforce,Senior,Moderate,Short,No pets,1,0,True,False,False,Fa
 Mid-Age Stable Employees,Mid-Age,Low,Short,Few pets,0,0,False,False,True,True,False,False,False,True
 Mid-Age Stable Employees,Senior,Low,Medium,No pets,1,0,True,False,False,False,False,False,False,False
 Veteran Reliable Workforce,Senior,Low,Short,No pets,1,0,True,False,False,False,True,False,False,True
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,True
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,True
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,False,True,False,False,True
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Senior,Low,Medium,No pets,1,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,False,False
 Early-Career Unstable Workers,Young,Low,Medium,No pets,0,0,False,False,False,True,False,False,False,True
@@ -447,18 +447,18 @@ Mid-Age Stable Employees,Mid-Age,Low,Medium,No pets,1,0,True,False,False,True,Fa
 Mid-Age Stable Employees,Senior,Low,Medium,Few pets,0,0,True,False,False,False,True,False,False,True
 Mid-Age Stable Employees,Senior,Low,Medium,Few pets,0,0,True,False,False,False,True,False,False,False
 Early-Career Unstable Workers,Young,Moderate,Medium,No pets,0,0,False,False,False,True,False,False,False,True
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,True
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,True
 Veteran Reliable Workforce,Senior,Low,Short,No pets,1,0,True,False,False,False,True,False,False,True
 Employees with Chronic Absenteeism,Senior,High,Short,No pets,1,0,True,False,False,False,True,False,False,True
 Mid-Age Stable Employees,Senior,Moderate,Medium,Few pets,1,1,True,False,False,True,False,False,False,True
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,False,True
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
 Young Low-Burden Performers,Mid-Age,Low,Short,No pets,0,0,True,False,False,True,False,False,False,True
 Mid-Age Stable Employees,Senior,Moderate,Medium,No pets,1,0,True,False,False,False,False,True,False,True
 Mid-Age Stable Employees,Senior,Low,Medium,Few pets,0,0,True,False,False,False,True,False,False,True
 Mid-Age Stable Employees,Mid-Age,Moderate,Medium,No pets,1,0,True,False,False,True,False,False,False,False
 Young Low-Burden Performers,Young,Low,Medium,No pets,0,0,False,False,True,False,False,False,False,True
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
 Pet Lovers Employees,Young,Low,Long,Many pets,1,0,True,False,False,True,False,False,False,True
 Pet Lovers Employees,Young,Low,Long,Many pets,1,0,True,False,False,True,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,False,True
@@ -472,21 +472,21 @@ Young Low-Burden Performers,Mid-Age,Low,Short,No pets,0,0,True,False,False,True,
 Mid-Age Stable Employees,Mid-Age,Moderate,Short,Few pets,0,0,False,False,True,True,False,False,False,True
 Young Low-Burden Performers,Young,Low,Medium,No pets,0,0,False,False,True,False,False,False,False,True
 Young Low-Burden Performers,Mid-Age,Low,Short,No pets,0,0,True,False,False,True,False,False,False,True
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
 Young Low-Burden Performers,Mid-Age,Low,Short,No pets,0,0,True,False,False,True,False,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,True
 Mid-Age Stable Employees,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,False,False,False,True
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Socially Driven High-Absence Group,Mid-Age,High,Long,Few pets,1,0,True,False,False,True,False,False,False,True
 Socially Driven High-Absence Group,Mid-Age,High,Long,No pets,1,0,True,False,False,False,True,False,False,True
 Mid-Age Stable Employees,Senior,Low,Medium,No pets,1,0,True,False,False,False,False,False,False,True
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
 Mid-Age Stable Employees,Senior,Moderate,Medium,No pets,1,0,True,False,False,False,False,True,False,True
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,True,False
 Veteran Reliable Workforce,Senior,Low,Short,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Young Low-Burden Performers,Young,Low,Medium,No pets,0,0,False,False,True,False,False,False,True,False
 Mid-Age Stable Employees,Senior,Low,Medium,No pets,1,0,True,False,False,False,False,False,True,False
 Early-Career Unstable Workers,Young,Low,Medium,No pets,0,0,False,False,False,True,False,False,False,False
@@ -504,7 +504,7 @@ Mid-Age Stable Employees,Senior,Moderate,Medium,Few pets,1,1,True,False,False,Tr
 Mid-Age Stable Employees,Senior,Low,Medium,Many pets,0,1,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Senior,Low,Medium,No pets,1,0,True,False,False,False,False,False,True,False
 Employees with Chronic Absenteeism,Young,High,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
 Veteran Reliable Workforce,Senior,Low,Short,No pets,1,0,True,False,False,False,True,False,True,False
 Pet Lovers Employees,Young,Moderate,Long,Many pets,1,0,True,False,False,True,False,False,True,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,False,True,False,True,False
@@ -512,14 +512,14 @@ Mid-Age Stable Employees,Senior,Moderate,Medium,No pets,1,0,True,False,False,Fal
 Mid-Age Stable Employees,Senior,Low,Medium,No pets,1,0,True,False,False,False,False,False,True,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,True,False,False,True,False
 Mid-Age Stable Employees,Mid-Age,Low,Short,No pets,1,1,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
 Mid-Age Stable Employees,Mid-Age,Low,Medium,No pets,0,1,False,False,False,False,False,False,True,False
 Mid-Age Stable Employees,Senior,Low,Medium,No pets,1,0,True,False,False,False,False,False,True,False
 Young Low-Burden Performers,Mid-Age,Low,Short,No pets,0,0,True,False,False,True,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,False,True,False,True,False
 Mid-Age Stable Employees,Senior,Moderate,Medium,No pets,1,0,True,False,False,False,False,True,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,True,False,False,True,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Medium,No pets,0,1,False,False,False,False,False,False,True,False
 Early-Career Unstable Workers,Young,Moderate,Medium,No pets,0,0,False,False,False,True,False,False,True,False
 Mid-Age Stable Employees,Mid-Age,Low,Short,Few pets,0,0,False,False,True,True,False,False,True,False
@@ -535,7 +535,7 @@ Physically Strained Operational Staff,Mid-Age,Low,Short,No pets,1,0,True,False,F
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,True,False,False,False,False
 Young Low-Burden Performers,Young,Moderate,Medium,No pets,0,0,False,False,True,False,False,False,False,False
 Mid-Age Stable Employees,Senior,Low,Medium,Few pets,0,0,True,False,False,False,True,False,True,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,True,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,True,False
 Young Low-Burden Performers,Young,Low,Medium,No pets,0,0,False,False,True,False,False,False,True,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Medium,No pets,1,0,True,False,False,True,False,False,False,False
@@ -555,7 +555,7 @@ Mid-Age Stable Employees,Mid-Age,Low,Medium,No pets,1,0,True,False,False,True,Fa
 Mid-Age Stable Employees,Mid-Age,Low,Medium,No pets,1,0,True,False,False,True,False,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Medium,No pets,1,0,True,False,False,True,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Veteran,Low,Short,Few pets,0,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,True,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Medium,No pets,1,0,True,False,False,True,False,False,False,False
@@ -568,10 +568,10 @@ Early-Career Unstable Workers,Mid-Age,Moderate,Medium,No pets,0,0,False,False,Tr
 Mid-Age Stable Employees,Senior,Moderate,Medium,Few pets,0,0,True,False,False,False,True,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Young Low-Burden Performers,Mid-Age,Low,Short,No pets,0,0,True,False,False,True,False,False,False,False
 Early-Career Unstable Workers,Young,High,Medium,No pets,0,0,False,False,False,True,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Young Low-Burden Performers,Mid-Age,Moderate,Short,No pets,0,0,True,False,False,True,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,False,True,False,False,False
 Early-Career Unstable Workers,Mid-Age,Moderate,Medium,No pets,0,0,False,False,True,True,False,False,False,False
@@ -581,7 +581,7 @@ Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,True,Fal
 Mid-Age Stable Employees,Mid-Age,Low,Long,Few pets,1,0,True,False,False,True,False,False,False,False
 Young Low-Burden Performers,Mid-Age,Low,Short,No pets,0,0,True,False,False,True,False,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Young Low-Burden Performers,Mid-Age,Moderate,Short,No pets,0,0,True,False,False,True,False,False,False,False
 Young Low-Burden Performers,Mid-Age,Moderate,Short,No pets,0,0,True,False,False,True,False,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
@@ -623,86 +623,86 @@ Young Low-Burden Performers,Young,Low,Medium,No pets,0,0,False,False,True,False,
 Physically Strained Operational Staff,Mid-Age,Moderate,Short,No pets,1,0,True,False,False,True,False,False,False,False
 Young Low-Burden Performers,Young,Low,Medium,No pets,0,0,False,False,True,False,False,False,False,False
 Young Low-Burden Performers,Young,Low,Medium,No pets,0,0,False,False,True,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Senior,Moderate,Medium,Few pets,0,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Young Low-Burden Performers,Young,Low,Medium,No pets,0,0,False,False,True,False,False,False,False,False
 Early-Career Unstable Workers,Young,Low,Short,Few pets,1,0,False,True,False,True,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Pet Lovers Employees,Mid-Age,Low,Long,Many pets,1,0,False,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Healthy Young Reliable Employees,Young,Moderate,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
 Young Low-Burden Performers,Young,Low,Medium,No pets,0,0,False,False,True,False,False,False,False,False
 Mid-Age Stable Employees,Mid-Age,Low,Medium,No pets,0,1,False,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Pet Lovers Employees,Mid-Age,Low,Long,Many pets,1,0,False,False,False,False,False,False,False,False
 Young Low-Burden Performers,Young,Low,Medium,No pets,0,0,False,False,True,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Physically Strained Operational Staff,Mid-Age,Moderate,Short,No pets,1,0,True,False,False,True,False,False,False,False
 Early-Career Unstable Workers,Mid-Age,Low,Medium,No pets,0,0,False,False,True,True,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Senior,Low,Medium,Few pets,0,0,True,False,False,False,True,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Early-Career Unstable Workers,Mid-Age,Low,Medium,No pets,0,0,False,False,True,True,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Senior,Low,Medium,Few pets,0,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Veteran,Low,Short,Few pets,0,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Veteran,Low,Short,Few pets,0,0,True,False,False,False,False,False,False,False
 Mid-Age Stable Employees,Senior,Low,Medium,Few pets,0,0,True,False,False,False,True,False,False,False
 Employees with Chronic Absenteeism,Veteran,High,Short,Few pets,0,0,True,False,False,False,False,False,False,False
 Employees with Chronic Absenteeism,Veteran,High,Short,Few pets,0,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Healthy Young Reliable Employees,Young,Low,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
 Young Low-Burden Performers,Young,Low,Medium,No pets,0,0,False,False,True,False,False,False,False,False
 Early-Career Unstable Workers,Mid-Age,Low,Medium,No pets,0,0,False,False,True,True,False,False,False,False
 Pet Lovers Employees,Young,Moderate,Long,Many pets,1,0,True,False,False,True,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Moderate,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Young Low-Burden Performers,Young,Low,Medium,No pets,0,0,False,False,True,False,False,False,False,False
 Young Low-Burden Performers,Young,Low,Medium,No pets,0,0,False,False,True,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Senior,Low,Medium,Few pets,0,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Healthy Young Reliable Employees,Young,Moderate,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
 Healthy Young Reliable Employees,Young,Moderate,Medium,Few pets,0,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Long,Few pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Veteran,Low,Short,Few pets,0,0,True,False,False,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Senior,Low,Medium,Few pets,0,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
 Young Low-Burden Performers,Young,Low,Medium,No pets,0,0,False,False,True,False,False,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
 Veteran Reliable Workforce,Senior,Moderate,Short,No pets,1,1,True,False,False,True,False,False,False,True
 Physically Strained Operational Staff,Mid-Age,High,Short,No pets,1,0,True,False,False,True,False,False,False,True
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
-Long-Distance Commuters with Pet Constraints,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,False
+Long-Distance Commuters,Mid-Age,Low,Long,No pets,1,0,True,False,False,False,True,False,False,True
 Young Low-Burden Performers,Young,Low,Medium,No pets,0,0,False,False,True,False,False,False,False,True
 Employees with Chronic Absenteeism,Mid-Age,High,Long,Few pets,1,0,True,False,False,False,True,False,False,False
 Mid-Age Stable Employees,Mid-Age,Moderate,Medium,No pets,1,0,True,False,False,True,False,False,False,True
